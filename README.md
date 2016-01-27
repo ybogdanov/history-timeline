@@ -61,9 +61,33 @@ First, there is a data mining pipeline — а set of Python scripts that manipul
 
 I will describe the process in more detail once there will be people who are interested to contribute.
 
-List of static web-servers one-liners:
-https://gist.github.com/willurd/5720255
+### Front-end
 
+The front-end is a simple static html/js/css project. There is no dynamic backend, the site is hosted with [Gihtub Pages](https://pages.github.com/), and you can run it locally using your [favorite static web server](https://gist.github.com/willurd/5720255).
+
+For development, I use this one:
+
+```
+ruby -run -ehttpd . -p8000
+```
+
+Other notes:
+
+* There is a single [index.html](/index.html) file that renders the main page
+* [less](http://lesscss.org/) is used to render css
+* [d3](http://d3js.org/) for data visualization
+* All javascript logic is in [public/js/main.js](/public/js/main.js)
+* The data is loaded using JSONP and is available the in `window.data` variable
+
+### Content contributions
+
+In case you notice that the important figure is missing, or birth/death dates are incorrect, you can edit the [data/sources/manual.json](/data/sources/manual.json) file to fix it and then open a pull request.
+
+### Other stuff
+
+The project uses a few data files that are too large to store in Git. I use [git-lfs](git-lfs.github.com) for larger files.
+
+If you wanted to work with data and saw something like this, it means you don't have a git-lfs plugin installed:
 ```
 $ make data
 bzip2 -dk data/sources/pantheon.json.bz2
@@ -71,7 +95,7 @@ bzip2: data/sources/pantheon.json.bz2 is not a bzip2 file.
 make: *** [data/sources/pantheon.json] Error 2
 ```
 
-If you have git-lfs installed, then the data files will be downloaded right when the repository is cloned. Otherwise there will be a text "pointers" in place of data files. To download them, you have to fetch them with git-lfs tool. In case you install git-lfs after you cloned the repository, you can use `git lfs pull` command to replace "pointers" with the actual files.
+If you have git-lfs installed, then the data files will be downloaded right when the repository is cloned. Otherwise, there will be a text "pointers" in place of data files. To download them, you have to fetch them with the git-lfs tool. In case you install git-lfs after you cloned the repository, you can use `git lfs pull` command to replace "pointers" with the actual files.
 
 ```
 $ git lfs ls-files
@@ -80,26 +104,13 @@ a7003eb432 - data/sources/pantheon.json.bz2
 097d0890e6 - data/wiki.json.bz2
 ```
 
-TODO: Pantheon, Wikipedia, data pipeline, D3
+The Wikipedia data is downloaded from here:
+[http://burnbit.com/torrent/427846/enwiki_20151201_pages_articles_xml_bz2](http://burnbit.com/torrent/427846/enwiki_20151201_pages_articles_xml_bz2)
 
-# Contribute to visualizations
-TODO
-
-# Contribute to the content
-TODO
-
-# Contribute to data mining
-TODO
-
-TODO: layouts bugs and screenshots
-
+The dump is about 52G, so most probably you will want to store it on an external hard drive. You can safely make a symlink of that large file to a project directory, `data/sources/wikipedia.xml` is gitignored.
 ```
-# Make links from source data corpus to the local directory
-ln -sf YOUR_STORAGE/people.json `pwd`/data/sources/pantheon.json
 ln -sf YOUR_STORAGE/enwiki-20151201-pages-articles.xml `pwd`/data/sources/wikipedia.xml
 ```
-
-Read Makefile to see how to get data files.
 
 # Licensed under GPLv2
 
