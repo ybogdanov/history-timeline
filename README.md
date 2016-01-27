@@ -55,8 +55,8 @@ First, there is a data mining pipeline — а set of Python scripts that manipul
 * **import-pantheon.py** transforms Pantheon data format into the internal one. It also attempts the normalization of names using the large map of redirects extracted from Wikipedia (`redirects_wiki.json`)
 * **sort.py** normalizes the list of people that are listed manually in `manual.json`
 * **union.py** combines multiple lists, in our case the data from Pantheon and the manual list of people
-* **intersect.py** maps the list of people we've got from the sources with the data we scraped from Wikipedia (curretly, we map death dates and birth dates if they are missing)
-* **final.py** does final sorting by popularity and final normalization, also has optional limiting
+* **intersect.py** maps the list of people we've got from the sources with the data we scraped from Wikipedia (currently, we map death dates and birth dates if they are missing)
+* **final.py** does final sorting by popularity and end normalization, also has optional limiting
 * **wrap_jsonp.py** prepares the data to be deliverable to the web browser safely
 
 I will describe the process in more detail once there will be people who are interested to contribute.
