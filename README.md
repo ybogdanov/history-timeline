@@ -2,11 +2,15 @@
 
 Check it out: [https://ybogdanov.github.io/history-timeline/](https://ybogdanov.github.io/history-timeline/)
 
+![History Timeline](/public/img/og-image2.jpg?raw=true)
+
 History Timeline is a visualization of the globally famous people lifetimes. It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice and see history's famous people alive at that time. However, I guess Tim Urban (the Wait But Why's author) had _too much_ fun manually drawing all of these rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
 
-What you see is an open-source MVP that illustrates what's possible with relatively small software engineering effort. It is fun to use as is, but there is a ton of ideas of how the project can be improved further. I hope to engage other people in contributing and helping to evolve the visualization and data mining aspects of the tool.
+The timeline uses the data set from [Pantheon](http://pantheon.media.mit.edu/), which is a project from the Macro Connections group at The MIT Media Lab. They provide an excellent list of 15,343 historical figures each marked with a [Historical Popularity Index (HPI)](http://pantheon.media.mit.edu/methods) that help us to show the most famous people at the top of the timeline. To get the death dates of the people, I scrape the Wikipedia offline dump.
 
-What you can help with:
+What you see is an open-source MVP that illustrates what's possible with relatively small software engineering effort. It is fun to use as is, but there is a ton of ideas of how the project can be improved further. I will gradually commit to the project, proportionally to the interest of the community. 
+
+I hope to engage other people in contributing and helping to evolve the visualization and data mining aspects of the tool. Here's what you can help with:
 
 1. **Visualizations.** Having the data already provided to the browser, we can improve the way it is displayed.
 2. **Data mining**. There is a common data mining pipeline setup, adding new sources was taken into account. The quality of the existing sources scraping can be also improved.
