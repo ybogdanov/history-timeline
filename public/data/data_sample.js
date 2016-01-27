@@ -1,0 +1,81 @@
+dataReady({
+  people: [
+    {
+      name: "Barack Obama",
+      from: 1961,
+      to: null,
+      type: "politics",
+      link: "https://en.wikipedia.org/wiki/Barack_Obama",
+    },
+    {
+      name: "Albert Einstein Albert Einstein Albert Einstein",
+      from: 1879,
+      to: 1955,
+      type: "science",
+      link: "https://en.wikipedia.org/wiki/Albert_Einstein",
+    },
+    {
+      name: "Abraham Lincoln",
+      from: 1809,
+      to: 1865,
+      type: "politics",
+      link: "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    },
+    {
+      name: "George Washington",
+      from: 1732,
+      to: 1799,
+      type: "politics",
+      link: "https://en.wikipedia.org/wiki/George_Washington",
+    },
+    {
+      name: "Angela Merkel",
+      from: 1954,
+      to: null,
+      type: "politics",
+      link: "https://en.wikipedia.org/wiki/Angela_Merkel",
+    },
+    {
+      name: "Henry Ford",
+      from: 1863,
+      to: 1947,
+      type: "invention",
+      link: "https://en.wikipedia.org/wiki/Henry_Ford",
+    },
+    {
+      name: "Napoleon",
+      from: 1769,
+      to: 1821,
+      type: "politics",
+      link: "https://en.wikipedia.org/wiki/Napoleon",
+    },
+    {
+      name: "Bill Gates",
+      from: 1955,
+      to: null,
+      type: "business",
+      link: "https://en.wikipedia.org/wiki/Bill_Gates",
+    },
+    {
+      name: "Hitler",
+      from: 1889,
+      to: 1945,
+      type: "politics",
+      link: "https://en.wikipedia.org/wiki/Adolf_Hitler",
+    },
+    {
+      name: "Darwin",
+      from: 1809,
+      to: 1882,
+      type: "invention",
+      link: "https://en.wikipedia.org/wiki/Charles_Darwin",
+    },
+    {
+      name: "Marie Antoinette",
+      from: 1755,
+      to: 1793,
+      type: "politics",
+      link: "https://en.wikipedia.org/wiki/Marie_Antoinette",
+    },
+  ]
+})

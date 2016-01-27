@@ -1,0 +1,16 @@
+*.sublime-workspace
+
+bin
+cmd
+src
+prof
+test-data
+
+# Undone
+scripts/wiki-parser.py
+
+data/wiki.json
+data/redirects_wiki.json
+
+data/sources/pantheon.json
+data/sources/wikipedia.xml
