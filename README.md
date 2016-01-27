@@ -85,6 +85,8 @@ In case you notice that the important figure is missing, or birth/death dates ar
 
 ### Other stuff
 
+##### git-lfs
+
 The project uses a few data files that are too large to store in Git. I use [git-lfs](git-lfs.github.com) for larger files.
 
 If you wanted to work with data and saw something like this, it means you don't have a git-lfs plugin installed:
@@ -104,8 +106,9 @@ a7003eb432 - data/sources/pantheon.json.bz2
 097d0890e6 - data/wiki.json.bz2
 ```
 
-The Wikipedia data is downloaded from here:
-[http://burnbit.com/torrent/427846/enwiki_20151201_pages_articles_xml_bz2](http://burnbit.com/torrent/427846/enwiki_20151201_pages_articles_xml_bz2)
+##### Wikipedia dump
+
+The Wikipedia data is downloaded [from here](http://burnbit.com/torrent/427846/enwiki_20151201_pages_articles_xml_bz2).
 
 The dump is about 52G, so most probably you will want to store it on an external hard drive. You can safely make a symlink of that large file to a project directory, `data/sources/wikipedia.xml` is gitignored.
 ```
