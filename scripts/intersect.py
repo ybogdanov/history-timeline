@@ -6,8 +6,8 @@ from bisect import bisect_left
 from operator import itemgetter
 
 result = []
-wiki = json.load(sys.argv[1])
-keys = [item['name'] for item in wiki]
+wiki = []
+keys = []
 not_found = []
 
 def insert(seq, result, keys, item):
@@ -27,6 +27,10 @@ def merge(a, b):
 
 def is_present(key, dic):
   return key in dic and dic[key] != "" and dic[key] != None
+
+with open(sys.argv[1]) as fd:
+  wiki = json.load(fd)
+  keys = [item['name'] for item in wiki]
 
 for item in json.load(sys.stdin):
   insert(wiki, result, keys, item)
