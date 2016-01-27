@@ -46,7 +46,7 @@ Things that have to be improved:
 
 *Note: at the early stage of the project development do not expect to see a fancy stuff like Gulp, Webpack, ReactJS, Babel, Elm, etc. I made it simple and stupid, focusing on the functionality first. The infrastructure may be improved in the future if the project will grow.*
 
-### How it works
+### How it works - data pipeline
 
 First, there is a data mining pipeline — а set of Python scripts that manipulate files (mostly JSON ones) through a multiple steps. Here is a diagram that illustrates the process:
 
