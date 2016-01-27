@@ -1,5 +1,5 @@
-
-# .PHONY: public/data/data_1000.js
+all:
+	@echo Make what?
 
 data/redirects_wiki.json:
 	bzip2 -dk data/redirects_wiki.json.bz2
@@ -32,3 +32,6 @@ public/data/data_10000.js: scripts/final.py data/intermediate/mapped.json
 	cat data/intermediate/mapped.json | scripts/final.py --limit 10000 | scripts/wrap_jsonp.py > public/data/data_10000.js
 
 data: public/data/data_1000.js public/data/data_5000.js public/data/data_10000.js
+
+clean:
+	rm data/intermediate/*.json public/data/data*.js data/redirects_wiki.json data/wiki.json data/sources/pantheon.json
