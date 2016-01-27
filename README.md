@@ -36,9 +36,45 @@ Things that have to be improved:
 * Country filter is awful. There are too many countries and coloring them or filtering by the desired country is very inconvenient at the moment. Any ideas?
 * The ruler is jumping when you scroll vertically. It's because it is scrolled with Javascript, not with CSS. If you have an idea how to make an element scrollable with the content horizontally, but stay sticky vertically with pure CSS, please suggest.
 
-TODO: finish ideas
+---
 
-# How it works
+# For contributors
+
+*Note: at the early stage of the project development do not expect to see a fancy stuff like Gulp, Webpack, ReactJS, Babel, Elm, etc. I made it simple and stupid, focusing on the functionality first. The infrastructure may be improved in the future if the project will grow.*
+
+### How it works
+
+First, there is a data mining pipeline — а set of Python scripts that manipulate files (mostly JSON ones) through a multiple steps. Here is a diagram that illustrates the process:
+
+![History Timeline data pipeline](/docs/data-pipeline.png?raw=true)
+
+* **import-pantheon.py** transforms Pantheon data format into the internal one. It also attempts the normalization of names using the large map of redirects extracted from Wikipedia (`redirects_wiki.json`)
+* **sort.py** normalizes the list of people that are listed manually in `manual.json`
+* **union.py** combines multiple lists, in our case the data from Pantheon and the manual list of people
+* **intersect.py** maps the list of people we've got from the sources with the data we scraped from Wikipedia (curretly, we map death dates and birth dates if they are missing)
+* **final.py** does final sorting by popularity and final normalization, also has optional limiting
+* **wrap_jsonp.py** prepares the data to be deliverable to the web browser safely
+
+I will describe the process in more detail once there will be people who are interested to contribute.
+
+List of static web-servers one-liners:
+https://gist.github.com/willurd/5720255
+
+```
+$ make data
+bzip2 -dk data/sources/pantheon.json.bz2
+bzip2: data/sources/pantheon.json.bz2 is not a bzip2 file.
+make: *** [data/sources/pantheon.json] Error 2
+```
+
+If you have git-lfs installed, then the data files will be downloaded right when the repository is cloned. Otherwise there will be a text "pointers" in place of data files. To download them, you have to fetch them with git-lfs tool. In case you install git-lfs after you cloned the repository, you can use `git lfs pull` command to replace "pointers" with the actual files.
+
+```
+$ git lfs ls-files
+1cc7f8e11e - data/redirects_wiki.json.bz2
+a7003eb432 - data/sources/pantheon.json.bz2
+097d0890e6 - data/wiki.json.bz2
+```
 
 TODO: Pantheon, Wikipedia, data pipeline, D3
 
