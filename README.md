@@ -87,7 +87,7 @@ In case you notice that the important figure is missing, or birth/death dates ar
 
 ##### git-lfs
 
-The project uses a few data files that are too large to store in Git. I use [git-lfs](git-lfs.github.com) for larger files.
+The project uses a few data files that are too large to store in Git. I use [git-lfs](https://git-lfs.github.com) for larger files.
 
 If you wanted to work with data and saw something like this, it means you don't have a git-lfs plugin installed:
 ```
