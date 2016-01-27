@@ -26,7 +26,7 @@ If you have any questions/ideas/suggestions, or you have a contribution, feel fr
 * Possibly, we can also display some personal events right on the people's rectangles
 * Select the particular person so her lifespan is zoomed 90% horizontally, such way we can better inspect the life and the intersection with the other people
 * Interactive overlay dialog that shows quick info of the person
-* Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time
+* Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
 * We can show interactively how people relate each other in terms of different generations
 
 Other ideas I've heard from people and not really into, but curious to see the implementations:
