@@ -4,34 +4,34 @@ Check it out: [https://ybogdanov.github.io/history-timeline/](https://ybogdanov.
 
 ![History Timeline](/public/img/og-image2.jpg?raw=true)
 
-History Timeline is a visualization of the globally famous people lifetimes. It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice and see history's famous people alive at that time. However, I guess Tim Urban (the Wait But Why's author) had _too much_ fun manually drawing all of these rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
+History Timeline is a visualization of globally famous people lifetimes. It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice and see famous people who were alive at that time. Though, I guess Tim Urban (the Wait But Why's author) had _too much_ fun manually drawing all of these rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
 
-The timeline uses the data set from [Pantheon](http://pantheon.media.mit.edu/), which is a project from the Macro Connections group at The MIT Media Lab. They provide an excellent list of 15,343 historical figures each marked with a [Historical Popularity Index (HPI)](http://pantheon.media.mit.edu/methods) that help us to show the most famous people at the top of the timeline. I scrape the Wikipedia offline dump to get the death dates.
+The timeline uses the data set from [Pantheon](http://pantheon.media.mit.edu/), which is a project from the Macro Connections group at The MIT Media Lab. They provide an excellent list of 15,343 historical figures each marked with a [Historical Popularity Index (HPI)](http://pantheon.media.mit.edu/methods) that helps us to show the most famous people at the top of the timeline. I scraped the Wikipedia offline dump to get the death dates.
 
 What you see is an open-source MVP that illustrates what's possible with relatively small software engineering effort. It is fun to use as is, but there is a ton of ideas of how the project can be improved further. I will gradually commit to the project, proportionally to the interest of the community. 
 
 I hope to engage other people in contributing and helping to evolve the visualization and data mining aspects of the tool. Here's what you can help with:
 
 1. **Visualizations.** Having the data already provided to the browser, we can improve the way it is displayed.
-2. **Data mining**. There is a common data mining pipeline setup, adding new sources was taken into account. The quality of the existing sources scraping can be also improved.
-3. **Content**. Besides the programmatic part of data gathering, there's a possibility to tweak the data manually, make corrections, add new historical figures, etc.
+2. **Data mining**. There is a common data mining pipeline setup; adding new sources was taken into account. The quality of the existing sources scraping also can be improved.
+3. **Content**. Besides the programmatic part of data collection, there's a possibility to tweak the data manually, making corrections, adding new historical figures, etc.
 
-There are a lot of glitches right now, such as zero aged people and some obviously popular figures missing on the timeline. The whole point is that you can fix all of it yourself!
+There are a lot of glitches right now, such as zero aged people and some obviously popular figures missing on the timeline. The whole point is that you can fix all of it by yourself!
 
 If you have any questions/ideas/suggestions, or you have a contribution, feel free to [open an issue](https://github.com/ybogdanov/history-timeline/issues) or [a pull request](https://github.com/ybogdanov/history-timeline/pulls).
 
-# Ideas of improvement
+# Ideas for improvement
 
-* Plot the most impactful historical events [from here](https://en.wikipedia.org/wiki/Timelines_of_world_history), so you can refer the events to the people lived that time
+* Plot the most impactful historical events [from here](https://en.wikipedia.org/wiki/Timelines_of_world_history), so you can refer the events to the people lived at that time
 * Possibly, we can also display some personal events right on the people's rectangles
-* Select the particular person so her lifespan is zoomed 90% horizontally, such way we can better inspect the life and the intersection with the other people
+* Select a particular person so that her lifespan is zoomed 90% horizontally. In such way we can better inspect the life and its intersection with other people
 * Interactive overlay dialog that shows quick info of the person
 * Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
-* We can show interactively how people relate each other in terms of different generations
+* We can show interactively how people relate to each other in terms of different generations
 
-Other ideas I've heard from people and not really into, but curious to see the implementations:
+Other ideas I've heard that I’m not really into, but curious to see the implementations:
 
-* Have an interactive map that can show people who are visible in the viewport
+* Have an interactive map that shows people who are visible in the viewport
 * iPad etc. native implementation
 * Displaying avatars over the timeline rectangles
 
@@ -57,7 +57,7 @@ First, there is a data mining pipeline — а set of Python scripts that manipul
 * **union.py** combines multiple lists, in our case the data from Pantheon and the manual list of people
 * **intersect.py** maps the list of people we've got from the sources with the data we scraped from Wikipedia (currently, we map death dates and birth dates if they are missing)
 * **final.py** does final sorting by popularity and end normalization, also has optional limiting
-* **wrap_jsonp.py** prepares the data to be deliverable to the web browser safely
+* **wrap_jsonp.py** prepares the data to be safely deliverable to a web browser
 
 I will describe the process in more detail once there will be people who are interested to contribute.
 
@@ -81,7 +81,7 @@ Other notes:
 
 ### Content contributions
 
-In case you notice that the important figure is missing, or birth/death dates are incorrect, you can edit the [data/sources/manual.json](/data/sources/manual.json) file to fix it and then open a pull request.
+In case you notice that some important figure is missing, or birth/death dates are incorrect, you can edit the [data/sources/manual.json](/data/sources/manual.json) file to fix it and then open a pull request.
 
 ### Other stuff
 
