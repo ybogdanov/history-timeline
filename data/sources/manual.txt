@@ -1,0 +1,2 @@
+Jesus: from=-7 to=33 rating=1 type=religion
+Laozi: from=-550 to=-450
