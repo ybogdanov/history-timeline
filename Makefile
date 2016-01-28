@@ -13,8 +13,8 @@ data/sources/pantheon.json:
 data/intermediate/pantheon.json: scripts/import-pantheon.py data/sources/pantheon.json data/redirects_wiki.json data/redirects_manual.json
 	cat data/sources/pantheon.json | scripts/import-pantheon.py data/redirects_wiki.json data/redirects_manual.json > data/intermediate/pantheon.json
 
-data/intermediate/manual.json: scripts/sort.py data/sources/manual.json
-	cat data/sources/manual.json | scripts/sort.py > data/intermediate/manual.json
+data/intermediate/manual.json: scripts/sort.py data/sources/manual.txt
+	cat data/sources/manual.txt | scripts/sort.py > data/intermediate/manual.json
 
 data/intermediate/merged.json: scripts/union.py data/intermediate/pantheon.json data/intermediate/manual.json
 	cat data/intermediate/pantheon.json | scripts/union.py data/intermediate/manual.json > data/intermediate/merged.json

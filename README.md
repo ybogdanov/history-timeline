@@ -2,9 +2,9 @@
 
 Check it out: [https://ybogdanov.github.io/history-timeline/](https://ybogdanov.github.io/history-timeline/)
 
-![History Timeline](/public/img/og-image2.jpg?raw=true)
+[![History Timeline](/public/img/readme-image-crop.jpg?raw=true)](https://ybogdanov.github.io/history-timeline/)
 
-History Timeline is a visualization of globally famous people lifetimes. It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice and see famous people who were alive at that time. Though, I guess Tim Urban (the Wait But Why's author) had _too much_ fun manually drawing all of these rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
+History Timeline is a visualization of lifetimes of globally famous people. It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice of time and tracing the lifetimes of all the famous people living at that time. It certainly gives you a fresh perspective on some particular era (a feel of that time, so to say), unlike the conventional “vertical” approach of learning who came after whom and what happened after what. I can imagine, how much fun the blog’s author had drawing all of those lifetime rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet, but simple graphics have their limitations, and a lot of famous people simply didn’t make “the cut”. I wanted to play with the concept in a bigger scale. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
 
 The timeline uses the data set from [Pantheon](http://pantheon.media.mit.edu/), which is a project from the Macro Connections group at The MIT Media Lab. They provide an excellent list of 15,343 historical figures each marked with a [Historical Popularity Index (HPI)](http://pantheon.media.mit.edu/methods) that helps us to show the most famous people at the top of the timeline. I scraped the Wikipedia offline dump to get the death dates.
 
@@ -22,12 +22,14 @@ If you have any questions/ideas/suggestions, or you have a contribution, feel fr
 
 # Ideas for improvement
 
-* Plot the most impactful historical events [from here](https://en.wikipedia.org/wiki/Timelines_of_world_history), so you can refer the events to the people lived at that time
-* Possibly, we can also display some personal events right on the people's rectangles
-* Select a particular person so that her lifespan is zoomed 90% horizontally. In such way we can better inspect the life and its intersection with other people
-* Interactive overlay dialog that shows quick info of the person
-* Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
-* We can show interactively how people relate to each other in terms of different generations
+You can follow the issues link and subscribe for notifications so you'll know when the feature is ready, or there is some discussion.
+
+* [Issue #3](https://github.com/ybogdanov/history-timeline/issues/3) Plot the most impactful historical events [from here](https://en.wikipedia.org/wiki/Timelines_of_world_history), so you can refer the events to the people lived at that time
+* [Issue #4](https://github.com/ybogdanov/history-timeline/issues/4) Possibly, we can also display some personal events right on the people's rectangles
+* [Issue #5](https://github.com/ybogdanov/history-timeline/issues/5) Select a particular person so that her lifespan is zoomed 90% horizontally. In such way we can better inspect the life and its intersection with other people
+* [Issue #6](https://github.com/ybogdanov/history-timeline/issues/6) Interactive overlay dialog that shows quick info of the person
+* [Issue #7](https://github.com/ybogdanov/history-timeline/issues/7) Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
+* [Issue #8](https://github.com/ybogdanov/history-timeline/issues/8) We can show interactively how people relate to each other in terms of different generations
 
 Other ideas I've heard that I’m not really into, but curious to see the implementations:
 

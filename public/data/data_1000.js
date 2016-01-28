@@ -1,6 +1,6 @@
 dataReady({people:[
     {
-        "rating": 1,
+        "rating": 1.0,
         "from": -7,
         "name": "Jesus",
         "country": "Israel",
@@ -1605,7 +1605,7 @@ dataReady({people:[
         "rating": 0.8707298859375,
         "from": 1910,
         "name": "Mother Teresa",
-        "country": "Republic Of Macedonia",
+        "country": "India",
         "to": 1997,
         "link": "https://en.wikipedia.org/wiki/Mother_Teresa",
         "type": "public"

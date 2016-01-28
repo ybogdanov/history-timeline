@@ -1,0 +1,10 @@
+Jesus: from=-7 to=33 rating=1 type=religion
+Laozi: from=-550 to=-450
+
+# Corrections from @robbphoenix see https://github.com/ybogdanov/history-timeline/issues/2
+Akbar: country=India
+Shah Jahan: country=India
+Guru Nanak: country=India
+Porus: country=India
+Sonia Gandhi: country=India
+Mother Teresa: country=India

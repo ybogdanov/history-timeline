@@ -1,6 +1,6 @@
 dataReady({people:[
     {
-        "rating": 1,
+        "rating": 1.0,
         "from": -7,
         "name": "Jesus",
         "country": "Israel",
@@ -1605,7 +1605,7 @@ dataReady({people:[
         "rating": 0.8707298859375,
         "from": 1910,
         "name": "Mother Teresa",
-        "country": "Republic Of Macedonia",
+        "country": "India",
         "to": 1997,
         "link": "https://en.wikipedia.org/wiki/Mother_Teresa",
         "type": "public"
@@ -14771,7 +14771,7 @@ dataReady({people:[
         "rating": 0.784730416875,
         "from": 1542,
         "name": "Akbar",
-        "country": "Pakistan",
+        "country": "India",
         "to": 1605,
         "link": "https://en.wikipedia.org/wiki/Akbar",
         "type": "politics"
@@ -22967,7 +22967,7 @@ dataReady({people:[
         "rating": 0.7638153225,
         "from": 1592,
         "name": "Shah Jahan",
-        "country": "Pakistan",
+        "country": "India",
         "to": 1666,
         "link": "https://en.wikipedia.org/wiki/Shah_Jahan",
         "type": "politics"
@@ -33997,7 +33997,7 @@ dataReady({people:[
         "rating": 0.739201699375,
         "from": 1469,
         "name": "Guru Nanak",
-        "country": "Pakistan",
+        "country": "India",
         "to": 1539,
         "link": "https://en.wikipedia.org/wiki/Guru_Nanak",
         "type": "religion"
