@@ -16,7 +16,7 @@ I hope to engage other people in contributing and helping to evolve the visualiz
 2. **Data mining**. There is a common data mining pipeline setup; adding new sources was taken into account. The quality of the existing sources scraping also can be improved.
 3. **Content**. Besides the programmatic part of data collection, there's a possibility to tweak the data manually, making corrections, adding new historical figures, etc.
 
-There are a lot of glitches right now, such as zero aged people and some obviously popular figures missing on the timeline. The whole point is that you can fix all of it by yourself!
+There are a lot of glitches right now, such as zero aged people and some obviously popular figures [missing on the timeline](https://github.com/ybogdanov/history-timeline/issues/9). The whole point is that you can fix all of it by yourself!
 
 If you have any questions/ideas/suggestions, or you have a contribution, feel free to [open an issue](https://github.com/ybogdanov/history-timeline/issues) or [a pull request](https://github.com/ybogdanov/history-timeline/pulls).
 
