@@ -31,16 +31,16 @@ You can follow the issues link and subscribe for notifications so you'll know wh
 * [Issue #7](https://github.com/ybogdanov/history-timeline/issues/7) Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
 * [Issue #8](https://github.com/ybogdanov/history-timeline/issues/8) We can show interactively how people relate to each other in terms of different generations
 
+Things that have to be improved:
+
+* [Issue #10](https://github.com/ybogdanov/history-timeline/issues/10) Country filter is awful. There are too many countries and coloring them or filtering by the desired country is very inconvenient at the moment. Any ideas?
+* The ruler is jumping when you scroll vertically. It's because it is scrolled with Javascript, not with CSS. If you have an idea how to make an element scrollable with the content horizontally, but stay sticky vertically with pure CSS, please suggest.
+
 Other ideas I've heard that I’m not really into, but curious to see the implementations:
 
 * Have an interactive map that shows people who are visible in the viewport
 * iPad etc. native implementation
 * Displaying avatars over the timeline rectangles
-
-Things that have to be improved:
-
-* Country filter is awful. There are too many countries and coloring them or filtering by the desired country is very inconvenient at the moment. Any ideas?
-* The ruler is jumping when you scroll vertically. It's because it is scrolled with Javascript, not with CSS. If you have an idea how to make an element scrollable with the content horizontally, but stay sticky vertically with pure CSS, please suggest.
 
 ---
 
