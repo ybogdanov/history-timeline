@@ -52,7 +52,7 @@ Things that have to be improved:
 
 First, there is a data mining pipeline — а set of Python scripts that manipulate files (mostly JSON ones) through a multiple steps. Here is a diagram that illustrates the process:
 
-![History Timeline data pipeline](/docs/data-pipeline.png?raw=true)
+![History Timeline data pipeline](/docs/data-pipeline2.png?raw=true)
 
 * **import-pantheon.py** transforms Pantheon data format into the internal one. It also attempts the normalization of names using the large map of redirects extracted from Wikipedia (`redirects_wiki.json`)
 * **txt_to_json.py** converts list of people that are listed manually in `manual.txt`
