@@ -83,7 +83,7 @@ Other notes:
 
 ### Content contributions
 
-In case you notice that some important figure is missing, or birth/death dates are incorrect, you can edit the [data/sources/manual.json](/data/sources/manual.json) file to fix it and then open a pull request.
+In case you notice that some important figure is missing, or birth/death dates are incorrect, you can edit the [data/sources/manual.txt](/data/sources/manual.txt) file to fix it and then open a pull request.
 
 ### Other stuff
 
