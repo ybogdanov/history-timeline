@@ -24,12 +24,12 @@ If you have any questions/ideas/suggestions, or you have a contribution, feel fr
 
 You can follow the issues link and subscribe for notifications so you'll know when the feature is ready, or there is some discussion.
 
-* #3 Plot the most impactful historical events [from here](https://en.wikipedia.org/wiki/Timelines_of_world_history), so you can refer the events to the people lived at that time
-* #4 Possibly, we can also display some personal events right on the people's rectangles
-* #5 Select a particular person so that her lifespan is zoomed 90% horizontally. In such way we can better inspect the life and its intersection with other people
-* #6 Interactive overlay dialog that shows quick info of the person
-* #7 Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
-* #8 We can show interactively how people relate to each other in terms of different generations
+* [Issue #3](https://github.com/ybogdanov/history-timeline/issues/3) Plot the most impactful historical events [from here](https://en.wikipedia.org/wiki/Timelines_of_world_history), so you can refer the events to the people lived at that time
+* [Issue #4](https://github.com/ybogdanov/history-timeline/issues/4) Possibly, we can also display some personal events right on the people's rectangles
+* [Issue #5](https://github.com/ybogdanov/history-timeline/issues/5) Select a particular person so that her lifespan is zoomed 90% horizontally. In such way we can better inspect the life and its intersection with other people
+* [Issue #6](https://github.com/ybogdanov/history-timeline/issues/6) Interactive overlay dialog that shows quick info of the person
+* [Issue #7](https://github.com/ybogdanov/history-timeline/issues/7) Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
+* [Issue #8](https://github.com/ybogdanov/history-timeline/issues/8) We can show interactively how people relate to each other in terms of different generations
 
 Other ideas I've heard that I’m not really into, but curious to see the implementations:
 
