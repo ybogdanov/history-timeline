@@ -2,7 +2,7 @@
 
 Check it out: [https://ybogdanov.github.io/history-timeline/](https://ybogdanov.github.io/history-timeline/)
 
-![History Timeline](/public/img/readme-image-crop.jpg?raw=true)
+[![History Timeline](/public/img/readme-image-crop.jpg?raw=true)](https://ybogdanov.github.io/history-timeline/)
 
 History Timeline is a visualization of globally famous people lifetimes. It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice and see famous people who were alive at that time. Though, I guess Tim Urban (the Wait But Why's author) had _too much_ fun manually drawing all of these rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
 
