@@ -16,7 +16,7 @@ I hope to engage other people in contributing and helping to evolve the visualiz
 2. **Data mining**. There is a common data mining pipeline setup; adding new sources was taken into account. The quality of the existing sources scraping also can be improved.
 3. **Content**. Besides the programmatic part of data collection, there's a possibility to tweak the data manually, making corrections, adding new historical figures, etc.
 
-There are a lot of glitches right now, such as zero aged people and some obviously popular figures missing on the timeline. The whole point is that you can fix all of it by yourself!
+There are a lot of glitches right now, such as zero aged people and some obviously popular figures [missing on the timeline](https://github.com/ybogdanov/history-timeline/issues/9). The whole point is that you can fix all of it by yourself!
 
 If you have any questions/ideas/suggestions, or you have a contribution, feel free to [open an issue](https://github.com/ybogdanov/history-timeline/issues) or [a pull request](https://github.com/ybogdanov/history-timeline/pulls).
 
@@ -31,16 +31,16 @@ You can follow the issues link and subscribe for notifications so you'll know wh
 * [Issue #7](https://github.com/ybogdanov/history-timeline/issues/7) Hovering on a ruler can display a vertical cursor going down that highlights the people alive at that particular time; it may also show the age near every person at a point
 * [Issue #8](https://github.com/ybogdanov/history-timeline/issues/8) We can show interactively how people relate to each other in terms of different generations
 
+Things that have to be improved:
+
+* [Issue #10](https://github.com/ybogdanov/history-timeline/issues/10) Country filter is awful. There are too many countries and coloring them or filtering by the desired country is very inconvenient at the moment. Any ideas?
+* The ruler is jumping when you scroll vertically. It's because it is scrolled with Javascript, not with CSS. If you have an idea how to make an element scrollable with the content horizontally, but stay sticky vertically with pure CSS, please suggest.
+
 Other ideas I've heard that I’m not really into, but curious to see the implementations:
 
 * Have an interactive map that shows people who are visible in the viewport
 * iPad etc. native implementation
 * Displaying avatars over the timeline rectangles
-
-Things that have to be improved:
-
-* Country filter is awful. There are too many countries and coloring them or filtering by the desired country is very inconvenient at the moment. Any ideas?
-* The ruler is jumping when you scroll vertically. It's because it is scrolled with Javascript, not with CSS. If you have an idea how to make an element scrollable with the content horizontally, but stay sticky vertically with pure CSS, please suggest.
 
 ---
 
@@ -52,14 +52,14 @@ Things that have to be improved:
 
 First, there is a data mining pipeline — а set of Python scripts that manipulate files (mostly JSON ones) through a multiple steps. Here is a diagram that illustrates the process:
 
-![History Timeline data pipeline](/docs/data-pipeline.png?raw=true)
+![History Timeline data pipeline](/docs/data-pipeline2.png?raw=true)
 
-* **import-pantheon.py** transforms Pantheon data format into the internal one. It also attempts the normalization of names using the large map of redirects extracted from Wikipedia (`redirects_wiki.json`)
-* **sort.py** normalizes the list of people that are listed manually in `manual.json`
-* **union.py** combines multiple lists, in our case the data from Pantheon and the manual list of people
-* **intersect.py** maps the list of people we've got from the sources with the data we scraped from Wikipedia (currently, we map death dates and birth dates if they are missing)
-* **final.py** does final sorting by popularity and end normalization, also has optional limiting
-* **wrap_jsonp.py** prepares the data to be safely deliverable to a web browser
+* [import_pantheon.py](/scripts/import_pantheon.py) transforms Pantheon data format into the internal one. It also attempts the normalization of names using the large map of redirects extracted from Wikipedia (`redirects_wiki.json`)
+* [txt_to_json.py](/scripts/txt_to_json.py) converts list of people that are listed manually in [manual.txt](/data/sources/manual.txt)
+* [union.py](/scripts/union.py) combines multiple lists, in our case the data from Pantheon and the manual list of people
+* [intersect.py](/scripts/intersect.py) maps the list of people we've got from the sources with the data we scraped from Wikipedia (currently, we map death dates and birth dates if they are missing)
+* [final.py](/scripts/final.py) does final sorting by popularity and end normalization, also has optional limiting
+* [wrap_jsonp.py](/scripts/wrap_jsonp.py) prepares the data to be safely deliverable to a web browser
 
 I will describe the process in more detail once there will be people who are interested to contribute.
 
@@ -83,7 +83,7 @@ Other notes:
 
 ### Content contributions
 
-In case you notice that some important figure is missing, or birth/death dates are incorrect, you can edit the [data/sources/manual.json](/data/sources/manual.json) file to fix it and then open a pull request.
+In case you notice that some important figure is missing, or birth/death dates are incorrect, you can edit the [data/sources/manual.txt](/data/sources/manual.txt) file to fix it and then open a pull request.
 
 ### Other stuff
 
