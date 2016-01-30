@@ -4,6 +4,12 @@ html, body {
   margin: 0;
 }
 
+// Fix flexbox in FF, see http://stackoverflow.com/questions/26895349/how-can-i-get-ff-33-x-flexbox-behavior-in-ff-34-x
+* {
+  min-height:0;
+  min-width:0;
+}
+
 html > body {
   display: flex;
   flex-direction: column;
