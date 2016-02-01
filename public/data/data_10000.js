@@ -108,6 +108,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.9535811653125,
+        "from": 1756,
+        "name": "Wolfgang Amadeus Mozart",
+        "country": "Austria",
+        "to": 1791,
+        "link": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+        "type": "music"
+    },
+    {
         "rating": 0.9526146921875,
         "from": 742,
         "name": "Charlemagne",
@@ -322,6 +331,15 @@ dataReady({people:[
         "to": 1227,
         "link": "https://en.wikipedia.org/wiki/Genghis_Khan",
         "type": "military"
+    },
+    {
+        "rating": 0.9288907303125,
+        "from": -600,
+        "name": "Zoroaster",
+        "country": "Afghanistan",
+        "to": -583,
+        "link": "https://en.wikipedia.org/wiki/Zoroaster",
+        "type": "arts"
     },
     {
         "rating": 0.9278477290625,
@@ -675,6 +693,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.903852944375,
+        "from": -1303,
+        "name": "Ramesses II",
+        "country": "Egypt",
+        "to": -1213,
+        "link": "https://en.wikipedia.org/wiki/Ramesses_II",
+        "type": "politics"
+    },
+    {
         "rating": 0.903785003125,
         "from": 1870,
         "name": "Vladimir Lenin",
@@ -700,6 +727,15 @@ dataReady({people:[
         "to": 1037,
         "link": "https://en.wikipedia.org/wiki/Avicenna",
         "type": "science"
+    },
+    {
+        "rating": 0.901750569375,
+        "from": -1380,
+        "name": "Akhenaten",
+        "country": "Egypt",
+        "to": -1336,
+        "link": "https://en.wikipedia.org/wiki/Akhenaten",
+        "type": "politics"
     },
     {
         "rating": 0.901671340625,
@@ -864,6 +900,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.8927943653125,
+        "from": 1813,
+        "name": "Richard Wagner",
+        "country": "Germany",
+        "to": 1883,
+        "link": "https://en.wikipedia.org/wiki/Richard_Wagner",
+        "type": "music"
+    },
+    {
         "rating": 0.892651555625,
         "from": 272,
         "name": "Constantine the Great",
@@ -972,6 +1017,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.889557090625,
+        "from": 1810,
+        "name": "Fr\u00e9d\u00e9ric Chopin",
+        "country": "Poland",
+        "to": 1849,
+        "link": "https://en.wikipedia.org/wiki/Fr\u00e9d\u00e9ric_Chopin",
+        "type": "music"
+    },
+    {
         "rating": 0.8895496459375,
         "from": 1491,
         "name": "Henry VIII of England",
@@ -1006,6 +1060,15 @@ dataReady({people:[
         "to": 1855,
         "link": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
         "type": "science"
+    },
+    {
+        "rating": 0.8874360996875,
+        "from": 1813,
+        "name": "Giuseppe Verdi",
+        "country": "Italy",
+        "to": 1901,
+        "link": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+        "type": "music"
     },
     {
         "rating": 0.8870620278125,
@@ -1185,6 +1248,15 @@ dataReady({people:[
         "country": "Spain",
         "to": 395,
         "link": "https://en.wikipedia.org/wiki/Theodosius_I",
+        "type": "politics"
+    },
+    {
+        "rating": 0.882421171875,
+        "from": -638,
+        "name": "Solon",
+        "country": "Greece",
+        "to": -558,
+        "link": "https://en.wikipedia.org/wiki/Solon",
         "type": "politics"
     },
     {
@@ -1395,6 +1467,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.877524995,
+        "from": 1732,
+        "name": "Joseph Haydn",
+        "country": "Austria",
+        "to": 1809,
+        "link": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+        "type": "music"
+    },
+    {
         "rating": 0.877234938125,
         "from": 1799,
         "name": "Honor\u00e9 de Balzac",
@@ -1447,6 +1528,15 @@ dataReady({people:[
         "to": 1931,
         "link": "https://en.wikipedia.org/wiki/Thomas_Edison",
         "type": "invention"
+    },
+    {
+        "rating": 0.87554443875,
+        "from": 1485,
+        "name": "Titian",
+        "country": "Italy",
+        "to": 1576,
+        "link": "https://en.wikipedia.org/wiki/Titian",
+        "type": "arts"
     },
     {
         "rating": 0.8754469271875,
@@ -1582,6 +1672,15 @@ dataReady({people:[
         "to": 770,
         "link": "https://en.wikipedia.org/wiki/Du_Fu",
         "type": "arts"
+    },
+    {
+        "rating": 0.87155691875,
+        "from": 1678,
+        "name": "Antonio Vivaldi",
+        "country": "Italy",
+        "to": 1741,
+        "link": "https://en.wikipedia.org/wiki/Antonio_Vivaldi",
+        "type": "music"
     },
     {
         "rating": 0.8713967475,
@@ -1917,6 +2016,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.8651353415625,
+        "from": 1833,
+        "name": "Johannes Brahms",
+        "country": "Germany",
+        "to": 1897,
+        "link": "https://en.wikipedia.org/wiki/Johannes_Brahms",
+        "type": "music"
+    },
+    {
         "rating": 0.864518176875,
         "from": 1,
         "name": "James, son of Zebedee",
@@ -2032,6 +2140,15 @@ dataReady({people:[
         "to": -322,
         "link": "https://en.wikipedia.org/wiki/Demosthenes",
         "type": "politics"
+    },
+    {
+        "rating": 0.8630420634375,
+        "from": 1882,
+        "name": "James Joyce",
+        "country": "Ireland",
+        "to": 1941,
+        "link": "https://en.wikipedia.org/wiki/James_Joyce",
+        "type": "arts"
     },
     {
         "rating": 0.8629990065625,
@@ -2196,6 +2313,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.8603058971875,
+        "from": 1841,
+        "name": "Anton\u00edn Dvo\u0159\u00e1k",
+        "country": "Czech Republic",
+        "to": 1904,
+        "link": "https://en.wikipedia.org/wiki/Anton\u00edn_Dvo\u0159\u00e1k",
+        "type": "music"
+    },
+    {
         "rating": 0.860128175,
         "from": -380,
         "name": "Darius III",
@@ -2220,6 +2346,15 @@ dataReady({people:[
         "country": "Italy",
         "to": -149,
         "link": "https://en.wikipedia.org/wiki/Cato_the_Elder",
+        "type": "arts"
+    },
+    {
+        "rating": 0.85992036875,
+        "from": 1928,
+        "name": "Stanley Kubrick",
+        "country": "United States",
+        "to": 1999,
+        "link": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
         "type": "arts"
     },
     {
@@ -2898,6 +3033,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.851430275625,
+        "from": 1858,
+        "name": "Giacomo Puccini",
+        "country": "Italy",
+        "to": 1924,
+        "link": "https://en.wikipedia.org/wiki/Giacomo_Puccini",
+        "type": "music"
+    },
+    {
         "rating": 0.8513808353125,
         "from": 1940,
         "name": "Al Pacino",
@@ -2941,6 +3085,15 @@ dataReady({people:[
         "to": -230,
         "link": "https://en.wikipedia.org/wiki/Aristarchus_of_Samos",
         "type": "science"
+    },
+    {
+        "rating": 0.8508994240625,
+        "from": 1860,
+        "name": "Gustav Mahler",
+        "country": "Czech Republic",
+        "to": 1911,
+        "link": "https://en.wikipedia.org/wiki/Gustav_Mahler",
+        "type": "music"
     },
     {
         "rating": 0.8508815546875,
@@ -3150,6 +3303,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.8490143228125,
+        "from": 1395,
+        "name": "Jan van Eyck",
+        "country": "Belgium",
+        "to": 1441,
+        "link": "https://en.wikipedia.org/wiki/Jan_van_Eyck",
+        "type": "arts"
+    },
+    {
         "rating": 0.8487999115625,
         "from": 1871,
         "name": "Rosa Luxemburg",
@@ -3177,6 +3339,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.8486677090625,
+        "from": 1810,
+        "name": "Robert Schumann",
+        "country": "Germany",
+        "to": 1856,
+        "link": "https://en.wikipedia.org/wiki/Robert_Schumann",
+        "type": "music"
+    },
+    {
         "rating": 0.84865813,
         "from": 1834,
         "name": "Dmitri Mendeleev",
@@ -3202,6 +3373,24 @@ dataReady({people:[
         "to": 1616,
         "link": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu",
         "type": "military"
+    },
+    {
+        "rating": 0.84827858625,
+        "from": 1840,
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "country": "Russia",
+        "to": 1893,
+        "link": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+        "type": "music"
+    },
+    {
+        "rating": 0.8482452453125,
+        "from": 1797,
+        "name": "Franz Schubert",
+        "country": "Austria",
+        "to": 1828,
+        "link": "https://en.wikipedia.org/wiki/Franz_Schubert",
+        "type": "music"
     },
     {
         "rating": 0.848229685625,
@@ -3348,6 +3537,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.84708522875,
+        "from": 1567,
+        "name": "Claudio Monteverdi",
+        "country": "Italy",
+        "to": 1643,
+        "link": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+        "type": "music"
+    },
+    {
         "rating": 0.846973895,
         "from": 1929,
         "name": "Anne Frank",
@@ -3384,6 +3582,24 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.846375745,
+        "from": 1875,
+        "name": "Maurice Ravel",
+        "country": "France",
+        "to": 1937,
+        "link": "https://en.wikipedia.org/wiki/Maurice_Ravel",
+        "type": "music"
+    },
+    {
+        "rating": 0.84628195375,
+        "from": 1782,
+        "name": "Niccol\u00f2 Paganini",
+        "country": "Italy",
+        "to": 1840,
+        "link": "https://en.wikipedia.org/wiki/Niccol\u00f2_Paganini",
+        "type": "music"
+    },
+    {
         "rating": 0.846205041875,
         "from": 1908,
         "name": "Simone de Beauvoir",
@@ -3400,6 +3616,15 @@ dataReady({people:[
         "to": 1941,
         "link": "https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor",
         "type": "politics"
+    },
+    {
+        "rating": 0.846059155625,
+        "from": 1811,
+        "name": "Franz Liszt",
+        "country": "Austria",
+        "to": 1886,
+        "link": "https://en.wikipedia.org/wiki/Franz_Liszt",
+        "type": "music"
     },
     {
         "rating": 0.84564584375,
@@ -3834,6 +4059,24 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.840933491875,
+        "from": -195,
+        "name": "Terence",
+        "country": "Tunisia",
+        "to": -159,
+        "link": "https://en.wikipedia.org/wiki/Terence",
+        "type": "arts"
+    },
+    {
+        "rating": 0.840808854375,
+        "from": 1803,
+        "name": "Hector Berlioz",
+        "country": "France",
+        "to": 1869,
+        "link": "https://en.wikipedia.org/wiki/Hector_Berlioz",
+        "type": "music"
+    },
+    {
         "rating": 0.8407486334375,
         "from": 1775,
         "name": "Jane Austen",
@@ -4104,6 +4347,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.83771526625,
+        "from": 1809,
+        "name": "Felix Mendelssohn",
+        "country": "Germany",
+        "to": 1847,
+        "link": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+        "type": "music"
+    },
+    {
         "rating": 0.837709710625,
         "from": 1027,
         "name": "William the Conqueror",
@@ -4147,6 +4399,15 @@ dataReady({people:[
         "to": 1910,
         "link": "https://en.wikipedia.org/wiki/Robert_Koch",
         "type": "science"
+    },
+    {
+        "rating": 0.837256488125,
+        "from": 1653,
+        "name": "Johann Pachelbel",
+        "country": "Germany",
+        "to": 1706,
+        "link": "https://en.wikipedia.org/wiki/Johann_Pachelbel",
+        "type": "music"
     },
     {
         "rating": 0.8371998321875,
@@ -4228,6 +4489,15 @@ dataReady({people:[
         "to": 1975,
         "link": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
         "type": "military"
+    },
+    {
+        "rating": 0.8362405765625,
+        "from": 1864,
+        "name": "Richard Strauss",
+        "country": "Germany",
+        "to": 1949,
+        "link": "https://en.wikipedia.org/wiki/Richard_Strauss",
+        "type": "music"
     },
     {
         "rating": 0.8361905578125,
@@ -4401,6 +4671,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.8349924821875,
+        "from": 35,
+        "name": "Quintilian",
+        "country": "Spain",
+        "to": 100,
+        "link": "https://en.wikipedia.org/wiki/Quintilian",
+        "type": "arts"
+    },
+    {
         "rating": 0.834963695625,
         "from": 1214,
         "name": "Roger Bacon",
@@ -4408,6 +4687,15 @@ dataReady({people:[
         "to": 1292,
         "link": "https://en.wikipedia.org/wiki/Roger_Bacon",
         "type": "science"
+    },
+    {
+        "rating": 0.8349370090625,
+        "from": 1824,
+        "name": "Bed\u0159ich Smetana",
+        "country": "Czech Republic",
+        "to": 1884,
+        "link": "https://en.wikipedia.org/wiki/Bed\u0159ich_Smetana",
+        "type": "music"
     },
     {
         "rating": 0.8348814028125,
@@ -4624,6 +4912,24 @@ dataReady({people:[
         "to": -627,
         "link": "https://en.wikipedia.org/wiki/Ashurbanipal",
         "type": "politics"
+    },
+    {
+        "rating": 0.8333030071875,
+        "from": 1774,
+        "name": "Caspar David Friedrich",
+        "country": "Germany",
+        "to": 1840,
+        "link": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich",
+        "type": "arts"
+    },
+    {
+        "rating": 0.8331399625,
+        "from": 1838,
+        "name": "Georges Bizet",
+        "country": "France",
+        "to": 1875,
+        "link": "https://en.wikipedia.org/wiki/Georges_Bizet",
+        "type": "music"
     },
     {
         "rating": 0.8331336625,
@@ -4986,6 +5292,24 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.8299349603125,
+        "from": -570,
+        "name": "Anacreon",
+        "country": "Turkey",
+        "to": -485,
+        "link": "https://en.wikipedia.org/wiki/Anacreon",
+        "type": "arts"
+    },
+    {
+        "rating": 0.829825126875,
+        "from": 1824,
+        "name": "Anton Bruckner",
+        "country": "Austria",
+        "to": 1896,
+        "link": "https://en.wikipedia.org/wiki/Anton_Bruckner",
+        "type": "music"
+    },
+    {
         "rating": 0.8298066771875,
         "from": 1431,
         "name": "Fran\u00e7ois Villon",
@@ -5137,6 +5461,15 @@ dataReady({people:[
         "to": -522,
         "link": "https://en.wikipedia.org/wiki/Cambyses_II",
         "type": "politics"
+    },
+    {
+        "rating": 0.8282427134375,
+        "from": 1865,
+        "name": "Jean Sibelius",
+        "country": "Finland",
+        "to": 1957,
+        "link": "https://en.wikipedia.org/wiki/Jean_Sibelius",
+        "type": "music"
     },
     {
         "rating": 0.8282390396875,
@@ -5308,6 +5641,15 @@ dataReady({people:[
         "to": 1569,
         "link": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
         "type": "arts"
+    },
+    {
+        "rating": 0.8270950784375,
+        "from": 1819,
+        "name": "Jacques Offenbach",
+        "country": "Germany",
+        "to": 1880,
+        "link": "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+        "type": "music"
     },
     {
         "rating": 0.827024713125,
@@ -5544,6 +5886,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.824977833125,
+        "from": 320,
+        "name": "Ammianus Marcellinus",
+        "country": "Turkey",
+        "to": 391,
+        "link": "https://en.wikipedia.org/wiki/Ammianus_Marcellinus",
+        "type": "arts"
+    },
+    {
         "rating": 0.824810325,
         "from": 1058,
         "name": "Al-Ghazali",
@@ -5569,6 +5920,24 @@ dataReady({people:[
         "to": 50,
         "link": "https://en.wikipedia.org/wiki/Philo",
         "type": "science"
+    },
+    {
+        "rating": 0.824693886875,
+        "from": 200,
+        "name": "Diophantus",
+        "country": "Egypt",
+        "to": 285,
+        "link": "https://en.wikipedia.org/wiki/Diophantus",
+        "type": "science"
+    },
+    {
+        "rating": 0.824686810625,
+        "from": 1881,
+        "name": "B\u00e9la Bart\u00f3k",
+        "country": "Romania",
+        "to": 1945,
+        "link": "https://en.wikipedia.org/wiki/B\u00e9la_Bart\u00f3k",
+        "type": "music"
     },
     {
         "rating": 0.8246486721875,
@@ -5623,6 +5992,15 @@ dataReady({people:[
         "to": 1464,
         "link": "https://en.wikipedia.org/wiki/Nicholas_of_Cusa",
         "type": "science"
+    },
+    {
+        "rating": 0.8242886734375,
+        "from": 1750,
+        "name": "Antonio Salieri",
+        "country": "Italy",
+        "to": 1825,
+        "link": "https://en.wikipedia.org/wiki/Antonio_Salieri",
+        "type": "music"
     },
     {
         "rating": 0.824266038125,
@@ -5812,6 +6190,15 @@ dataReady({people:[
         "to": 1994,
         "link": "https://en.wikipedia.org/wiki/Charles_Bukowski",
         "type": "arts"
+    },
+    {
+        "rating": 0.8231358221875,
+        "from": 1681,
+        "name": "Georg Philipp Telemann",
+        "country": "Germany",
+        "to": 1767,
+        "link": "https://en.wikipedia.org/wiki/Georg_Philipp_Telemann",
+        "type": "music"
     },
     {
         "rating": 0.8231012578125,
@@ -6156,6 +6543,15 @@ dataReady({people:[
         "type": "invention"
     },
     {
+        "rating": 0.82071214,
+        "from": 1685,
+        "name": "Domenico Scarlatti",
+        "country": "Italy",
+        "to": 1757,
+        "link": "https://en.wikipedia.org/wiki/Domenico_Scarlatti",
+        "type": "music"
+    },
+    {
         "rating": 0.820689290625,
         "from": 1928,
         "name": "Ennio Morricone",
@@ -6390,6 +6786,24 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.8195556209375,
+        "from": -475,
+        "name": "Darius II",
+        "country": "Iran",
+        "to": -405,
+        "link": "https://en.wikipedia.org/wiki/Darius_II",
+        "type": "politics"
+    },
+    {
+        "rating": 0.819528959375,
+        "from": 1906,
+        "name": "Dmitri Shostakovich",
+        "country": "Russia",
+        "to": 1975,
+        "link": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+        "type": "music"
+    },
+    {
         "rating": 0.81952293625,
         "from": 1862,
         "name": "Maurice Maeterlinck",
@@ -6541,6 +6955,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Paulo_Coelho",
         "type": "arts"
+    },
+    {
+        "rating": 0.8184813640625,
+        "from": -1560,
+        "name": "Ahmose I",
+        "country": "Egypt",
+        "to": -1525,
+        "link": "https://en.wikipedia.org/wiki/Ahmose_I",
+        "type": "politics"
     },
     {
         "rating": 0.8184722934375,
@@ -6696,6 +7119,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.8180192621875,
+        "from": 1659,
+        "name": "Henry Purcell",
+        "country": "United Kingdom",
+        "to": 1695,
+        "link": "https://en.wikipedia.org/wiki/Henry_Purcell",
+        "type": "music"
+    },
+    {
         "rating": 0.817947110625,
         "from": 1908,
         "name": "Oskar Schindler",
@@ -6822,6 +7254,24 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.8173320871875,
+        "from": 1632,
+        "name": "Jean-Baptiste Lully",
+        "country": "Italy",
+        "to": 1687,
+        "link": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lully",
+        "type": "music"
+    },
+    {
+        "rating": 0.8173176621875,
+        "from": 1835,
+        "name": "Camille Saint-Sa\u00ebns",
+        "country": "France",
+        "to": 1921,
+        "link": "https://en.wikipedia.org/wiki/Camille_Saint-Sa\u00ebns",
+        "type": "music"
+    },
+    {
         "rating": 0.81731330125,
         "from": 958,
         "name": "Basil II",
@@ -6894,6 +7344,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.8168522584375,
+        "from": -436,
+        "name": "Isocrates",
+        "country": "Greece",
+        "to": -338,
+        "link": "https://en.wikipedia.org/wiki/Isocrates",
+        "type": "public"
+    },
+    {
         "rating": 0.8168411,
         "from": 1915,
         "name": "Ingrid Bergman",
@@ -6921,6 +7380,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.816761088125,
+        "from": 1786,
+        "name": "Carl Maria von Weber",
+        "country": "Germany",
+        "to": 1826,
+        "link": "https://en.wikipedia.org/wiki/Carl_Maria_von_Weber",
+        "type": "music"
+    },
+    {
         "rating": 0.8166966565625,
         "from": 1866,
         "name": "Romain Rolland",
@@ -6939,6 +7407,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.81656905125,
+        "from": 1240,
+        "name": "Cimabue",
+        "country": "Italy",
+        "to": 1302,
+        "link": "https://en.wikipedia.org/wiki/Cimabue",
+        "type": "arts"
+    },
+    {
         "rating": 0.816564359375,
         "from": 126,
         "name": "Pertinax",
@@ -6946,6 +7423,15 @@ dataReady({people:[
         "to": 193,
         "link": "https://en.wikipedia.org/wiki/Pertinax",
         "type": "politics"
+    },
+    {
+        "rating": 0.8165603871875,
+        "from": 1671,
+        "name": "Tomaso Albinoni",
+        "country": "Italy",
+        "to": 1751,
+        "link": "https://en.wikipedia.org/wiki/Tomaso_Albinoni",
+        "type": "music"
     },
     {
         "rating": 0.816506766875,
@@ -6984,6 +7470,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.816019215,
+        "from": 1839,
+        "name": "Modest Mussorgsky",
+        "country": "Russia",
+        "to": 1881,
+        "link": "https://en.wikipedia.org/wiki/Modest_Mussorgsky",
+        "type": "music"
+    },
+    {
         "rating": 0.81595625125,
         "from": 1575,
         "name": "Marie de' Medici",
@@ -7018,6 +7513,24 @@ dataReady({people:[
         "to": -281,
         "link": "https://en.wikipedia.org/wiki/Lysimachus",
         "type": "politics"
+    },
+    {
+        "rating": 0.8158205853125,
+        "from": -680,
+        "name": "Archilochus",
+        "country": "Greece",
+        "to": -645,
+        "link": "https://en.wikipedia.org/wiki/Archilochus",
+        "type": "arts"
+    },
+    {
+        "rating": 0.8157778153125,
+        "from": 1525,
+        "name": "Giovanni Pierluigi da Palestrina",
+        "country": "Italy",
+        "to": 1594,
+        "link": "https://en.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina",
+        "type": "music"
     },
     {
         "rating": 0.815761509375,
@@ -7128,6 +7641,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.8149532609375,
+        "from": 1797,
+        "name": "Gaetano Donizetti",
+        "country": "Italy",
+        "to": 1848,
+        "link": "https://en.wikipedia.org/wiki/Gaetano_Donizetti",
+        "type": "music"
+    },
+    {
         "rating": 0.814841453125,
         "from": 1595,
         "name": "Pocahontas",
@@ -7198,6 +7720,15 @@ dataReady({people:[
         "to": 1940,
         "link": "https://en.wikipedia.org/wiki/Walter_Benjamin",
         "type": "science"
+    },
+    {
+        "rating": 0.814608141875,
+        "from": 1714,
+        "name": "Christoph Willibald Gluck",
+        "country": "Germany",
+        "to": 1787,
+        "link": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+        "type": "music"
     },
     {
         "rating": 0.8142645528125,
@@ -7272,6 +7803,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.813997023125,
+        "from": 1801,
+        "name": "Vincenzo Bellini",
+        "country": "Italy",
+        "to": 1835,
+        "link": "https://en.wikipedia.org/wiki/Vincenzo_Bellini",
+        "type": "music"
+    },
+    {
         "rating": 0.813984315625,
         "from": 1130,
         "name": "Zhu Xi",
@@ -7296,6 +7836,15 @@ dataReady({people:[
         "country": "Serbia",
         "to": 311,
         "link": "https://en.wikipedia.org/wiki/Galerius",
+        "type": "politics"
+    },
+    {
+        "rating": 0.81389518625,
+        "from": -700,
+        "name": "Lucius Tarquinius Priscus",
+        "country": "Italy",
+        "to": -578,
+        "link": "https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus",
         "type": "politics"
     },
     {
@@ -7333,6 +7882,15 @@ dataReady({people:[
         "to": 1314,
         "link": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
         "type": "religion"
+    },
+    {
+        "rating": 0.8136477384375,
+        "from": 111,
+        "name": "Antinous",
+        "country": "Greece",
+        "to": 130,
+        "link": "https://en.wikipedia.org/wiki/Antinous",
+        "type": "public"
     },
     {
         "rating": 0.8136311215625,
@@ -7380,6 +7938,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.81321317875,
+        "from": 1844,
+        "name": "Nikolai Rimsky-Korsakov",
+        "country": "Russia",
+        "to": 1908,
+        "link": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov",
+        "type": "music"
+    },
+    {
         "rating": 0.8131960490625,
         "from": 1480,
         "name": "Lucrezia Borgia",
@@ -7425,6 +7992,24 @@ dataReady({people:[
         "type": "invention"
     },
     {
+        "rating": 0.813066548125,
+        "from": 1895,
+        "name": "Carl Orff",
+        "country": "Germany",
+        "to": 1982,
+        "link": "https://en.wikipedia.org/wiki/Carl_Orff",
+        "type": "music"
+    },
+    {
+        "rating": 0.813053490625,
+        "from": -470,
+        "name": "Aspasia",
+        "country": "Turkey",
+        "to": -400,
+        "link": "https://en.wikipedia.org/wiki/Aspasia",
+        "type": "public"
+    },
+    {
         "rating": 0.8130182490625,
         "from": 1814,
         "name": "Mikhail Lermontov",
@@ -7459,6 +8044,15 @@ dataReady({people:[
         "to": 1507,
         "link": "https://en.wikipedia.org/wiki/Cesare_Borgia",
         "type": "military"
+    },
+    {
+        "rating": 0.8127243753125,
+        "from": -262,
+        "name": "Apollonius of Perga",
+        "country": "Turkey",
+        "to": -190,
+        "link": "https://en.wikipedia.org/wiki/Apollonius_of_Perga",
+        "type": "science"
     },
     {
         "rating": 0.8127148990625,
@@ -7900,6 +8494,15 @@ dataReady({people:[
         "to": 1832,
         "link": "https://en.wikipedia.org/wiki/\u00c9variste_Galois",
         "type": "science"
+    },
+    {
+        "rating": 0.810831414375,
+        "from": 1653,
+        "name": "Arcangelo Corelli",
+        "country": "Italy",
+        "to": 1713,
+        "link": "https://en.wikipedia.org/wiki/Arcangelo_Corelli",
+        "type": "music"
     },
     {
         "rating": 0.8108067590625,
@@ -8352,6 +8955,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.809078680625,
+        "from": 1683,
+        "name": "Jean-Philippe Rameau",
+        "country": "France",
+        "to": 1764,
+        "link": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
+        "type": "music"
+    },
+    {
         "rating": 0.8090332615625,
         "from": 1890,
         "name": "Boris Pasternak",
@@ -8567,6 +9179,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.80773122875,
+        "from": 1874,
+        "name": "Arnold Schoenberg",
+        "country": "Austria",
+        "to": 1951,
+        "link": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
+        "type": "music"
+    },
+    {
         "rating": 0.8076137909375,
         "from": 1451,
         "name": "Isabella I of Castile",
@@ -8630,6 +9251,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.8072268675,
+        "from": 1532,
+        "name": "Orlande de Lassus",
+        "country": "Belgium",
+        "to": 1594,
+        "link": "https://en.wikipedia.org/wiki/Orlande_de_Lassus",
+        "type": "music"
+    },
+    {
         "rating": 0.8071724234375,
         "from": 1902,
         "name": "Ruhollah Khomeini",
@@ -8637,6 +9267,24 @@ dataReady({people:[
         "to": 1989,
         "link": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
         "type": "religion"
+    },
+    {
+        "rating": 0.8071306878125,
+        "from": 1400,
+        "name": "Rogier van der Weyden",
+        "country": "Belgium",
+        "to": 1464,
+        "link": "https://en.wikipedia.org/wiki/Rogier_van_der_Weyden",
+        "type": "arts"
+    },
+    {
+        "rating": 0.807064534375,
+        "from": 1792,
+        "name": "Gioachino Rossini",
+        "country": "Italy",
+        "to": 1868,
+        "link": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
+        "type": "music"
     },
     {
         "rating": 0.80702860625,
@@ -8963,6 +9611,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.8053776165625,
+        "from": 1908,
+        "name": "Herbert von Karajan",
+        "country": "Austria",
+        "to": 1989,
+        "link": "https://en.wikipedia.org/wiki/Herbert_von_Karajan",
+        "type": "music"
+    },
+    {
         "rating": 0.805344420625,
         "from": 1875,
         "name": "Gerd von Rundstedt",
@@ -8997,6 +9654,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Vladimir_Putin",
         "type": "politics"
+    },
+    {
+        "rating": 0.8050678528125,
+        "from": 1862,
+        "name": "Claude Debussy",
+        "country": "France",
+        "to": 1918,
+        "link": "https://en.wikipedia.org/wiki/Claude_Debussy",
+        "type": "music"
     },
     {
         "rating": 0.8050424125,
@@ -9123,6 +9789,15 @@ dataReady({people:[
         "to": 1031,
         "link": "https://en.wikipedia.org/wiki/Robert_II_of_France",
         "type": "politics"
+    },
+    {
+        "rating": 0.80465520625,
+        "from": -283,
+        "name": "Livius Andronicus",
+        "country": "Italy",
+        "to": -204,
+        "link": "https://en.wikipedia.org/wiki/Livius_Andronicus",
+        "type": "arts"
     },
     {
         "rating": 0.8046528534375,
@@ -9404,6 +10079,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.8038583284375,
+        "from": -50,
+        "name": "Propertius",
+        "country": "Italy",
+        "to": 15,
+        "link": "https://en.wikipedia.org/wiki/Propertius",
+        "type": "arts"
+    },
+    {
         "rating": 0.80384586875,
         "from": 1368,
         "name": "Sigismund, Holy Roman Emperor",
@@ -9419,6 +10103,15 @@ dataReady({people:[
         "country": "United States",
         "to": 1967,
         "link": "https://en.wikipedia.org/wiki/John_Coltrane",
+        "type": "music"
+    },
+    {
+        "rating": 0.80380334875,
+        "from": 1719,
+        "name": "Leopold Mozart",
+        "country": "Germany",
+        "to": 1787,
+        "link": "https://en.wikipedia.org/wiki/Leopold_Mozart",
         "type": "music"
     },
     {
@@ -9438,6 +10131,15 @@ dataReady({people:[
         "to": 461,
         "link": "https://en.wikipedia.org/wiki/Pope_Leo_I",
         "type": "religion"
+    },
+    {
+        "rating": 0.803753315625,
+        "from": 430,
+        "name": "Syagrius",
+        "country": "Unknown",
+        "to": 487,
+        "link": "https://en.wikipedia.org/wiki/Syagrius",
+        "type": "military"
     },
     {
         "rating": 0.8037467590625,
@@ -9482,6 +10184,15 @@ dataReady({people:[
         "country": "Georgia",
         "to": 1930,
         "link": "https://en.wikipedia.org/wiki/Vladimir_Mayakovsky",
+        "type": "arts"
+    },
+    {
+        "rating": 0.803661768125,
+        "from": -239,
+        "name": "Ennius",
+        "country": "Italy",
+        "to": -169,
+        "link": "https://en.wikipedia.org/wiki/Ennius",
         "type": "arts"
     },
     {
@@ -9845,6 +10556,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.8020630278125,
+        "from": 359,
+        "name": "Stilicho",
+        "country": "Unknown",
+        "to": 408,
+        "link": "https://en.wikipedia.org/wiki/Stilicho",
+        "type": "military"
+    },
+    {
         "rating": 0.8020089928125,
         "from": 1816,
         "name": "Charlotte Bront\u00eb",
@@ -9906,6 +10626,24 @@ dataReady({people:[
         "to": 1803,
         "link": "https://en.wikipedia.org/wiki/Johann_Gottfried_Herder",
         "type": "science"
+    },
+    {
+        "rating": 0.8019077565625,
+        "from": 991,
+        "name": "Guido of Arezzo",
+        "country": "France",
+        "to": 1050,
+        "link": "https://en.wikipedia.org/wiki/Guido_of_Arezzo",
+        "type": "music"
+    },
+    {
+        "rating": 0.8018838209375,
+        "from": 1705,
+        "name": "Farinelli",
+        "country": "Italy",
+        "to": 1782,
+        "link": "https://en.wikipedia.org/wiki/Farinelli",
+        "type": "music"
     },
     {
         "rating": 0.80187548125,
@@ -10232,6 +10970,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.8005919421875,
+        "from": 1891,
+        "name": "Sergei Prokofiev",
+        "country": "Ukraine",
+        "to": 1953,
+        "link": "https://en.wikipedia.org/wiki/Sergei_Prokofiev",
+        "type": "music"
+    },
+    {
         "rating": 0.8005899440625,
         "from": 1920,
         "name": "Charlie Parker",
@@ -10365,6 +11112,15 @@ dataReady({people:[
         "to": 1641,
         "link": "https://en.wikipedia.org/wiki/Anthony_van_Dyck",
         "type": "arts"
+    },
+    {
+        "rating": 0.79984186375,
+        "from": -460,
+        "name": "Critias",
+        "country": "Greece",
+        "to": -403,
+        "link": "https://en.wikipedia.org/wiki/Critias",
+        "type": "politics"
     },
     {
         "rating": 0.7997734675,
@@ -10518,6 +11274,15 @@ dataReady({people:[
         "to": 1636,
         "link": "https://en.wikipedia.org/wiki/Date_Masamune",
         "type": "military"
+    },
+    {
+        "rating": 0.7993418734375,
+        "from": 1714,
+        "name": "Carl Philipp Emanuel Bach",
+        "country": "Germany",
+        "to": 1788,
+        "link": "https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach",
+        "type": "music"
     },
     {
         "rating": 0.799333911875,
@@ -10763,6 +11528,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7985148765625,
+        "from": 485,
+        "name": "Cassiodorus",
+        "country": "Italy",
+        "to": 585,
+        "link": "https://en.wikipedia.org/wiki/Cassiodorus",
+        "type": "arts"
+    },
+    {
         "rating": 0.798506166875,
         "from": -550,
         "name": "Lucius Junius Brutus",
@@ -10889,6 +11663,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.798031019375,
+        "from": -400,
+        "name": "Parmenion",
+        "country": "Unknown",
+        "to": -330,
+        "link": "https://en.wikipedia.org/wiki/Parmenion",
+        "type": "military"
+    },
+    {
         "rating": 0.798012579375,
         "from": 1249,
         "name": "Pope John XXII",
@@ -10905,6 +11688,15 @@ dataReady({people:[
         "to": 578,
         "link": "https://en.wikipedia.org/wiki/Justin_II",
         "type": "politics"
+    },
+    {
+        "rating": 0.79798433125,
+        "from": 1159,
+        "name": "Minamoto no Yoshitsune",
+        "country": "Japan",
+        "to": 1189,
+        "link": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune",
+        "type": "military"
     },
     {
         "rating": 0.797956989375,
@@ -11213,6 +12005,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.796918829375,
+        "from": 1470,
+        "name": "Matthias Gr\u00fcnewald",
+        "country": "Germany",
+        "to": 1528,
+        "link": "https://en.wikipedia.org/wiki/Matthias_Gr\u00fcnewald",
+        "type": "arts"
+    },
+    {
         "rating": 0.796880379375,
         "from": 592,
         "name": "Khalid ibn al-Walid",
@@ -11273,6 +12074,15 @@ dataReady({people:[
         "country": "United States",
         "to": 1901,
         "link": "https://en.wikipedia.org/wiki/William_McKinley",
+        "type": "politics"
+    },
+    {
+        "rating": 0.79668302375,
+        "from": 380,
+        "name": "Ataulf",
+        "country": "Unknown",
+        "to": 415,
+        "link": "https://en.wikipedia.org/wiki/Ataulf",
         "type": "politics"
     },
     {
@@ -11474,6 +12284,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.79553662875,
+        "from": 1637,
+        "name": "Dieterich Buxtehude",
+        "country": "Germany",
+        "to": 1707,
+        "link": "https://en.wikipedia.org/wiki/Dieterich_Buxtehude",
+        "type": "music"
+    },
+    {
         "rating": 0.7954589340625,
         "from": 100,
         "name": "Pope Telesphorus",
@@ -11636,6 +12455,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7950027271875,
+        "from": 1660,
+        "name": "Alessandro Scarlatti",
+        "country": "Italy",
+        "to": 1725,
+        "link": "https://en.wikipedia.org/wiki/Alessandro_Scarlatti",
+        "type": "music"
+    },
+    {
         "rating": 0.7948281103125,
         "from": 150,
         "name": "Pope Zephyrinus",
@@ -11679,6 +12507,15 @@ dataReady({people:[
         "to": 142,
         "link": "https://en.wikipedia.org/wiki/Pope_Hyginus",
         "type": "religion"
+    },
+    {
+        "rating": 0.7947330725,
+        "from": 1825,
+        "name": "Johann Strauss II",
+        "country": "Austria",
+        "to": 1899,
+        "link": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+        "type": "music"
     },
     {
         "rating": 0.7946571090625,
@@ -11760,6 +12597,24 @@ dataReady({people:[
         "to": 236,
         "link": "https://en.wikipedia.org/wiki/Pope_Anterus",
         "type": "religion"
+    },
+    {
+        "rating": 0.7944696890625,
+        "from": 1170,
+        "name": "Wolfram von Eschenbach",
+        "country": "Germany",
+        "to": 1220,
+        "link": "https://en.wikipedia.org/wiki/Wolfram_von_Eschenbach",
+        "type": "arts"
+    },
+    {
+        "rating": 0.79445026,
+        "from": -1570,
+        "name": "Kamose",
+        "country": "Unknown",
+        "to": -1549,
+        "link": "https://en.wikipedia.org/wiki/Kamose",
+        "type": "politics"
     },
     {
         "rating": 0.7944391078125,
@@ -11859,6 +12714,15 @@ dataReady({people:[
         "to": 1975,
         "link": "https://en.wikipedia.org/wiki/Otto_Skorzeny",
         "type": "military"
+    },
+    {
+        "rating": 0.794296938125,
+        "from": 1430,
+        "name": "Hans Memling",
+        "country": "Germany",
+        "to": 1494,
+        "link": "https://en.wikipedia.org/wiki/Hans_Memling",
+        "type": "arts"
     },
     {
         "rating": 0.7942958796875,
@@ -12158,6 +13022,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.793429050625,
+        "from": 1735,
+        "name": "Johann Christian Bach",
+        "country": "Germany",
+        "to": 1782,
+        "link": "https://en.wikipedia.org/wiki/Johann_Christian_Bach",
+        "type": "music"
+    },
+    {
         "rating": 0.79342227375,
         "from": 1885,
         "name": "George S. Patton",
@@ -12165,6 +13038,15 @@ dataReady({people:[
         "to": 1945,
         "link": "https://en.wikipedia.org/wiki/George_S._Patton",
         "type": "military"
+    },
+    {
+        "rating": 0.79338966375,
+        "from": 1845,
+        "name": "Gabriel Faur\u00e9",
+        "country": "France",
+        "to": 1924,
+        "link": "https://en.wikipedia.org/wiki/Gabriel_Faur\u00e9",
+        "type": "music"
     },
     {
         "rating": 0.79338609375,
@@ -12482,6 +13364,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.7925250071875,
+        "from": 1170,
+        "name": "Walther von der Vogelweide",
+        "country": "Austria",
+        "to": 1230,
+        "link": "https://en.wikipedia.org/wiki/Walther_von_der_Vogelweide",
+        "type": "arts"
+    },
+    {
         "rating": 0.792450470625,
         "from": 1504,
         "name": "Pope Pius V",
@@ -12590,6 +13481,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7921646296875,
+        "from": 1818,
+        "name": "Charles Gounod",
+        "country": "France",
+        "to": 1893,
+        "link": "https://en.wikipedia.org/wiki/Charles_Gounod",
+        "type": "music"
+    },
+    {
         "rating": 0.7920931015625,
         "from": 1945,
         "name": "Neil Young",
@@ -12689,6 +13589,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7917425059375,
+        "from": 1912,
+        "name": "John Cage",
+        "country": "United States",
+        "to": 1992,
+        "link": "https://en.wikipedia.org/wiki/John_Cage",
+        "type": "music"
+    },
+    {
         "rating": 0.7917026375,
         "from": 1908,
         "name": "Bette Davis",
@@ -12696,6 +13605,15 @@ dataReady({people:[
         "to": 1989,
         "link": "https://en.wikipedia.org/wiki/Bette_Davis",
         "type": "arts"
+    },
+    {
+        "rating": 0.7916988828125,
+        "from": 690,
+        "name": "Pelagius of Asturias",
+        "country": "Unknown",
+        "to": 737,
+        "link": "https://en.wikipedia.org/wiki/Pelagius_of_Asturias",
+        "type": "politics"
     },
     {
         "rating": 0.791593211875,
@@ -13022,6 +13940,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.79063798,
+        "from": 1710,
+        "name": "Giovanni Battista Pergolesi",
+        "country": "Italy",
+        "to": 1736,
+        "link": "https://en.wikipedia.org/wiki/Giovanni_Battista_Pergolesi",
+        "type": "music"
+    },
+    {
         "rating": 0.7906254246875,
         "from": 1748,
         "name": "Jeremy Bentham",
@@ -13029,6 +13956,15 @@ dataReady({people:[
         "to": 1832,
         "link": "https://en.wikipedia.org/wiki/Jeremy_Bentham",
         "type": "science"
+    },
+    {
+        "rating": 0.79057249875,
+        "from": 1885,
+        "name": "Alban Berg",
+        "country": "Austria",
+        "to": 1935,
+        "link": "https://en.wikipedia.org/wiki/Alban_Berg",
+        "type": "music"
     },
     {
         "rating": 0.7905630590625,
@@ -13184,6 +14120,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.78976476875,
+        "from": 1733,
+        "name": "Joseph Priestley",
+        "country": "United Kingdom",
+        "to": 1804,
+        "link": "https://en.wikipedia.org/wiki/Joseph_Priestley",
+        "type": "science"
+    },
+    {
         "rating": 0.7897303490625,
         "from": 500,
         "name": "Pope Benedict I",
@@ -13200,6 +14145,15 @@ dataReady({people:[
         "to": 1923,
         "link": "https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals",
         "type": "science"
+    },
+    {
+        "rating": 0.789549106875,
+        "from": 688,
+        "name": "Roderic",
+        "country": "Unknown",
+        "to": 711,
+        "link": "https://en.wikipedia.org/wiki/Roderic",
+        "type": "politics"
     },
     {
         "rating": 0.78952034625,
@@ -13280,6 +14234,15 @@ dataReady({people:[
         "country": "United States",
         "to": 1999,
         "link": "https://en.wikipedia.org/wiki/Mario_Puzo",
+        "type": "arts"
+    },
+    {
+        "rating": 0.789294678125,
+        "from": -54,
+        "name": "Seneca the Elder",
+        "country": "Spain",
+        "to": 39,
+        "link": "https://en.wikipedia.org/wiki/Seneca_the_Elder",
         "type": "arts"
     },
     {
@@ -13398,6 +14361,15 @@ dataReady({people:[
         "to": 1918,
         "link": "https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia",
         "type": "public"
+    },
+    {
+        "rating": 0.7890106178125,
+        "from": 415,
+        "name": "Euric",
+        "country": "Unknown",
+        "to": 484,
+        "link": "https://en.wikipedia.org/wiki/Euric",
+        "type": "politics"
     },
     {
         "rating": 0.7889635021875,
@@ -13850,6 +14822,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.787381174375,
+        "from": 310,
+        "name": "Ausonius",
+        "country": "France",
+        "to": 395,
+        "link": "https://en.wikipedia.org/wiki/Ausonius",
+        "type": "arts"
+    },
+    {
         "rating": 0.7873482353125,
         "from": 965,
         "name": "Alhazen",
@@ -13922,6 +14903,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.787124805,
+        "from": 516,
+        "name": "Athalaric",
+        "country": "Unknown",
+        "to": 534,
+        "link": "https://en.wikipedia.org/wiki/Athalaric",
+        "type": "politics"
+    },
+    {
         "rating": 0.78711423125,
         "from": 1935,
         "name": "Norman Foster, Baron Foster of Thames Bank",
@@ -13956,6 +14946,15 @@ dataReady({people:[
         "to": 1998,
         "link": "https://en.wikipedia.org/wiki/Carlos_Castaneda",
         "type": "arts"
+    },
+    {
+        "rating": 0.7870786721875,
+        "from": 1150,
+        "name": "Saxo Grammaticus",
+        "country": "Denmark",
+        "to": 1220,
+        "link": "https://en.wikipedia.org/wiki/Saxo_Grammaticus",
+        "type": "science"
     },
     {
         "rating": 0.7870532571875,
@@ -14073,6 +15072,15 @@ dataReady({people:[
         "to": 90,
         "link": "https://en.wikipedia.org/wiki/Pedanius_Dioscorides",
         "type": "science"
+    },
+    {
+        "rating": 0.78669100625,
+        "from": -444,
+        "name": "Agesilaus II",
+        "country": "Greece",
+        "to": -360,
+        "link": "https://en.wikipedia.org/wiki/Agesilaus_II",
+        "type": "politics"
     },
     {
         "rating": 0.78667683,
@@ -14217,6 +15225,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Luiz_In\u00e1cio_Lula_da_Silva",
         "type": "politics"
+    },
+    {
+        "rating": 0.7862013775,
+        "from": 1885,
+        "name": "Ezra Pound",
+        "country": "United States",
+        "to": 1972,
+        "link": "https://en.wikipedia.org/wiki/Ezra_Pound",
+        "type": "arts"
     },
     {
         "rating": 0.7861942428125,
@@ -14489,6 +15506,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.7854699415625,
+        "from": 1593,
+        "name": "Georges de La Tour",
+        "country": "France",
+        "to": 1653,
+        "link": "https://en.wikipedia.org/wiki/Georges_de_La_Tour",
+        "type": "arts"
+    },
+    {
         "rating": 0.78546055125,
         "from": 1846,
         "name": "Buffalo Bill",
@@ -14541,6 +15567,15 @@ dataReady({people:[
         "to": 1987,
         "link": "https://en.wikipedia.org/wiki/Louis_de_Broglie",
         "type": "science"
+    },
+    {
+        "rating": 0.7853155428125,
+        "from": 1804,
+        "name": "Mikhail Glinka",
+        "country": "Russia",
+        "to": 1857,
+        "link": "https://en.wikipedia.org/wiki/Mikhail_Glinka",
+        "type": "music"
     },
     {
         "rating": 0.785295951875,
@@ -14651,6 +15686,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.785064091875,
+        "from": 720,
+        "name": "Paul the Deacon",
+        "country": "Italy",
+        "to": 799,
+        "link": "https://en.wikipedia.org/wiki/Paul_the_Deacon",
+        "type": "religion"
+    },
+    {
         "rating": 0.7850546025,
         "from": 1715,
         "name": "Peter II of Russia",
@@ -14667,6 +15711,15 @@ dataReady({people:[
         "to": 1252,
         "link": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
         "type": "public"
+    },
+    {
+        "rating": 0.7850193534375,
+        "from": 1668,
+        "name": "Fran\u00e7ois Couperin",
+        "country": "France",
+        "to": 1733,
+        "link": "https://en.wikipedia.org/wiki/Fran\u00e7ois_Couperin",
+        "type": "music"
     },
     {
         "rating": 0.784956885,
@@ -14957,6 +16010,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.784230550625,
+        "from": 1300,
+        "name": "Guillaume de Machaut",
+        "country": "France",
+        "to": 1377,
+        "link": "https://en.wikipedia.org/wiki/Guillaume_de_Machaut",
+        "type": "arts"
+    },
+    {
         "rating": 0.784226481875,
         "from": 1952,
         "name": "Steven Seagal",
@@ -15137,6 +16199,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7837669234375,
+        "from": 1822,
+        "name": "C\u00e9sar Franck",
+        "country": "Belgium",
+        "to": 1890,
+        "link": "https://en.wikipedia.org/wiki/C\u00e9sar_Franck",
+        "type": "music"
+    },
+    {
         "rating": 0.7837531475,
         "from": 1872,
         "name": "Calvin Coolidge",
@@ -15189,6 +16260,15 @@ dataReady({people:[
         "to": -1149,
         "link": "https://en.wikipedia.org/wiki/Ramesses_IV",
         "type": "politics"
+    },
+    {
+        "rating": 0.783592675,
+        "from": 1857,
+        "name": "Edward Elgar",
+        "country": "United Kingdom",
+        "to": 1934,
+        "link": "https://en.wikipedia.org/wiki/Edward_Elgar",
+        "type": "music"
     },
     {
         "rating": 0.7835829496875,
@@ -15261,6 +16341,15 @@ dataReady({people:[
         "to": 1925,
         "link": "https://en.wikipedia.org/wiki/Sergei_Yesenin",
         "type": "arts"
+    },
+    {
+        "rating": 0.783495095625,
+        "from": 450,
+        "name": "Alaric II",
+        "country": "Romania",
+        "to": 507,
+        "link": "https://en.wikipedia.org/wiki/Alaric_II",
+        "type": "politics"
     },
     {
         "rating": 0.7834793778125,
@@ -15530,6 +16619,15 @@ dataReady({people:[
         "to": 1352,
         "link": "https://en.wikipedia.org/wiki/Pope_Clement_VI",
         "type": "religion"
+    },
+    {
+        "rating": 0.782487620625,
+        "from": 1643,
+        "name": "Marc-Antoine Charpentier",
+        "country": "France",
+        "to": 1704,
+        "link": "https://en.wikipedia.org/wiki/Marc-Antoine_Charpentier",
+        "type": "music"
     },
     {
         "rating": 0.7824580078125,
@@ -15892,6 +16990,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7813942434375,
+        "from": 1585,
+        "name": "Heinrich Sch\u00fctz",
+        "country": "Germany",
+        "to": 1672,
+        "link": "https://en.wikipedia.org/wiki/Heinrich_Sch\u00fctz",
+        "type": "music"
+    },
+    {
         "rating": 0.78138314875,
         "from": -2500,
         "name": "Neferirkare Kakai",
@@ -15917,6 +17024,15 @@ dataReady({people:[
         "to": 1961,
         "link": "https://en.wikipedia.org/wiki/Dag_Hammarskj\u00f6ld",
         "type": "politics"
+    },
+    {
+        "rating": 0.781348114375,
+        "from": 1743,
+        "name": "Luigi Boccherini",
+        "country": "Italy",
+        "to": 1805,
+        "link": "https://en.wikipedia.org/wiki/Luigi_Boccherini",
+        "type": "music"
     },
     {
         "rating": 0.7813179046875,
@@ -16063,6 +17179,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7810151465625,
+        "from": 1928,
+        "name": "Karlheinz Stockhausen",
+        "country": "Germany",
+        "to": 2007,
+        "link": "https://en.wikipedia.org/wiki/Karlheinz_Stockhausen",
+        "type": "music"
+    },
+    {
         "rating": 0.7809959846875,
         "from": 1930,
         "name": "Gene Hackman",
@@ -16160,6 +17285,15 @@ dataReady({people:[
         "to": 199,
         "link": "https://en.wikipedia.org/wiki/Pope_Victor_I",
         "type": "religion"
+    },
+    {
+        "rating": 0.7807687390625,
+        "from": 1363,
+        "name": "Zeami Motokiyo",
+        "country": "Japan",
+        "to": 1443,
+        "link": "https://en.wikipedia.org/wiki/Zeami_Motokiyo",
+        "type": "arts"
     },
     {
         "rating": 0.7807590953125,
@@ -16333,6 +17467,33 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.78037831875,
+        "from": 1938,
+        "name": "Claudia Cardinale",
+        "country": "Tunisia",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Claudia_Cardinale",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7803685134375,
+        "from": 1781,
+        "name": "Karl Friedrich Schinkel",
+        "country": "Germany",
+        "to": 1841,
+        "link": "https://en.wikipedia.org/wiki/Karl_Friedrich_Schinkel",
+        "type": "arts"
+    },
+    {
+        "rating": 0.780355054375,
+        "from": -530,
+        "name": "Aristides",
+        "country": "Greece",
+        "to": -468,
+        "link": "https://en.wikipedia.org/wiki/Aristides",
+        "type": "politics"
+    },
+    {
         "rating": 0.78035170875,
         "from": 1,
         "name": "Pope Linus",
@@ -16459,6 +17620,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7799171934375,
+        "from": 1887,
+        "name": "Arthur Rubinstein",
+        "country": "Poland",
+        "to": 1982,
+        "link": "https://en.wikipedia.org/wiki/Arthur_Rubinstein",
+        "type": "music"
+    },
+    {
         "rating": 0.779825589375,
         "from": -185,
         "name": "Cleopatra II of Egypt",
@@ -16484,6 +17654,15 @@ dataReady({people:[
         "to": 1992,
         "link": "https://en.wikipedia.org/wiki/Menachem_Begin",
         "type": "politics"
+    },
+    {
+        "rating": 0.779632415625,
+        "from": 1854,
+        "name": "Leo\u0161 Jan\u00e1\u010dek",
+        "country": "Czech Republic",
+        "to": 1928,
+        "link": "https://en.wikipedia.org/wiki/Leo\u0161_Jan\u00e1\u010dek",
+        "type": "music"
     },
     {
         "rating": 0.779565855625,
@@ -16654,6 +17833,15 @@ dataReady({people:[
         "country": "Unknown",
         "to": -80,
         "link": "https://en.wikipedia.org/wiki/Ptolemy_XI_Alexander_II",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7791372546875,
+        "from": -2000,
+        "name": "Senusret I",
+        "country": "Unknown",
+        "to": -1926,
+        "link": "https://en.wikipedia.org/wiki/Senusret_I",
         "type": "politics"
     },
     {
@@ -16846,6 +18034,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7784082584375,
+        "from": 1692,
+        "name": "Giuseppe Tartini",
+        "country": "Slovenia",
+        "to": 1770,
+        "link": "https://en.wikipedia.org/wiki/Giuseppe_Tartini",
+        "type": "music"
+    },
+    {
         "rating": 0.778403134375,
         "from": 1868,
         "name": "Mikl\u00f3s Horthy",
@@ -16900,6 +18097,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.778268144375,
+        "from": 1907,
+        "name": "Laurence Olivier",
+        "country": "United Kingdom",
+        "to": 1989,
+        "link": "https://en.wikipedia.org/wiki/Laurence_Olivier",
+        "type": "arts"
+    },
+    {
         "rating": 0.77823083125,
         "from": 1868,
         "name": "Fritz Haber",
@@ -16942,6 +18148,15 @@ dataReady({people:[
         "to": 1922,
         "link": "https://en.wikipedia.org/wiki/Pope_Benedict_XV",
         "type": "religion"
+    },
+    {
+        "rating": 0.7781885378125,
+        "from": 1664,
+        "name": "Thomas Newcomen",
+        "country": "United Kingdom",
+        "to": 1729,
+        "link": "https://en.wikipedia.org/wiki/Thomas_Newcomen",
+        "type": "invention"
     },
     {
         "rating": 0.7781723496875,
@@ -17286,6 +18501,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.7774656121875,
+        "from": 1480,
+        "name": "Albrecht Altdorfer",
+        "country": "Germany",
+        "to": 1583,
+        "link": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer",
+        "type": "arts"
+    },
+    {
         "rating": 0.77743973875,
         "from": 1879,
         "name": "Max von Laue",
@@ -17401,6 +18625,15 @@ dataReady({people:[
         "to": 1982,
         "link": "https://en.wikipedia.org/wiki/Roman_Jakobson",
         "type": "science"
+    },
+    {
+        "rating": 0.77710256625,
+        "from": 170,
+        "name": "Julia Domna",
+        "country": "Syria",
+        "to": 217,
+        "link": "https://en.wikipedia.org/wiki/Julia_Domna",
+        "type": "public"
     },
     {
         "rating": 0.777093998125,
@@ -17861,6 +19094,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7758965403125,
+        "from": 45,
+        "name": "Statius",
+        "country": "Italy",
+        "to": 96,
+        "link": "https://en.wikipedia.org/wiki/Statius",
+        "type": "arts"
+    },
+    {
         "rating": 0.7758933053125,
         "from": 900,
         "name": "Pope Agapetus II",
@@ -17987,6 +19229,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.775555504375,
+        "from": 699,
+        "name": "Dagobert III",
+        "country": "Unknown",
+        "to": 715,
+        "link": "https://en.wikipedia.org/wiki/Dagobert_III",
+        "type": "politics"
+    },
+    {
         "rating": 0.7755472865625,
         "from": 1777,
         "name": "Heinrich von Kleist",
@@ -18075,6 +19326,15 @@ dataReady({people:[
         "to": 1962,
         "link": "https://en.wikipedia.org/wiki/Karen_Blixen",
         "type": "arts"
+    },
+    {
+        "rating": 0.77535630875,
+        "from": -1950,
+        "name": "Amenemhat II",
+        "country": "Unknown",
+        "to": -1895,
+        "link": "https://en.wikipedia.org/wiki/Amenemhat_II",
+        "type": "politics"
     },
     {
         "rating": 0.7753123221875,
@@ -18248,6 +19508,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.77501833,
+        "from": 1760,
+        "name": "Luigi Cherubini",
+        "country": "Italy",
+        "to": 1842,
+        "link": "https://en.wikipedia.org/wiki/Luigi_Cherubini",
+        "type": "music"
+    },
+    {
         "rating": 0.7749999915625,
         "from": -600,
         "name": "Belshazzar",
@@ -18264,6 +19533,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Emir_Kusturica",
         "type": "arts"
+    },
+    {
+        "rating": 0.774986018125,
+        "from": 1295,
+        "name": "Jean Buridan",
+        "country": "France",
+        "to": 1358,
+        "link": "https://en.wikipedia.org/wiki/Jean_Buridan",
+        "type": "science"
     },
     {
         "rating": 0.774984528125,
@@ -18617,6 +19895,24 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.774204630625,
+        "from": 1872,
+        "name": "Alexander Scriabin",
+        "country": "Russia",
+        "to": 1915,
+        "link": "https://en.wikipedia.org/wiki/Alexander_Scriabin",
+        "type": "music"
+    },
+    {
+        "rating": 0.7741980540625,
+        "from": -397,
+        "name": "Antipater",
+        "country": "Unknown",
+        "to": -319,
+        "link": "https://en.wikipedia.org/wiki/Antipater",
+        "type": "military"
+    },
+    {
         "rating": 0.7741960875,
         "from": 1953,
         "name": "Richard Stallman",
@@ -18698,6 +19994,24 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7739789221875,
+        "from": -350,
+        "name": "Bessus",
+        "country": "Unknown",
+        "to": -329,
+        "link": "https://en.wikipedia.org/wiki/Bessus",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7739705878125,
+        "from": 1397,
+        "name": "Guillaume Dufay",
+        "country": "Belgium",
+        "to": 1474,
+        "link": "https://en.wikipedia.org/wiki/Guillaume_Dufay",
+        "type": "music"
+    },
+    {
         "rating": 0.7739224375,
         "from": 371,
         "name": "Valentinian II",
@@ -18741,6 +20055,15 @@ dataReady({people:[
         "to": 176,
         "link": "https://en.wikipedia.org/wiki/Saint_Cecilia",
         "type": "religion"
+    },
+    {
+        "rating": 0.7738910096875,
+        "from": 1593,
+        "name": "Artemisia Gentileschi",
+        "country": "Italy",
+        "to": 1656,
+        "link": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+        "type": "arts"
     },
     {
         "rating": 0.7738854884375,
@@ -18804,6 +20127,15 @@ dataReady({people:[
         "to": 1858,
         "link": "https://en.wikipedia.org/wiki/Hiroshige",
         "type": "arts"
+    },
+    {
+        "rating": 0.77381921625,
+        "from": 1563,
+        "name": "John Dowland",
+        "country": "United Kingdom",
+        "to": 1626,
+        "link": "https://en.wikipedia.org/wiki/John_Dowland",
+        "type": "music"
     },
     {
         "rating": 0.773801676875,
@@ -18887,6 +20219,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.77369047125,
+        "from": 1809,
+        "name": "Georges-Eug\u00e8ne Haussmann",
+        "country": "France",
+        "to": 1891,
+        "link": "https://en.wikipedia.org/wiki/Georges-Eug\u00e8ne_Haussmann",
+        "type": "arts"
+    },
+    {
         "rating": 0.77367177125,
         "from": 1018,
         "name": "Pope Victor II",
@@ -18894,6 +20235,15 @@ dataReady({people:[
         "to": 1057,
         "link": "https://en.wikipedia.org/wiki/Pope_Victor_II",
         "type": "religion"
+    },
+    {
+        "rating": 0.77366650375,
+        "from": -264,
+        "name": "Gnaeus Naevius",
+        "country": "Italy",
+        "to": -201,
+        "link": "https://en.wikipedia.org/wiki/Gnaeus_Naevius",
+        "type": "arts"
     },
     {
         "rating": 0.7736522175,
@@ -18939,6 +20289,15 @@ dataReady({people:[
         "to": -278,
         "link": "https://en.wikipedia.org/wiki/Qu_Yuan",
         "type": "arts"
+    },
+    {
+        "rating": 0.77361759,
+        "from": -362,
+        "name": "Eumenes",
+        "country": "Unknown",
+        "to": -316,
+        "link": "https://en.wikipedia.org/wiki/Eumenes",
+        "type": "military"
     },
     {
         "rating": 0.7735886153125,
@@ -19292,6 +20651,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.77280563,
+        "from": 653,
+        "name": "Childeric II",
+        "country": "Unknown",
+        "to": 675,
+        "link": "https://en.wikipedia.org/wiki/Childeric_II",
+        "type": "politics"
+    },
+    {
         "rating": 0.7728003665625,
         "from": 1554,
         "name": "Pope Gregory XV",
@@ -19299,6 +20667,15 @@ dataReady({people:[
         "to": 1623,
         "link": "https://en.wikipedia.org/wiki/Pope_Gregory_XV",
         "type": "religion"
+    },
+    {
+        "rating": 0.7727849825,
+        "from": 1018,
+        "name": "Michael Psellos",
+        "country": "Turkey",
+        "to": 1070,
+        "link": "https://en.wikipedia.org/wiki/Michael_Psellos",
+        "type": "science"
     },
     {
         "rating": 0.772779848125,
@@ -19353,6 +20730,15 @@ dataReady({people:[
         "to": 1946,
         "link": "https://en.wikipedia.org/wiki/Alexander_Alekhine",
         "type": "sports"
+    },
+    {
+        "rating": 0.7726610303125,
+        "from": 1791,
+        "name": "Carl Czerny",
+        "country": "Austria",
+        "to": 1857,
+        "link": "https://en.wikipedia.org/wiki/Carl_Czerny",
+        "type": "music"
     },
     {
         "rating": 0.7726345525,
@@ -19436,6 +20822,24 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7723434040625,
+        "from": 484,
+        "name": "Theuderic I",
+        "country": "Unknown",
+        "to": 534,
+        "link": "https://en.wikipedia.org/wiki/Theuderic_I",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7722750990625,
+        "from": 1867,
+        "name": "Arturo Toscanini",
+        "country": "Italy",
+        "to": 1957,
+        "link": "https://en.wikipedia.org/wiki/Arturo_Toscanini",
+        "type": "music"
+    },
+    {
         "rating": 0.772273815625,
         "from": 1861,
         "name": "Mehmed VI",
@@ -19515,6 +20919,15 @@ dataReady({people:[
         "to": 353,
         "link": "https://en.wikipedia.org/wiki/Magnentius",
         "type": "politics"
+    },
+    {
+        "rating": 0.7721656490625,
+        "from": 1908,
+        "name": "Olivier Messiaen",
+        "country": "France",
+        "to": 1992,
+        "link": "https://en.wikipedia.org/wiki/Olivier_Messiaen",
+        "type": "music"
     },
     {
         "rating": 0.7721600771875,
@@ -19659,6 +21072,15 @@ dataReady({people:[
         "to": 1895,
         "link": "https://en.wikipedia.org/wiki/Thomas_Henry_Huxley",
         "type": "science"
+    },
+    {
+        "rating": 0.7718711665625,
+        "from": 775,
+        "name": "Einhard",
+        "country": "Germany",
+        "to": 840,
+        "link": "https://en.wikipedia.org/wiki/Einhard",
+        "type": "arts"
     },
     {
         "rating": 0.77186289,
@@ -19940,6 +21362,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.7713811475,
+        "from": 1410,
+        "name": "Johannes Ockeghem",
+        "country": "Belgium",
+        "to": 1497,
+        "link": "https://en.wikipedia.org/wiki/Johannes_Ockeghem",
+        "type": "music"
+    },
+    {
         "rating": 0.7713801178125,
         "from": 1649,
         "name": "Pope Clement XI",
@@ -19965,6 +21396,24 @@ dataReady({people:[
         "to": 965,
         "link": "https://en.wikipedia.org/wiki/Pope_Leo_VIII",
         "type": "religion"
+    },
+    {
+        "rating": 0.7713126775,
+        "from": 1855,
+        "name": "Ferdinand T\u00f6nnies",
+        "country": "Germany",
+        "to": 1936,
+        "link": "https://en.wikipedia.org/wiki/Ferdinand_T\u00f6nnies",
+        "type": "science"
+    },
+    {
+        "rating": 0.7712892734375,
+        "from": 1883,
+        "name": "Anton Webern",
+        "country": "Austria",
+        "to": 1945,
+        "link": "https://en.wikipedia.org/wiki/Anton_Webern",
+        "type": "music"
     },
     {
         "rating": 0.7712187421875,
@@ -20120,6 +21569,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.770885383125,
+        "from": 1360,
+        "name": "Jan \u017di\u017eka",
+        "country": "Czech Republic",
+        "to": 1424,
+        "link": "https://en.wikipedia.org/wiki/Jan_\u017di\u017eka",
+        "type": "military"
+    },
+    {
         "rating": 0.7708656984375,
         "from": -396,
         "name": "Xenocrates",
@@ -20145,6 +21603,15 @@ dataReady({people:[
         "to": 1130,
         "link": "https://en.wikipedia.org/wiki/Pope_Honorius_II",
         "type": "religion"
+    },
+    {
+        "rating": 0.77079054625,
+        "from": 500,
+        "name": "Ildibad",
+        "country": "Unknown",
+        "to": 541,
+        "link": "https://en.wikipedia.org/wiki/Ildibad",
+        "type": "politics"
     },
     {
         "rating": 0.770779896875,
@@ -20201,6 +21668,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.77067978375,
+        "from": 1842,
+        "name": "Jules Massenet",
+        "country": "France",
+        "to": 1912,
+        "link": "https://en.wikipedia.org/wiki/Jules_Massenet",
+        "type": "music"
+    },
+    {
         "rating": 0.7706796325,
         "from": 1394,
         "name": "Ulugh Beg",
@@ -20217,6 +21693,15 @@ dataReady({people:[
         "to": 1978,
         "link": "https://en.wikipedia.org/wiki/Aldo_Moro",
         "type": "politics"
+    },
+    {
+        "rating": 0.7706612453125,
+        "from": 100,
+        "name": "Simon bar Kokhba",
+        "country": "Unknown",
+        "to": 135,
+        "link": "https://en.wikipedia.org/wiki/Simon_bar_Kokhba",
+        "type": "public"
     },
     {
         "rating": 0.770582611875,
@@ -20327,6 +21812,15 @@ dataReady({people:[
         "type": "sports"
     },
     {
+        "rating": 0.770202736875,
+        "from": 1529,
+        "name": "Giambologna",
+        "country": "France",
+        "to": 1608,
+        "link": "https://en.wikipedia.org/wiki/Giambologna",
+        "type": "arts"
+    },
+    {
         "rating": 0.770195570625,
         "from": 1000,
         "name": "Pope Damasus II",
@@ -20343,6 +21837,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/John_Travolta",
         "type": "arts"
+    },
+    {
+        "rating": 0.770173448125,
+        "from": 1932,
+        "name": "Glenn Gould",
+        "country": "Canada",
+        "to": 1982,
+        "link": "https://en.wikipedia.org/wiki/Glenn_Gould",
+        "type": "music"
     },
     {
         "rating": 0.7701717653125,
@@ -20408,6 +21911,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7699281559375,
+        "from": 1810,
+        "name": "Alfred de Musset",
+        "country": "France",
+        "to": 1857,
+        "link": "https://en.wikipedia.org/wiki/Alfred_de_Musset",
+        "type": "arts"
+    },
+    {
         "rating": 0.769828524375,
         "from": 1921,
         "name": "Peter Ustinov",
@@ -20415,6 +21927,15 @@ dataReady({people:[
         "to": 2004,
         "link": "https://en.wikipedia.org/wiki/Peter_Ustinov",
         "type": "arts"
+    },
+    {
+        "rating": 0.769758439375,
+        "from": 1895,
+        "name": "Paul Hindemith",
+        "country": "Germany",
+        "to": 1963,
+        "link": "https://en.wikipedia.org/wiki/Paul_Hindemith",
+        "type": "music"
     },
     {
         "rating": 0.7697479784375,
@@ -20480,6 +22001,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7695891034375,
+        "from": 1450,
+        "name": "Josquin des Prez",
+        "country": "Belgium",
+        "to": 1521,
+        "link": "https://en.wikipedia.org/wiki/Josquin_des_Prez",
+        "type": "music"
+    },
+    {
         "rating": 0.7695505559375,
         "from": 1931,
         "name": "Philip Kotler",
@@ -20534,6 +22064,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7694014928125,
+        "from": 1838,
+        "name": "Max Bruch",
+        "country": "Germany",
+        "to": 1920,
+        "link": "https://en.wikipedia.org/wiki/Max_Bruch",
+        "type": "music"
+    },
+    {
         "rating": 0.76939378,
         "from": 1842,
         "name": "Karl May",
@@ -20541,6 +22080,15 @@ dataReady({people:[
         "to": 1912,
         "link": "https://en.wikipedia.org/wiki/Karl_May",
         "type": "arts"
+    },
+    {
+        "rating": 0.7693932309375,
+        "from": 354,
+        "name": "Pelagius",
+        "country": "Unknown",
+        "to": 418,
+        "link": "https://en.wikipedia.org/wiki/Pelagius",
+        "type": "science"
     },
     {
         "rating": 0.7693617428125,
@@ -20577,6 +22125,15 @@ dataReady({people:[
         "to": 1648,
         "link": "https://en.wikipedia.org/wiki/Christian_IV_of_Denmark",
         "type": "politics"
+    },
+    {
+        "rating": 0.7693321053125,
+        "from": 1874,
+        "name": "Gustav Holst",
+        "country": "United Kingdom",
+        "to": 1934,
+        "link": "https://en.wikipedia.org/wiki/Gustav_Holst",
+        "type": "music"
     },
     {
         "rating": 0.769302331875,
@@ -20640,6 +22197,15 @@ dataReady({people:[
         "to": 1679,
         "link": "https://en.wikipedia.org/wiki/Jan_Steen",
         "type": "arts"
+    },
+    {
+        "rating": 0.769199748125,
+        "from": 712,
+        "name": "Theuderic IV",
+        "country": "Unknown",
+        "to": 737,
+        "link": "https://en.wikipedia.org/wiki/Theuderic_IV",
+        "type": "politics"
     },
     {
         "rating": 0.7691869596875,
@@ -20739,6 +22305,15 @@ dataReady({people:[
         "to": 1900,
         "link": "https://en.wikipedia.org/wiki/Ivan_Aivazovsky",
         "type": "arts"
+    },
+    {
+        "rating": 0.769075205,
+        "from": 400,
+        "name": "Thorismund",
+        "country": "Unknown",
+        "to": 453,
+        "link": "https://en.wikipedia.org/wiki/Thorismund",
+        "type": "politics"
     },
     {
         "rating": 0.7690240215625,
@@ -20928,6 +22503,15 @@ dataReady({people:[
         "to": 1892,
         "link": "https://en.wikipedia.org/wiki/Ernest_Renan",
         "type": "science"
+    },
+    {
+        "rating": 0.7684103465625,
+        "from": 1916,
+        "name": "Yehudi Menuhin",
+        "country": "United States",
+        "to": 1999,
+        "link": "https://en.wikipedia.org/wiki/Yehudi_Menuhin",
+        "type": "music"
     },
     {
         "rating": 0.768407283125,
@@ -21317,6 +22901,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.7676676175,
+        "from": 420,
+        "name": "Theodoric II",
+        "country": "Unknown",
+        "to": 466,
+        "link": "https://en.wikipedia.org/wiki/Theodoric_II",
+        "type": "politics"
+    },
+    {
         "rating": 0.76766756125,
         "from": 682,
         "name": "Umar II",
@@ -21341,6 +22934,15 @@ dataReady({people:[
         "country": "Netherlands",
         "to": 1197,
         "link": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7676173025,
+        "from": 1725,
+        "name": "Pasquale Paoli",
+        "country": "France",
+        "to": 1807,
+        "link": "https://en.wikipedia.org/wiki/Pasquale_Paoli",
         "type": "politics"
     },
     {
@@ -21452,6 +23054,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.767397348125,
+        "from": 1841,
+        "name": "Henri Fayol",
+        "country": "Turkey",
+        "to": 1925,
+        "link": "https://en.wikipedia.org/wiki/Henri_Fayol",
+        "type": "science"
+    },
+    {
         "rating": 0.767388325625,
         "from": 930,
         "name": "Pope John XIII",
@@ -21515,6 +23126,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7673233084375,
+        "from": 1882,
+        "name": "Igor Stravinsky",
+        "country": "Russia",
+        "to": 1971,
+        "link": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+        "type": "music"
+    },
+    {
         "rating": 0.7672426759375,
         "from": 1850,
         "name": "Tom\u00e1\u0161 Garrigue Masaryk",
@@ -21522,6 +23142,15 @@ dataReady({people:[
         "to": 1937,
         "link": "https://en.wikipedia.org/wiki/Tom\u00e1\u0161_Garrigue_Masaryk",
         "type": "politics"
+    },
+    {
+        "rating": 0.7672285721875,
+        "from": 1871,
+        "name": "Heinrich Mann",
+        "country": "Germany",
+        "to": 1950,
+        "link": "https://en.wikipedia.org/wiki/Heinrich_Mann",
+        "type": "arts"
     },
     {
         "rating": 0.767204441875,
@@ -21548,6 +23177,24 @@ dataReady({people:[
         "country": "United Kingdom",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Brian_May",
+        "type": "music"
+    },
+    {
+        "rating": 0.76712768625,
+        "from": 1752,
+        "name": "Muzio Clementi",
+        "country": "Italy",
+        "to": 1832,
+        "link": "https://en.wikipedia.org/wiki/Muzio_Clementi",
+        "type": "music"
+    },
+    {
+        "rating": 0.7671247996875,
+        "from": 1583,
+        "name": "Girolamo Frescobaldi",
+        "country": "Italy",
+        "to": 1643,
+        "link": "https://en.wikipedia.org/wiki/Girolamo_Frescobaldi",
         "type": "music"
     },
     {
@@ -21603,6 +23250,15 @@ dataReady({people:[
         "to": 1914,
         "link": "https://en.wikipedia.org/wiki/Ambrose_Bierce",
         "type": "arts"
+    },
+    {
+        "rating": 0.7669726259375,
+        "from": 1873,
+        "name": "Max Reger",
+        "country": "Germany",
+        "to": 1916,
+        "link": "https://en.wikipedia.org/wiki/Max_Reger",
+        "type": "music"
     },
     {
         "rating": 0.7669594003125,
@@ -21947,6 +23603,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7663147478125,
+        "from": 1749,
+        "name": "Domenico Cimarosa",
+        "country": "Italy",
+        "to": 1801,
+        "link": "https://en.wikipedia.org/wiki/Domenico_Cimarosa",
+        "type": "music"
+    },
+    {
         "rating": 0.7663026684375,
         "from": 370,
         "name": "Pope Zosimus",
@@ -22100,6 +23765,24 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7660219821875,
+        "from": 1863,
+        "name": "Pietro Mascagni",
+        "country": "Italy",
+        "to": 1945,
+        "link": "https://en.wikipedia.org/wiki/Pietro_Mascagni",
+        "type": "music"
+    },
+    {
+        "rating": 0.766004554375,
+        "from": 1089,
+        "name": "Abraham ibn Ezra",
+        "country": "Spain",
+        "to": 1167,
+        "link": "https://en.wikipedia.org/wiki/Abraham_ibn_Ezra",
+        "type": "science"
+    },
+    {
         "rating": 0.76598865125,
         "from": 1909,
         "name": "Kwame Nkrumah",
@@ -22107,6 +23790,24 @@ dataReady({people:[
         "to": 1972,
         "link": "https://en.wikipedia.org/wiki/Kwame_Nkrumah",
         "type": "politics"
+    },
+    {
+        "rating": 0.7659871046875,
+        "from": 1375,
+        "name": "Robert Campin",
+        "country": "Belgium",
+        "to": 1444,
+        "link": "https://en.wikipedia.org/wiki/Robert_Campin",
+        "type": "arts"
+    },
+    {
+        "rating": 0.765969549375,
+        "from": 1899,
+        "name": "Francis Poulenc",
+        "country": "France",
+        "to": 1963,
+        "link": "https://en.wikipedia.org/wiki/Francis_Poulenc",
+        "type": "music"
     },
     {
         "rating": 0.765958711875,
@@ -22253,6 +23954,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.76573719125,
+        "from": 1237,
+        "name": "Adam de la Halle",
+        "country": "France",
+        "to": 1288,
+        "link": "https://en.wikipedia.org/wiki/Adam_de_la_Halle",
+        "type": "arts"
+    },
+    {
         "rating": 0.7657323540625,
         "from": 1956,
         "name": "Mel Gibson",
@@ -22289,6 +23999,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.765609743125,
+        "from": 1900,
+        "name": "Kurt Weill",
+        "country": "Germany",
+        "to": 1950,
+        "link": "https://en.wikipedia.org/wiki/Kurt_Weill",
+        "type": "music"
+    },
+    {
         "rating": 0.7655934971875,
         "from": 1894,
         "name": "Fritz Sauckel",
@@ -22314,6 +24033,24 @@ dataReady({people:[
         "to": 1786,
         "link": "https://en.wikipedia.org/wiki/Moses_Mendelssohn",
         "type": "science"
+    },
+    {
+        "rating": 0.7655541915625,
+        "from": -1850,
+        "name": "Amenemhat IV",
+        "country": "Unknown",
+        "to": -1806,
+        "link": "https://en.wikipedia.org/wiki/Amenemhat_IV",
+        "type": "politics"
+    },
+    {
+        "rating": 0.765553061875,
+        "from": 480,
+        "name": "Gelimer",
+        "country": "Unknown",
+        "to": 553,
+        "link": "https://en.wikipedia.org/wiki/Gelimer",
+        "type": "politics"
     },
     {
         "rating": 0.7655492375,
@@ -22442,6 +24179,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7650755178125,
+        "from": 1566,
+        "name": "Carlo Gesualdo",
+        "country": "Italy",
+        "to": 1613,
+        "link": "https://en.wikipedia.org/wiki/Carlo_Gesualdo",
+        "type": "music"
+    },
+    {
         "rating": 0.765057985,
         "from": 1891,
         "name": "Rudolf Carnap",
@@ -22466,6 +24212,15 @@ dataReady({people:[
         "country": "Sweden",
         "to": 1697,
         "link": "https://en.wikipedia.org/wiki/Charles_XI_of_Sweden",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7650102509375,
+        "from": -420,
+        "name": "Cyrus the Younger",
+        "country": "Unknown",
+        "to": -401,
+        "link": "https://en.wikipedia.org/wiki/Cyrus_the_Younger",
         "type": "politics"
     },
     {
@@ -22547,6 +24302,15 @@ dataReady({people:[
         "country": "Unknown",
         "to": -44,
         "link": "https://en.wikipedia.org/wiki/Burebista",
+        "type": "politics"
+    },
+    {
+        "rating": 0.764869556875,
+        "from": 751,
+        "name": "Carloman I",
+        "country": "Unknown",
+        "to": 771,
+        "link": "https://en.wikipedia.org/wiki/Carloman_I",
         "type": "politics"
     },
     {
@@ -22721,6 +24485,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.7645428528125,
+        "from": 1903,
+        "name": "Vladimir Horowitz",
+        "country": "Ukraine",
+        "to": 1989,
+        "link": "https://en.wikipedia.org/wiki/Vladimir_Horowitz",
+        "type": "music"
+    },
+    {
         "rating": 0.7645349575,
         "from": 1920,
         "name": "Javier P\u00e9rez de Cu\u00e9llar",
@@ -22820,6 +24593,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.764321864375,
+        "from": 1499,
+        "name": "Niccol\u00f2 Fontana Tartaglia",
+        "country": "Italy",
+        "to": 1557,
+        "link": "https://en.wikipedia.org/wiki/Niccol\u00f2_Fontana_Tartaglia",
+        "type": "science"
+    },
+    {
         "rating": 0.7643081975,
         "from": 1832,
         "name": "Nikolaus Otto",
@@ -22836,6 +24618,15 @@ dataReady({people:[
         "to": 1871,
         "link": "https://en.wikipedia.org/wiki/John_Herschel",
         "type": "invention"
+    },
+    {
+        "rating": 0.76423254875,
+        "from": 1870,
+        "name": "Franz Leh\u00e1r",
+        "country": "Hungary",
+        "to": 1948,
+        "link": "https://en.wikipedia.org/wiki/Franz_Leh\u00e1r",
+        "type": "music"
     },
     {
         "rating": 0.76423079,
@@ -22872,6 +24663,15 @@ dataReady({people:[
         "to": 999,
         "link": "https://en.wikipedia.org/wiki/Pope_Gregory_V",
         "type": "religion"
+    },
+    {
+        "rating": 0.7641186853125,
+        "from": 1552,
+        "name": "Hans von Aachen",
+        "country": "Germany",
+        "to": 1615,
+        "link": "https://en.wikipedia.org/wiki/Hans_von_Aachen",
+        "type": "arts"
     },
     {
         "rating": 0.7640814728125,
@@ -23007,6 +24807,15 @@ dataReady({people:[
         "to": 287,
         "link": "https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian",
         "type": "science"
+    },
+    {
+        "rating": 0.7637489925,
+        "from": 654,
+        "name": "Theuderic III",
+        "country": "Unknown",
+        "to": 691,
+        "link": "https://en.wikipedia.org/wiki/Theuderic_III",
+        "type": "politics"
     },
     {
         "rating": 0.7637201015625,
@@ -23261,6 +25070,15 @@ dataReady({people:[
         "type": "explorer"
     },
     {
+        "rating": 0.7631424534375,
+        "from": 670,
+        "name": "Childebert III",
+        "country": "Unknown",
+        "to": 711,
+        "link": "https://en.wikipedia.org/wiki/Childebert_III",
+        "type": "politics"
+    },
+    {
         "rating": 0.7631271540625,
         "from": 1960,
         "name": "Diego Maradona",
@@ -23378,6 +25196,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7629141565625,
+        "from": 1554,
+        "name": "Giovanni Gabrieli",
+        "country": "Italy",
+        "to": 1612,
+        "link": "https://en.wikipedia.org/wiki/Giovanni_Gabrieli",
+        "type": "music"
+    },
+    {
         "rating": 0.76289706125,
         "from": 850,
         "name": "Pope John IX",
@@ -23486,6 +25313,24 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.762692795,
+        "from": 1933,
+        "name": "Montserrat Caball\u00e9",
+        "country": "Spain",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Montserrat_Caball\u00e9",
+        "type": "music"
+    },
+    {
+        "rating": 0.7626453346875,
+        "from": -23,
+        "name": "Herod Archelaus",
+        "country": "Unknown",
+        "to": 18,
+        "link": "https://en.wikipedia.org/wiki/Herod_Archelaus",
+        "type": "politics"
+    },
+    {
         "rating": 0.762629311875,
         "from": 1822,
         "name": "Fr\u00e9d\u00e9ric Passy",
@@ -23522,6 +25367,15 @@ dataReady({people:[
         "type": "criminal"
     },
     {
+        "rating": 0.7625827565625,
+        "from": 1626,
+        "name": "Sabbatai Zevi",
+        "country": "Turkey",
+        "to": 1676,
+        "link": "https://en.wikipedia.org/wiki/Sabbatai_Zevi",
+        "type": "religion"
+    },
+    {
         "rating": 0.7625331703125,
         "from": 1909,
         "name": "Simone Weil",
@@ -23540,6 +25394,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7624246496875,
+        "from": 1913,
+        "name": "Benjamin Britten",
+        "country": "United Kingdom",
+        "to": 1976,
+        "link": "https://en.wikipedia.org/wiki/Benjamin_Britten",
+        "type": "music"
+    },
+    {
         "rating": 0.7623990246875,
         "from": 1917,
         "name": "Ilya Prigogine",
@@ -23547,6 +25410,24 @@ dataReady({people:[
         "to": 2003,
         "link": "https://en.wikipedia.org/wiki/Ilya_Prigogine",
         "type": "science"
+    },
+    {
+        "rating": 0.7623833284375,
+        "from": 1445,
+        "name": "Luca Signorelli",
+        "country": "Italy",
+        "to": 1523,
+        "link": "https://en.wikipedia.org/wiki/Luca_Signorelli",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7623799690625,
+        "from": 1077,
+        "name": "Abdul-Qadir Gilani",
+        "country": "Iran",
+        "to": 1166,
+        "link": "https://en.wikipedia.org/wiki/Abdul-Qadir_Gilani",
+        "type": "religion"
     },
     {
         "rating": 0.762342339375,
@@ -23594,6 +25475,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.76219916625,
+        "from": 1903,
+        "name": "Fernandel",
+        "country": "France",
+        "to": 1971,
+        "link": "https://en.wikipedia.org/wiki/Fernandel",
+        "type": "arts"
+    },
+    {
         "rating": 0.7621881190625,
         "from": 1881,
         "name": "Clinton Davisson",
@@ -23610,6 +25500,15 @@ dataReady({people:[
         "to": 1958,
         "link": "https://en.wikipedia.org/wiki/Fr\u00e9d\u00e9ric_Joliot-Curie",
         "type": "science"
+    },
+    {
+        "rating": 0.7621018653125,
+        "from": 1908,
+        "name": "Ian Fleming",
+        "country": "United Kingdom",
+        "to": 1964,
+        "link": "https://en.wikipedia.org/wiki/Ian_Fleming",
+        "type": "arts"
     },
     {
         "rating": 0.762095920625,
@@ -23636,6 +25535,24 @@ dataReady({people:[
         "country": "Poland",
         "to": 1942,
         "link": "https://en.wikipedia.org/wiki/Janusz_Korczak",
+        "type": "arts"
+    },
+    {
+        "rating": 0.76204565625,
+        "from": 1923,
+        "name": "Gy\u00f6rgy Ligeti",
+        "country": "Romania",
+        "to": 2006,
+        "link": "https://en.wikipedia.org/wiki/Gy\u00f6rgy_Ligeti",
+        "type": "music"
+    },
+    {
+        "rating": 0.7620394196875,
+        "from": 1081,
+        "name": "Suger",
+        "country": "France",
+        "to": 1151,
+        "link": "https://en.wikipedia.org/wiki/Suger",
         "type": "arts"
     },
     {
@@ -23756,6 +25673,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.76182291625,
+        "from": 1551,
+        "name": "Giulio Caccini",
+        "country": "Italy",
+        "to": 1618,
+        "link": "https://en.wikipedia.org/wiki/Giulio_Caccini",
+        "type": "music"
+    },
+    {
         "rating": 0.761817728125,
         "from": 1943,
         "name": "David Cronenberg",
@@ -23781,6 +25707,15 @@ dataReady({people:[
         "to": 1235,
         "link": "https://en.wikipedia.org/wiki/Andrew_II_of_Hungary",
         "type": "politics"
+    },
+    {
+        "rating": 0.76176233875,
+        "from": 1857,
+        "name": "Ruggero Leoncavallo",
+        "country": "Italy",
+        "to": 1919,
+        "link": "https://en.wikipedia.org/wiki/Ruggero_Leoncavallo",
+        "type": "music"
     },
     {
         "rating": 0.7617586934375,
@@ -23907,6 +25842,15 @@ dataReady({people:[
         "to": 2007,
         "link": "https://en.wikipedia.org/wiki/Marcel_Marceau",
         "type": "arts"
+    },
+    {
+        "rating": 0.761449035,
+        "from": 1791,
+        "name": "Giacomo Meyerbeer",
+        "country": "Germany",
+        "to": 1864,
+        "link": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer",
+        "type": "music"
     },
     {
         "rating": 0.7614403496875,
@@ -24151,6 +26095,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.761070350625,
+        "from": 1935,
+        "name": "Arvo P\u00e4rt",
+        "country": "Estonia",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Arvo_P\u00e4rt",
+        "type": "music"
+    },
+    {
         "rating": 0.761060075625,
         "from": 825,
         "name": "Boris I of Bulgaria",
@@ -24167,6 +26120,15 @@ dataReady({people:[
         "to": 1391,
         "link": "https://en.wikipedia.org/wiki/John_V_Palaiologos",
         "type": "politics"
+    },
+    {
+        "rating": 0.76100145625,
+        "from": 1872,
+        "name": "Johan Huizinga",
+        "country": "Netherlands",
+        "to": 1945,
+        "link": "https://en.wikipedia.org/wiki/Johan_Huizinga",
+        "type": "science"
     },
     {
         "rating": 0.7609984534375,
@@ -24194,6 +26156,15 @@ dataReady({people:[
         "to": 1016,
         "link": "https://en.wikipedia.org/wiki/Edmund_Ironside",
         "type": "politics"
+    },
+    {
+        "rating": 0.7609345040625,
+        "from": 50,
+        "name": "Akiva ben Joseph",
+        "country": "Unknown",
+        "to": 135,
+        "link": "https://en.wikipedia.org/wiki/Akiva_ben_Joseph",
+        "type": "religion"
     },
     {
         "rating": 0.760899114375,
@@ -24284,6 +26255,15 @@ dataReady({people:[
         "to": 1943,
         "link": "https://en.wikipedia.org/wiki/Sophie_Scholl",
         "type": "public"
+    },
+    {
+        "rating": 0.7607067640625,
+        "from": 1494,
+        "name": "Hans Sachs",
+        "country": "Germany",
+        "to": 1576,
+        "link": "https://en.wikipedia.org/wiki/Hans_Sachs",
+        "type": "arts"
     },
     {
         "rating": 0.7606963353125,
@@ -24411,6 +26391,24 @@ dataReady({people:[
         "type": "business"
     },
     {
+        "rating": 0.76041823625,
+        "from": 1737,
+        "name": "Michael Haydn",
+        "country": "Austria",
+        "to": 1806,
+        "link": "https://en.wikipedia.org/wiki/Michael_Haydn",
+        "type": "music"
+    },
+    {
+        "rating": 0.760409665625,
+        "from": 1699,
+        "name": "Jean-Baptiste-Sim\u00e9on Chardin",
+        "country": "France",
+        "to": 1779,
+        "link": "https://en.wikipedia.org/wiki/Jean-Baptiste-Sim\u00e9on_Chardin",
+        "type": "arts"
+    },
+    {
         "rating": 0.76040066375,
         "from": 1877,
         "name": "Charles Glover Barkla",
@@ -24480,6 +26478,15 @@ dataReady({people:[
         "country": "United Kingdom",
         "to": 1928,
         "link": "https://en.wikipedia.org/wiki/Thomas_Hardy",
+        "type": "arts"
+    },
+    {
+        "rating": 0.760207238125,
+        "from": 1880,
+        "name": "Alexander Blok",
+        "country": "Russia",
+        "to": 1921,
+        "link": "https://en.wikipedia.org/wiki/Alexander_Blok",
         "type": "arts"
     },
     {
@@ -24807,6 +26814,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7596132134375,
+        "from": 1773,
+        "name": "Ludwig Tieck",
+        "country": "Germany",
+        "to": 1853,
+        "link": "https://en.wikipedia.org/wiki/Ludwig_Tieck",
+        "type": "arts"
+    },
+    {
         "rating": 0.75960874,
         "from": 1752,
         "name": "Adrien-Marie Legendre",
@@ -24906,6 +26922,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7594494484375,
+        "from": 40,
+        "name": "Frontinus",
+        "country": "Unknown",
+        "to": 103,
+        "link": "https://en.wikipedia.org/wiki/Frontinus",
+        "type": "arts"
+    },
+    {
         "rating": 0.7593852628125,
         "from": 1900,
         "name": "Andrey Vlasov",
@@ -24967,6 +26992,15 @@ dataReady({people:[
         "to": 1919,
         "link": "https://en.wikipedia.org/wiki/Carl_Larsson",
         "type": "arts"
+    },
+    {
+        "rating": 0.759236105625,
+        "from": 1050,
+        "name": "Peter the Hermit",
+        "country": "France",
+        "to": 1115,
+        "link": "https://en.wikipedia.org/wiki/Peter_the_Hermit",
+        "type": "religion"
     },
     {
         "rating": 0.75923096,
@@ -25095,6 +27129,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.7590227775,
+        "from": 1582,
+        "name": "Gregorio Allegri",
+        "country": "Italy",
+        "to": 1652,
+        "link": "https://en.wikipedia.org/wiki/Gregorio_Allegri",
+        "type": "music"
+    },
+    {
         "rating": 0.758962151875,
         "from": 1713,
         "name": "Ferdinand VI of Spain",
@@ -25138,6 +27181,15 @@ dataReady({people:[
         "to": 1983,
         "link": "https://en.wikipedia.org/wiki/Arthur_Koestler",
         "type": "arts"
+    },
+    {
+        "rating": 0.7589379228125,
+        "from": 517,
+        "name": "Charibert I",
+        "country": "Unknown",
+        "to": 567,
+        "link": "https://en.wikipedia.org/wiki/Charibert_I",
+        "type": "politics"
     },
     {
         "rating": 0.7589334465625,
@@ -25192,6 +27244,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Alejandro_Jodorowsky",
         "type": "arts"
+    },
+    {
+        "rating": 0.758684089375,
+        "from": -619,
+        "name": "Alyattes of Lydia",
+        "country": "Unknown",
+        "to": -560,
+        "link": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
+        "type": "politics"
     },
     {
         "rating": 0.758681320625,
@@ -25293,6 +27354,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.75848869375,
+        "from": 1865,
+        "name": "Carl Nielsen",
+        "country": "Denmark",
+        "to": 1931,
+        "link": "https://en.wikipedia.org/wiki/Carl_Nielsen",
+        "type": "music"
+    },
+    {
         "rating": 0.7584746359375,
         "from": 1892,
         "name": "Mary Pickford",
@@ -25329,6 +27399,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.7584199190625,
+        "from": 682,
+        "name": "Clovis IV",
+        "country": "Unknown",
+        "to": 695,
+        "link": "https://en.wikipedia.org/wiki/Clovis_IV",
+        "type": "politics"
+    },
+    {
         "rating": 0.7583888828125,
         "from": 1174,
         "name": "Theodore I Laskaris",
@@ -25347,6 +27426,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7583179596875,
+        "from": 1440,
+        "name": "Hugo van der Goes",
+        "country": "Belgium",
+        "to": 1482,
+        "link": "https://en.wikipedia.org/wiki/Hugo_van_der_Goes",
+        "type": "arts"
+    },
+    {
         "rating": 0.7583002759375,
         "from": 1397,
         "name": "Sejong the Great",
@@ -25363,6 +27451,24 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Alberto_Fujimori",
         "type": "politics"
+    },
+    {
+        "rating": 0.7582821746875,
+        "from": 1470,
+        "name": "Martin Waldseem\u00fcller",
+        "country": "Germany",
+        "to": 1520,
+        "link": "https://en.wikipedia.org/wiki/Martin_Waldseem\u00fcller",
+        "type": "science"
+    },
+    {
+        "rating": 0.7582453746875,
+        "from": 1407,
+        "name": "Lorenzo Valla",
+        "country": "Italy",
+        "to": 1457,
+        "link": "https://en.wikipedia.org/wiki/Lorenzo_Valla",
+        "type": "arts"
     },
     {
         "rating": 0.7581941790625,
@@ -25455,6 +27561,15 @@ dataReady({people:[
         "type": "explorer"
     },
     {
+        "rating": 0.7580162003125,
+        "from": 1710,
+        "name": "Wilhelm Friedemann Bach",
+        "country": "Germany",
+        "to": 1784,
+        "link": "https://en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach",
+        "type": "music"
+    },
+    {
         "rating": 0.757996398125,
         "from": 1818,
         "name": "Adolf Anderssen",
@@ -25479,6 +27594,15 @@ dataReady({people:[
         "country": "Italy",
         "to": 1778,
         "link": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+        "type": "arts"
+    },
+    {
+        "rating": 0.757848563125,
+        "from": 1420,
+        "name": "Jean Fouquet",
+        "country": "France",
+        "to": 1481,
+        "link": "https://en.wikipedia.org/wiki/Jean_Fouquet",
         "type": "arts"
     },
     {
@@ -25689,6 +27813,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.7574364653125,
+        "from": 1892,
+        "name": "Darius Milhaud",
+        "country": "France",
+        "to": 1974,
+        "link": "https://en.wikipedia.org/wiki/Darius_Milhaud",
+        "type": "music"
+    },
+    {
         "rating": 0.75742516,
         "from": 770,
         "name": "Pope Stephen IV",
@@ -25725,6 +27858,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.75733654125,
+        "from": 1876,
+        "name": "Pablo Casals",
+        "country": "Spain",
+        "to": 1973,
+        "link": "https://en.wikipedia.org/wiki/Pablo_Casals",
+        "type": "music"
+    },
+    {
         "rating": 0.757318106875,
         "from": 1883,
         "name": "Semyon Budyonny",
@@ -25740,6 +27882,24 @@ dataReady({people:[
         "country": "Denmark",
         "to": 1182,
         "link": "https://en.wikipedia.org/wiki/Valdemar_I_of_Denmark",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7573060853125,
+        "from": 1848,
+        "name": "Joris-Karl Huysmans",
+        "country": "France",
+        "to": 1907,
+        "link": "https://en.wikipedia.org/wiki/Joris-Karl_Huysmans",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7573043984375,
+        "from": 570,
+        "name": "Childebert II",
+        "country": "Unknown",
+        "to": 595,
+        "link": "https://en.wikipedia.org/wiki/Childebert_II",
         "type": "politics"
     },
     {
@@ -25759,6 +27919,15 @@ dataReady({people:[
         "to": 2006,
         "link": "https://en.wikipedia.org/wiki/Alfredo_Stroessner",
         "type": "politics"
+    },
+    {
+        "rating": 0.75721727,
+        "from": 1865,
+        "name": "Paul Dukas",
+        "country": "France",
+        "to": 1935,
+        "link": "https://en.wikipedia.org/wiki/Paul_Dukas",
+        "type": "music"
     },
     {
         "rating": 0.757184268125,
@@ -25887,6 +28056,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.7569100603125,
+        "from": 1740,
+        "name": "Giovanni Paisiello",
+        "country": "Italy",
+        "to": 1816,
+        "link": "https://en.wikipedia.org/wiki/Giovanni_Paisiello",
+        "type": "music"
+    },
+    {
         "rating": 0.7569049140625,
         "from": 860,
         "name": "Louis III of France",
@@ -25939,6 +28117,15 @@ dataReady({people:[
         "to": 1983,
         "link": "https://en.wikipedia.org/wiki/Raymond_Aron",
         "type": "science"
+    },
+    {
+        "rating": 0.7568173225,
+        "from": 1869,
+        "name": "Karl Haushofer",
+        "country": "Germany",
+        "to": 1946,
+        "link": "https://en.wikipedia.org/wiki/Karl_Haushofer",
+        "type": "politics"
     },
     {
         "rating": 0.756810645,
@@ -26156,6 +28343,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7563295,
+        "from": 1923,
+        "name": "Maria Callas",
+        "country": "United States",
+        "to": 1977,
+        "link": "https://en.wikipedia.org/wiki/Maria_Callas",
+        "type": "music"
+    },
+    {
         "rating": 0.7563290025,
         "from": 1169,
         "name": "Alexios II Komnenos",
@@ -26181,6 +28377,24 @@ dataReady({people:[
         "to": 1753,
         "link": "https://en.wikipedia.org/wiki/Balthasar_Neumann",
         "type": "arts"
+    },
+    {
+        "rating": 0.7562727571875,
+        "from": 1760,
+        "name": "Fran\u00e7ois-No\u00ebl Babeuf",
+        "country": "France",
+        "to": 1797,
+        "link": "https://en.wikipedia.org/wiki/Fran\u00e7ois-No\u00ebl_Babeuf",
+        "type": "other"
+    },
+    {
+        "rating": 0.756257263125,
+        "from": 450,
+        "name": "Huneric",
+        "country": "Unknown",
+        "to": 484,
+        "link": "https://en.wikipedia.org/wiki/Huneric",
+        "type": "politics"
     },
     {
         "rating": 0.7562112475,
@@ -26228,6 +28442,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7561670959375,
+        "from": 1772,
+        "name": "Karl Wilhelm Friedrich Schlegel",
+        "country": "Germany",
+        "to": 1829,
+        "link": "https://en.wikipedia.org/wiki/Karl_Wilhelm_Friedrich_Schlegel",
+        "type": "arts"
+    },
+    {
         "rating": 0.7561403640625,
         "from": 1017,
         "name": "Henry III, Holy Roman Emperor",
@@ -26246,6 +28469,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7561234975,
+        "from": 535,
+        "name": "Theudebald",
+        "country": "Unknown",
+        "to": 555,
+        "link": "https://en.wikipedia.org/wiki/Theudebald",
+        "type": "politics"
+    },
+    {
         "rating": 0.756123431875,
         "from": 1450,
         "name": "Aldus Manutius",
@@ -26253,6 +28485,15 @@ dataReady({people:[
         "to": 1515,
         "link": "https://en.wikipedia.org/wiki/Aldus_Manutius",
         "type": "arts"
+    },
+    {
+        "rating": 0.75609902875,
+        "from": 1910,
+        "name": "Samuel Barber",
+        "country": "United States",
+        "to": 1981,
+        "link": "https://en.wikipedia.org/wiki/Samuel_Barber",
+        "type": "music"
     },
     {
         "rating": 0.756065360625,
@@ -26307,6 +28548,24 @@ dataReady({people:[
         "to": 1852,
         "link": "https://en.wikipedia.org/wiki/Ada_Lovelace",
         "type": "science"
+    },
+    {
+        "rating": 0.755989034375,
+        "from": 586,
+        "name": "Theudebert II",
+        "country": "Unknown",
+        "to": 612,
+        "link": "https://en.wikipedia.org/wiki/Theudebert_II",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7559837240625,
+        "from": 1505,
+        "name": "Thomas Tallis",
+        "country": "United Kingdom",
+        "to": 1585,
+        "link": "https://en.wikipedia.org/wiki/Thomas_Tallis",
+        "type": "religion"
     },
     {
         "rating": 0.7559791684375,
@@ -26388,6 +28647,15 @@ dataReady({people:[
         "to": 514,
         "link": "https://en.wikipedia.org/wiki/Pope_Symmachus",
         "type": "religion"
+    },
+    {
+        "rating": 0.75583962,
+        "from": 1833,
+        "name": "\u00c9lie Ducommun",
+        "country": "Switzerland",
+        "to": 1906,
+        "link": "https://en.wikipedia.org/wiki/\u00c9lie_Ducommun",
+        "type": "public"
     },
     {
         "rating": 0.7558313628125,
@@ -26480,6 +28748,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7556910040625,
+        "from": 1852,
+        "name": "Francisco T\u00e1rrega",
+        "country": "Spain",
+        "to": 1909,
+        "link": "https://en.wikipedia.org/wiki/Francisco_T\u00e1rrega",
+        "type": "music"
+    },
+    {
         "rating": 0.755679559375,
         "from": 1891,
         "name": "Walther Bothe",
@@ -26505,6 +28782,15 @@ dataReady({people:[
         "to": 1875,
         "link": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Austria",
         "type": "politics"
+    },
+    {
+        "rating": 0.755656096875,
+        "from": 1494,
+        "name": "Rosso Fiorentino",
+        "country": "Italy",
+        "to": 1540,
+        "link": "https://en.wikipedia.org/wiki/Rosso_Fiorentino",
+        "type": "arts"
     },
     {
         "rating": 0.755649115625,
@@ -26588,6 +28874,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7554245628125,
+        "from": 1887,
+        "name": "Heitor Villa-Lobos",
+        "country": "Brazil",
+        "to": 1959,
+        "link": "https://en.wikipedia.org/wiki/Heitor_Villa-Lobos",
+        "type": "music"
+    },
+    {
         "rating": 0.755408078125,
         "from": 1877,
         "name": "Frederick Soddy",
@@ -26667,6 +28962,15 @@ dataReady({people:[
         "to": 1948,
         "link": "https://en.wikipedia.org/wiki/Walther_von_Brauchitsch",
         "type": "military"
+    },
+    {
+        "rating": 0.7552932540625,
+        "from": 1591,
+        "name": "Jusepe de Ribera",
+        "country": "Spain",
+        "to": 1652,
+        "link": "https://en.wikipedia.org/wiki/Jusepe_de_Ribera",
+        "type": "arts"
     },
     {
         "rating": 0.7552603984375,
@@ -26765,6 +29069,15 @@ dataReady({people:[
         "country": "Italy",
         "to": 1430,
         "link": "https://en.wikipedia.org/wiki/Christine_de_Pizan",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7549377196875,
+        "from": 1421,
+        "name": "Andrea del Castagno",
+        "country": "Italy",
+        "to": 1457,
+        "link": "https://en.wikipedia.org/wiki/Andrea_del_Castagno",
         "type": "arts"
     },
     {
@@ -27056,6 +29369,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7542460784375,
+        "from": 1854,
+        "name": "Henri La Fontaine",
+        "country": "Belgium",
+        "to": 1943,
+        "link": "https://en.wikipedia.org/wiki/Henri_La_Fontaine",
+        "type": "business"
+    },
+    {
         "rating": 0.7542277303125,
         "from": 1775,
         "name": "Lucien Bonaparte",
@@ -27146,6 +29468,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7541020771875,
+        "from": 1556,
+        "name": "Carlo Maderno",
+        "country": "Switzerland",
+        "to": 1629,
+        "link": "https://en.wikipedia.org/wiki/Carlo_Maderno",
+        "type": "arts"
+    },
+    {
         "rating": 0.7540792984375,
         "from": 1896,
         "name": "Howard Hawks",
@@ -27153,6 +29484,15 @@ dataReady({people:[
         "to": 1977,
         "link": "https://en.wikipedia.org/wiki/Howard_Hawks",
         "type": "arts"
+    },
+    {
+        "rating": 0.7540638634375,
+        "from": 1892,
+        "name": "Arthur Honegger",
+        "country": "France",
+        "to": 1955,
+        "link": "https://en.wikipedia.org/wiki/Arthur_Honegger",
+        "type": "music"
     },
     {
         "rating": 0.754062536875,
@@ -27252,6 +29592,15 @@ dataReady({people:[
         "to": 1138,
         "link": "https://en.wikipedia.org/wiki/Boles\u0142aw_III_Wrymouth",
         "type": "politics"
+    },
+    {
+        "rating": 0.7538421525,
+        "from": 1882,
+        "name": "Zolt\u00e1n Kod\u00e1ly",
+        "country": "Hungary",
+        "to": 1967,
+        "link": "https://en.wikipedia.org/wiki/Zolt\u00e1n_Kod\u00e1ly",
+        "type": "music"
     },
     {
         "rating": 0.7538400628125,
@@ -27506,6 +29855,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.753327628125,
+        "from": 1941,
+        "name": "Martha Argerich",
+        "country": "Argentina",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Martha_Argerich",
+        "type": "music"
+    },
+    {
         "rating": 0.7533168915625,
         "from": 1904,
         "name": "Alexei Nikolaevich, Tsarevich of Russia",
@@ -27540,6 +29898,15 @@ dataReady({people:[
         "to": 1918,
         "link": "https://en.wikipedia.org/wiki/Edmond_Rostand",
         "type": "arts"
+    },
+    {
+        "rating": 0.75327599375,
+        "from": 1602,
+        "name": "Francesco Cavalli",
+        "country": "Italy",
+        "to": 1676,
+        "link": "https://en.wikipedia.org/wiki/Francesco_Cavalli",
+        "type": "music"
     },
     {
         "rating": 0.75325463875,
@@ -27612,6 +29979,15 @@ dataReady({people:[
         "to": 1687,
         "link": "https://en.wikipedia.org/wiki/Johannes_Hevelius",
         "type": "science"
+    },
+    {
+        "rating": 0.7531658884375,
+        "from": 200,
+        "name": "Novatian",
+        "country": "Unknown",
+        "to": 258,
+        "link": "https://en.wikipedia.org/wiki/Novatian",
+        "type": "arts"
     },
     {
         "rating": 0.753164096875,
@@ -27731,6 +30107,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.752877444375,
+        "from": 1879,
+        "name": "Ottorino Respighi",
+        "country": "Italy",
+        "to": 1936,
+        "link": "https://en.wikipedia.org/wiki/Ottorino_Respighi",
+        "type": "music"
+    },
+    {
         "rating": 0.752871555,
         "from": 1877,
         "name": "Edgar Cayce",
@@ -27740,6 +30125,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.7528615396875,
+        "from": 1562,
+        "name": "Jan Pieterszoon Sweelinck",
+        "country": "Netherlands",
+        "to": 1621,
+        "link": "https://en.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck",
+        "type": "music"
+    },
+    {
         "rating": 0.7528514434375,
         "from": 1897,
         "name": "Enid Blyton",
@@ -27747,6 +30141,15 @@ dataReady({people:[
         "to": 1968,
         "link": "https://en.wikipedia.org/wiki/Enid_Blyton",
         "type": "arts"
+    },
+    {
+        "rating": 0.752844304375,
+        "from": 1464,
+        "name": "Huayna Capac",
+        "country": "Ecuador",
+        "to": 1527,
+        "link": "https://en.wikipedia.org/wiki/Huayna_Capac",
+        "type": "politics"
     },
     {
         "rating": 0.7528320859375,
@@ -27801,6 +30204,15 @@ dataReady({people:[
         "to": 1549,
         "link": "https://en.wikipedia.org/wiki/Marguerite_de_Navarre",
         "type": "arts"
+    },
+    {
+        "rating": 0.7527758809375,
+        "from": 1805,
+        "name": "Joseph Smith",
+        "country": "United States",
+        "to": 1844,
+        "link": "https://en.wikipedia.org/wiki/Joseph_Smith",
+        "type": "religion"
     },
     {
         "rating": 0.752750540625,
@@ -27864,6 +30276,15 @@ dataReady({people:[
         "to": 1357,
         "link": "https://en.wikipedia.org/wiki/Gregory_Palamas",
         "type": "religion"
+    },
+    {
+        "rating": 0.752567613125,
+        "from": 1860,
+        "name": "Isaac Alb\u00e9niz",
+        "country": "Spain",
+        "to": 1909,
+        "link": "https://en.wikipedia.org/wiki/Isaac_Alb\u00e9niz",
+        "type": "music"
     },
     {
         "rating": 0.7525415878125,
@@ -28172,6 +30593,24 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.751805736875,
+        "from": 1825,
+        "name": "Ferdinand Lassalle",
+        "country": "Poland",
+        "to": 1864,
+        "link": "https://en.wikipedia.org/wiki/Ferdinand_Lassalle",
+        "type": "public"
+    },
+    {
+        "rating": 0.7518043996875,
+        "from": 566,
+        "name": "Al-\u2018Abbas ibn \u2018Abd al-Muttalib",
+        "country": "Unknown",
+        "to": 653,
+        "link": "https://en.wikipedia.org/wiki/Al-\u2018Abbas_ibn_\u2018Abd_al-Muttalib",
+        "type": "public"
+    },
+    {
         "rating": 0.751789544375,
         "from": 1920,
         "name": "Walter Matthau",
@@ -28233,6 +30672,15 @@ dataReady({people:[
         "to": 1930,
         "link": "https://en.wikipedia.org/wiki/Horst_Wessel",
         "type": "public"
+    },
+    {
+        "rating": 0.751665349375,
+        "from": 1769,
+        "name": "Ivan Krylov",
+        "country": "Russia",
+        "to": 1844,
+        "link": "https://en.wikipedia.org/wiki/Ivan_Krylov",
+        "type": "arts"
     },
     {
         "rating": 0.7516596490625,
@@ -28305,6 +30753,15 @@ dataReady({people:[
         "to": 1867,
         "link": "https://en.wikipedia.org/wiki/Th\u00e9odore_Rousseau",
         "type": "arts"
+    },
+    {
+        "rating": 0.7514887625,
+        "from": 1182,
+        "name": "Giovanni da Pian del Carpine",
+        "country": "Italy",
+        "to": 1252,
+        "link": "https://en.wikipedia.org/wiki/Giovanni_da_Pian_del_Carpine",
+        "type": "explorer"
     },
     {
         "rating": 0.751454324375,
@@ -28541,6 +30998,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7509861896875,
+        "from": 1766,
+        "name": "Germaine de Sta\u00ebl",
+        "country": "France",
+        "to": 1817,
+        "link": "https://en.wikipedia.org/wiki/Germaine_de_Sta\u00ebl",
+        "type": "arts"
+    },
+    {
         "rating": 0.7509175609375,
         "from": 800,
         "name": "Pope Valentine",
@@ -28593,6 +31059,15 @@ dataReady({people:[
         "to": 1957,
         "link": "https://en.wikipedia.org/wiki/Oliver_Hardy",
         "type": "arts"
+    },
+    {
+        "rating": 0.750692536875,
+        "from": 1438,
+        "name": "Pachacuti",
+        "country": "Peru",
+        "to": 1471,
+        "link": "https://en.wikipedia.org/wiki/Pachacuti",
+        "type": "politics"
     },
     {
         "rating": 0.750673345,
@@ -28739,6 +31214,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.75047212875,
+        "from": 1902,
+        "name": "Alva Myrdal",
+        "country": "Sweden",
+        "to": 1986,
+        "link": "https://en.wikipedia.org/wiki/Alva_Myrdal",
+        "type": "politics"
+    },
+    {
         "rating": 0.750461253125,
         "from": 1884,
         "name": "\u0130smet \u0130n\u00f6n\u00fc",
@@ -28811,6 +31295,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7503605053125,
+        "from": 1843,
+        "name": "Charles Albert Gobat",
+        "country": "Switzerland",
+        "to": 1914,
+        "link": "https://en.wikipedia.org/wiki/Charles_Albert_Gobat",
+        "type": "business"
+    },
+    {
         "rating": 0.750343506875,
         "from": 1105,
         "name": "Ibn Tufail",
@@ -28818,6 +31311,15 @@ dataReady({people:[
         "to": 1185,
         "link": "https://en.wikipedia.org/wiki/Ibn_Tufail",
         "type": "science"
+    },
+    {
+        "rating": 0.75033943,
+        "from": 1782,
+        "name": "Daniel Auber",
+        "country": "France",
+        "to": 1871,
+        "link": "https://en.wikipedia.org/wiki/Daniel_Auber",
+        "type": "music"
     },
     {
         "rating": 0.7503336375,
@@ -28881,6 +31383,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Thomas_Pynchon",
         "type": "arts"
+    },
+    {
+        "rating": 0.7502475371875,
+        "from": 1052,
+        "name": "Raymond IV, Count of Toulouse",
+        "country": "France",
+        "to": 1105,
+        "link": "https://en.wikipedia.org/wiki/Raymond_IV,_Count_of_Toulouse",
+        "type": "military"
     },
     {
         "rating": 0.7502347121875,
@@ -28991,6 +31502,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7498617790625,
+        "from": 1876,
+        "name": "Manuel de Falla",
+        "country": "Spain",
+        "to": 1946,
+        "link": "https://en.wikipedia.org/wiki/Manuel_de_Falla",
+        "type": "music"
+    },
+    {
         "rating": 0.74985976875,
         "from": 1275,
         "name": "Henry VII, Holy Roman Emperor",
@@ -29025,6 +31545,15 @@ dataReady({people:[
         "to": 1994,
         "link": "https://en.wikipedia.org/wiki/Ant\u00f4nio_Carlos_Jobim",
         "type": "music"
+    },
+    {
+        "rating": 0.7497949165625,
+        "from": 1448,
+        "name": "Martin Schongauer",
+        "country": "France",
+        "to": 1491,
+        "link": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+        "type": "arts"
     },
     {
         "rating": 0.7497948384375,
@@ -29070,6 +31599,15 @@ dataReady({people:[
         "to": 2012,
         "link": "https://en.wikipedia.org/wiki/Ray_Bradbury",
         "type": "arts"
+    },
+    {
+        "rating": 0.749751864375,
+        "from": 903,
+        "name": "Abd al-Rahman al-Sufi",
+        "country": "Unknown",
+        "to": 986,
+        "link": "https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi",
+        "type": "science"
     },
     {
         "rating": 0.749745699375,
@@ -29187,6 +31725,15 @@ dataReady({people:[
         "to": 1964,
         "link": "https://en.wikipedia.org/wiki/Victor_Francis_Hess",
         "type": "science"
+    },
+    {
+        "rating": 0.74922316375,
+        "from": 1472,
+        "name": "Fra Bartolomeo",
+        "country": "Italy",
+        "to": 1517,
+        "link": "https://en.wikipedia.org/wiki/Fra_Bartolomeo",
+        "type": "arts"
     },
     {
         "rating": 0.7492097146875,
@@ -29369,6 +31916,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7487792,
+        "from": 1866,
+        "name": "Ferruccio Busoni",
+        "country": "Italy",
+        "to": 1924,
+        "link": "https://en.wikipedia.org/wiki/Ferruccio_Busoni",
+        "type": "music"
+    },
+    {
         "rating": 0.748779125625,
         "from": 1863,
         "name": "George Herbert Mead",
@@ -29421,6 +31977,15 @@ dataReady({people:[
         "to": 1572,
         "link": "https://en.wikipedia.org/wiki/John_Knox",
         "type": "religion"
+    },
+    {
+        "rating": 0.7487202928125,
+        "from": 1767,
+        "name": "August Wilhelm Schlegel",
+        "country": "Germany",
+        "to": 1845,
+        "link": "https://en.wikipedia.org/wiki/August_Wilhelm_Schlegel",
+        "type": "arts"
     },
     {
         "rating": 0.74871987625,
@@ -29486,6 +32051,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7486217675,
+        "from": 1834,
+        "name": "Amilcare Ponchielli",
+        "country": "Italy",
+        "to": 1886,
+        "link": "https://en.wikipedia.org/wiki/Amilcare_Ponchielli",
+        "type": "music"
+    },
+    {
         "rating": 0.7486048821875,
         "from": 1890,
         "name": "Franz Werfel",
@@ -29493,6 +32067,15 @@ dataReady({people:[
         "to": 1945,
         "link": "https://en.wikipedia.org/wiki/Franz_Werfel",
         "type": "arts"
+    },
+    {
+        "rating": 0.748579683125,
+        "from": 1699,
+        "name": "Johann Adolph Hasse",
+        "country": "Germany",
+        "to": 1783,
+        "link": "https://en.wikipedia.org/wiki/Johann_Adolph_Hasse",
+        "type": "music"
     },
     {
         "rating": 0.7485771634375,
@@ -29864,6 +32447,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.747712808125,
+        "from": 1804,
+        "name": "Johann Strauss I",
+        "country": "Austria",
+        "to": 1849,
+        "link": "https://en.wikipedia.org/wiki/Johann_Strauss_I",
+        "type": "music"
+    },
+    {
         "rating": 0.7477050834375,
         "from": 1857,
         "name": "Alfred Binet",
@@ -29924,6 +32516,15 @@ dataReady({people:[
         "country": "Morocco",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Abdelaziz_Bouteflika",
+        "type": "politics"
+    },
+    {
+        "rating": 0.747613355,
+        "from": 1828,
+        "name": "Randal Cremer",
+        "country": "United Kingdom",
+        "to": 1908,
+        "link": "https://en.wikipedia.org/wiki/Randal_Cremer",
         "type": "politics"
     },
     {
@@ -30035,6 +32636,24 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.7474490475,
+        "from": 1658,
+        "name": "Giuseppe Torelli",
+        "country": "Italy",
+        "to": 1709,
+        "link": "https://en.wikipedia.org/wiki/Giuseppe_Torelli",
+        "type": "music"
+    },
+    {
+        "rating": 0.74744218,
+        "from": 1656,
+        "name": "Marin Marais",
+        "country": "France",
+        "to": 1728,
+        "link": "https://en.wikipedia.org/wiki/Marin_Marais",
+        "type": "music"
+    },
+    {
         "rating": 0.7473871553125,
         "from": 421,
         "name": "Bahram V",
@@ -30096,6 +32715,15 @@ dataReady({people:[
         "to": 1994,
         "link": "https://en.wikipedia.org/wiki/John_Wayne_Gacy",
         "type": "public"
+    },
+    {
+        "rating": 0.7472733240625,
+        "from": 1922,
+        "name": "Iannis Xenakis",
+        "country": "Romania",
+        "to": 2001,
+        "link": "https://en.wikipedia.org/wiki/Iannis_Xenakis",
+        "type": "music"
     },
     {
         "rating": 0.7472567209375,
@@ -30332,6 +32960,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7467111228125,
+        "from": 830,
+        "name": "Carloman of Bavaria",
+        "country": "Germany",
+        "to": 880,
+        "link": "https://en.wikipedia.org/wiki/Carloman_of_Bavaria",
+        "type": "politics"
+    },
+    {
         "rating": 0.7467043334375,
         "from": 1593,
         "name": "Mumtaz Mahal",
@@ -30420,6 +33057,15 @@ dataReady({people:[
         "to": 1890,
         "link": "https://en.wikipedia.org/wiki/Richard_Francis_Burton",
         "type": "explorer"
+    },
+    {
+        "rating": 0.7464140340625,
+        "from": 1867,
+        "name": "Pierre Bonnard",
+        "country": "France",
+        "to": 1947,
+        "link": "https://en.wikipedia.org/wiki/Pierre_Bonnard",
+        "type": "arts"
     },
     {
         "rating": 0.746367758125,
@@ -30593,12 +33239,30 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.74612478375,
+        "from": 1886,
+        "name": "Wilhelm Furtw\u00e4ngler",
+        "country": "Germany",
+        "to": 1954,
+        "link": "https://en.wikipedia.org/wiki/Wilhelm_Furtw\u00e4ngler",
+        "type": "music"
+    },
+    {
         "rating": 0.746108955625,
         "from": 1967,
         "name": "Kurt Cobain",
         "country": "United States",
         "to": 1994,
         "link": "https://en.wikipedia.org/wiki/Kurt_Cobain",
+        "type": "music"
+    },
+    {
+        "rating": 0.7461011253125,
+        "from": 1803,
+        "name": "Adolphe Adam",
+        "country": "France",
+        "to": 1856,
+        "link": "https://en.wikipedia.org/wiki/Adolphe_Adam",
         "type": "music"
     },
     {
@@ -30663,6 +33327,15 @@ dataReady({people:[
         "to": 1997,
         "link": "https://en.wikipedia.org/wiki/Isaiah_Berlin",
         "type": "science"
+    },
+    {
+        "rating": 0.7459762196875,
+        "from": 1844,
+        "name": "Klas Pontus Arnoldson",
+        "country": "Sweden",
+        "to": 1916,
+        "link": "https://en.wikipedia.org/wiki/Klas_Pontus_Arnoldson",
+        "type": "politics"
     },
     {
         "rating": 0.745964265625,
@@ -30782,6 +33455,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7457510728125,
+        "from": 1700,
+        "name": "Francesco Bartolomeo Rastrelli",
+        "country": "France",
+        "to": 1771,
+        "link": "https://en.wikipedia.org/wiki/Francesco_Bartolomeo_Rastrelli",
+        "type": "arts"
+    },
+    {
         "rating": 0.7457289103125,
         "from": 1040,
         "name": "Alfonso VI of Le\u00f3n and Castile",
@@ -30807,6 +33489,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Brian_Eno",
         "type": "music"
+    },
+    {
+        "rating": 0.7457026940625,
+        "from": 1848,
+        "name": "Gustave Caillebotte",
+        "country": "France",
+        "to": 1894,
+        "link": "https://en.wikipedia.org/wiki/Gustave_Caillebotte",
+        "type": "arts"
     },
     {
         "rating": 0.745702134375,
@@ -31142,6 +33833,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7451545315625,
+        "from": 1765,
+        "name": "Robert Fulton",
+        "country": "United States",
+        "to": 1815,
+        "link": "https://en.wikipedia.org/wiki/Robert_Fulton",
+        "type": "invention"
+    },
+    {
         "rating": 0.7451334175,
         "from": 1890,
         "name": "Robert Ley",
@@ -31167,6 +33867,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Bill_Murray",
         "type": "arts"
+    },
+    {
+        "rating": 0.7450969746875,
+        "from": 1837,
+        "name": "Mily Balakirev",
+        "country": "Russia",
+        "to": 1910,
+        "link": "https://en.wikipedia.org/wiki/Mily_Balakirev",
+        "type": "music"
     },
     {
         "rating": 0.7450747503125,
@@ -31311,6 +34020,15 @@ dataReady({people:[
         "to": 1971,
         "link": "https://en.wikipedia.org/wiki/Paul_Karrer",
         "type": "science"
+    },
+    {
+        "rating": 0.7447999446875,
+        "from": 1571,
+        "name": "Tirso de Molina",
+        "country": "Spain",
+        "to": 1648,
+        "link": "https://en.wikipedia.org/wiki/Tirso_de_Molina",
+        "type": "arts"
     },
     {
         "rating": 0.7447937415625,
@@ -31529,6 +34247,24 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.744549225625,
+        "from": 1390,
+        "name": "John Dunstaple",
+        "country": "United Kingdom",
+        "to": 1453,
+        "link": "https://en.wikipedia.org/wiki/John_Dunstaple",
+        "type": "music"
+    },
+    {
+        "rating": 0.7445442815625,
+        "from": 1568,
+        "name": "Jan Brueghel the Elder",
+        "country": "Belgium",
+        "to": 1625,
+        "link": "https://en.wikipedia.org/wiki/Jan_Brueghel_the_Elder",
+        "type": "arts"
+    },
+    {
         "rating": 0.7445323403125,
         "from": 1884,
         "name": "\u00c9douard Daladier",
@@ -31536,6 +34272,15 @@ dataReady({people:[
         "to": 1970,
         "link": "https://en.wikipedia.org/wiki/\u00c9douard_Daladier",
         "type": "politics"
+    },
+    {
+        "rating": 0.7444347496875,
+        "from": 1540,
+        "name": "William Byrd",
+        "country": "United Kingdom",
+        "to": 1623,
+        "link": "https://en.wikipedia.org/wiki/William_Byrd",
+        "type": "music"
     },
     {
         "rating": 0.744434126875,
@@ -31547,12 +34292,39 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7444324296875,
+        "from": 1564,
+        "name": "Pieter Brueghel the Younger",
+        "country": "Belgium",
+        "to": 1636,
+        "link": "https://en.wikipedia.org/wiki/Pieter_Brueghel_the_Younger",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7444214853125,
+        "from": 1749,
+        "name": "Lorenzo Da Ponte",
+        "country": "Italy",
+        "to": 1838,
+        "link": "https://en.wikipedia.org/wiki/Lorenzo_Da_Ponte",
+        "type": "arts"
+    },
+    {
         "rating": 0.744414206875,
         "from": 1940,
         "name": "Nancy Sinatra",
         "country": "United States",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Nancy_Sinatra",
+        "type": "music"
+    },
+    {
+        "rating": 0.74439901,
+        "from": 1925,
+        "name": "Pierre Boulez",
+        "country": "France",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Pierre_Boulez",
         "type": "music"
     },
     {
@@ -31608,6 +34380,15 @@ dataReady({people:[
         "to": 1889,
         "link": "https://en.wikipedia.org/wiki/Mihai_Eminescu",
         "type": "arts"
+    },
+    {
+        "rating": 0.7442515003125,
+        "from": 1915,
+        "name": "Sviatoslav Richter",
+        "country": "Ukraine",
+        "to": 1997,
+        "link": "https://en.wikipedia.org/wiki/Sviatoslav_Richter",
+        "type": "music"
     },
     {
         "rating": 0.7442486178125,
@@ -31709,6 +34490,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.744020983125,
+        "from": 1733,
+        "name": "Christoph Martin Wieland",
+        "country": "Germany",
+        "to": 1813,
+        "link": "https://en.wikipedia.org/wiki/Christoph_Martin_Wieland",
+        "type": "arts"
+    },
+    {
         "rating": 0.744014545,
         "from": 1943,
         "name": "Joseph Stiglitz",
@@ -31743,6 +34533,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Hugh_Laurie",
         "type": "arts"
+    },
+    {
+        "rating": 0.743932923125,
+        "from": 1835,
+        "name": "C\u00e9sar Cui",
+        "country": "Lithuania",
+        "to": 1918,
+        "link": "https://en.wikipedia.org/wiki/C\u00e9sar_Cui",
+        "type": "music"
     },
     {
         "rating": 0.74392554625,
@@ -32015,6 +34814,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7434132328125,
+        "from": 532,
+        "name": "Guntram",
+        "country": "France",
+        "to": 592,
+        "link": "https://en.wikipedia.org/wiki/Guntram",
+        "type": "politics"
+    },
+    {
         "rating": 0.7434105775,
         "from": 1893,
         "name": "Karl Mannheim",
@@ -32105,6 +34913,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.7432326703125,
+        "from": 1400,
+        "name": "Gilles Binchois",
+        "country": "Belgium",
+        "to": 1460,
+        "link": "https://en.wikipedia.org/wiki/Gilles_Binchois",
+        "type": "music"
+    },
+    {
         "rating": 0.743201350625,
         "from": 1928,
         "name": "Chinghiz Aitmatov",
@@ -32148,6 +34965,15 @@ dataReady({people:[
         "to": 1939,
         "link": "https://en.wikipedia.org/wiki/Edward_Sapir",
         "type": "science"
+    },
+    {
+        "rating": 0.7431331196875,
+        "from": 1280,
+        "name": "Pietro Lorenzetti",
+        "country": "Italy",
+        "to": 1348,
+        "link": "https://en.wikipedia.org/wiki/Pietro_Lorenzetti",
+        "type": "arts"
     },
     {
         "rating": 0.7431322634375,
@@ -32483,6 +35309,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.7425046625,
+        "from": 1833,
+        "name": "Ernesto Teodoro Moneta",
+        "country": "Italy",
+        "to": 1918,
+        "link": "https://en.wikipedia.org/wiki/Ernesto_Teodoro_Moneta",
+        "type": "public"
+    },
+    {
         "rating": 0.7425000903125,
         "from": 1871,
         "name": "Guangxu Emperor",
@@ -32490,6 +35325,15 @@ dataReady({people:[
         "to": 1908,
         "link": "https://en.wikipedia.org/wiki/Guangxu_Emperor",
         "type": "politics"
+    },
+    {
+        "rating": 0.742498793125,
+        "from": 1920,
+        "name": "Gianni Rodari",
+        "country": "Italy",
+        "to": 1980,
+        "link": "https://en.wikipedia.org/wiki/Gianni_Rodari",
+        "type": "other"
     },
     {
         "rating": 0.7424914284375,
@@ -32553,6 +35397,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Toto_Cutugno",
         "type": "music"
+    },
+    {
+        "rating": 0.7423839696875,
+        "from": 1527,
+        "name": "Abraham Ortelius",
+        "country": "Belgium",
+        "to": 1598,
+        "link": "https://en.wikipedia.org/wiki/Abraham_Ortelius",
+        "type": "science"
     },
     {
         "rating": 0.7423805128125,
@@ -32645,6 +35498,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.742180509375,
+        "from": 1220,
+        "name": "William of Rubruck",
+        "country": "France",
+        "to": 1270,
+        "link": "https://en.wikipedia.org/wiki/William_of_Rubruck",
+        "type": "arts"
+    },
+    {
         "rating": 0.7421770034375,
         "from": 1895,
         "name": "Santiago Bernab\u00e9u Yeste",
@@ -32681,6 +35543,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7421181815625,
+        "from": 1933,
+        "name": "Krzysztof Penderecki",
+        "country": "Poland",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Krzysztof_Penderecki",
+        "type": "music"
+    },
+    {
         "rating": 0.7421020159375,
         "from": 1849,
         "name": "August von Mackensen",
@@ -32708,6 +35579,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.74205177625,
+        "from": 1881,
+        "name": "George Enescu",
+        "country": "Romania",
+        "to": 1955,
+        "link": "https://en.wikipedia.org/wiki/George_Enescu",
+        "type": "music"
+    },
+    {
         "rating": 0.742032863125,
         "from": 1868,
         "name": "Arnold Sommerfeld",
@@ -32733,6 +35613,15 @@ dataReady({people:[
         "to": 1730,
         "link": "https://en.wikipedia.org/wiki/Pope_Benedict_XIII",
         "type": "religion"
+    },
+    {
+        "rating": 0.7419998159375,
+        "from": 474,
+        "name": "Anthemius of Tralles",
+        "country": "Turkey",
+        "to": 558,
+        "link": "https://en.wikipedia.org/wiki/Anthemius_of_Tralles",
+        "type": "science"
     },
     {
         "rating": 0.741972595,
@@ -32805,6 +35694,15 @@ dataReady({people:[
         "to": 1973,
         "link": "https://en.wikipedia.org/wiki/Ingeborg_Bachmann",
         "type": "arts"
+    },
+    {
+        "rating": 0.741765103125,
+        "from": 1857,
+        "name": "Antoni Grabowski",
+        "country": "Poland",
+        "to": 1921,
+        "link": "https://en.wikipedia.org/wiki/Antoni_Grabowski",
+        "type": "science"
     },
     {
         "rating": 0.741744314375,
@@ -32996,6 +35894,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.741379021875,
+        "from": 1882,
+        "name": "Karol Szymanowski",
+        "country": "Ukraine",
+        "to": 1937,
+        "link": "https://en.wikipedia.org/wiki/Karol_Szymanowski",
+        "type": "music"
+    },
+    {
         "rating": 0.7413598640625,
         "from": 1875,
         "name": "Albert I of Belgium",
@@ -33012,6 +35919,15 @@ dataReady({people:[
         "to": 1863,
         "link": "https://en.wikipedia.org/wiki/Alfred_de_Vigny",
         "type": "arts"
+    },
+    {
+        "rating": 0.7413527978125,
+        "from": 1571,
+        "name": "Michael Praetorius",
+        "country": "Germany",
+        "to": 1621,
+        "link": "https://en.wikipedia.org/wiki/Michael_Praetorius",
+        "type": "music"
     },
     {
         "rating": 0.7413240421875,
@@ -33057,6 +35973,15 @@ dataReady({people:[
         "to": 1950,
         "link": "https://en.wikipedia.org/wiki/Karl_Renner",
         "type": "politics"
+    },
+    {
+        "rating": 0.7411729771875,
+        "from": 1847,
+        "name": "Max Liebermann",
+        "country": "Germany",
+        "to": 1935,
+        "link": "https://en.wikipedia.org/wiki/Max_Liebermann",
+        "type": "arts"
     },
     {
         "rating": 0.7411645715625,
@@ -33652,6 +36577,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.73990178125,
+        "from": 1835,
+        "name": "Henryk Wieniawski",
+        "country": "Poland",
+        "to": 1880,
+        "link": "https://en.wikipedia.org/wiki/Henryk_Wieniawski",
+        "type": "music"
+    },
+    {
         "rating": 0.7398914815625,
         "from": 1819,
         "name": "Gottfried Keller",
@@ -33697,6 +36631,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7398237153125,
+        "from": 1548,
+        "name": "Tom\u00e1s Luis de Victoria",
+        "country": "Spain",
+        "to": 1611,
+        "link": "https://en.wikipedia.org/wiki/Tom\u00e1s_Luis_de_Victoria",
+        "type": "music"
+    },
+    {
         "rating": 0.7398034303125,
         "from": 1929,
         "name": "Murray Gell-Mann",
@@ -33713,6 +36656,15 @@ dataReady({people:[
         "to": 1976,
         "link": "https://en.wikipedia.org/wiki/Lars_Onsager",
         "type": "science"
+    },
+    {
+        "rating": 0.7397437040625,
+        "from": 1532,
+        "name": "Andrea Gabrieli",
+        "country": "Italy",
+        "to": 1585,
+        "link": "https://en.wikipedia.org/wiki/Andrea_Gabrieli",
+        "type": "music"
     },
     {
         "rating": 0.7397382109375,
@@ -33740,6 +36692,15 @@ dataReady({people:[
         "to": 1965,
         "link": "https://en.wikipedia.org/wiki/Farouk_of_Egypt",
         "type": "politics"
+    },
+    {
+        "rating": 0.73968887125,
+        "from": 1706,
+        "name": "Baldassare Galuppi",
+        "country": "Italy",
+        "to": 1785,
+        "link": "https://en.wikipedia.org/wiki/Baldassare_Galuppi",
+        "type": "music"
     },
     {
         "rating": 0.7396591528125,
@@ -33785,6 +36746,15 @@ dataReady({people:[
         "to": 1870,
         "link": "https://en.wikipedia.org/wiki/Gustavo_Adolfo_B\u00e9cquer",
         "type": "arts"
+    },
+    {
+        "rating": 0.73957775875,
+        "from": 1860,
+        "name": "Hugo Wolf",
+        "country": "Slovenia",
+        "to": 1903,
+        "link": "https://en.wikipedia.org/wiki/Hugo_Wolf",
+        "type": "music"
     },
     {
         "rating": 0.739575735,
@@ -33913,6 +36883,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.7393637075,
+        "from": 1548,
+        "name": "Simon Stevin",
+        "country": "Belgium",
+        "to": 1620,
+        "link": "https://en.wikipedia.org/wiki/Simon_Stevin",
+        "type": "science"
+    },
+    {
         "rating": 0.7393272453125,
         "from": 1596,
         "name": "Frederick V, Elector Palatine",
@@ -34009,6 +36988,15 @@ dataReady({people:[
         "country": "Germany",
         "to": 1039,
         "link": "https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor",
+        "type": "politics"
+    },
+    {
+        "rating": 0.739195983125,
+        "from": 885,
+        "name": "Eric Bloodaxe",
+        "country": "Unknown",
+        "to": 954,
+        "link": "https://en.wikipedia.org/wiki/Eric_Bloodaxe",
         "type": "politics"
     },
     {
@@ -34192,6 +37180,15 @@ dataReady({people:[
         "type": "sports"
     },
     {
+        "rating": 0.738738644375,
+        "from": 1868,
+        "name": "Charles Rennie Mackintosh",
+        "country": "United Kingdom",
+        "to": 1928,
+        "link": "https://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh",
+        "type": "arts"
+    },
+    {
         "rating": 0.7387072084375,
         "from": 1853,
         "name": "Aleksei Brusilov",
@@ -34309,6 +37306,15 @@ dataReady({people:[
         "type": "military"
     },
     {
+        "rating": 0.7385320778125,
+        "from": 1496,
+        "name": "Cl\u00e9ment Marot",
+        "country": "France",
+        "to": 1544,
+        "link": "https://en.wikipedia.org/wiki/Cl\u00e9ment_Marot",
+        "type": "arts"
+    },
+    {
         "rating": 0.738515550625,
         "from": 1961,
         "name": "George Clooney",
@@ -34424,6 +37430,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Carlo_Azeglio_Ciampi",
         "type": "politics"
+    },
+    {
+        "rating": 0.73824298375,
+        "from": 1936,
+        "name": "Steve Reich",
+        "country": "United States",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Steve_Reich",
+        "type": "music"
     },
     {
         "rating": 0.738221275625,
@@ -34550,6 +37565,15 @@ dataReady({people:[
         "to": 1819,
         "link": "https://en.wikipedia.org/wiki/Kamehameha_I",
         "type": "politics"
+    },
+    {
+        "rating": 0.7379636325,
+        "from": 1925,
+        "name": "Luciano Berio",
+        "country": "Italy",
+        "to": 2003,
+        "link": "https://en.wikipedia.org/wiki/Luciano_Berio",
+        "type": "music"
     },
     {
         "rating": 0.73793614125,
@@ -34696,6 +37720,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.737670728125,
+        "from": 1901,
+        "name": "Jascha Heifetz",
+        "country": "Lithuania",
+        "to": 1987,
+        "link": "https://en.wikipedia.org/wiki/Jascha_Heifetz",
+        "type": "music"
+    },
+    {
         "rating": 0.7376487028125,
         "from": 1853,
         "name": "Albrecht Kossel",
@@ -34750,6 +37783,15 @@ dataReady({people:[
         "type": "invention"
     },
     {
+        "rating": 0.737528923125,
+        "from": 1873,
+        "name": "Feodor Chaliapin",
+        "country": "Russia",
+        "to": 1938,
+        "link": "https://en.wikipedia.org/wiki/Feodor_Chaliapin",
+        "type": "music"
+    },
+    {
         "rating": 0.7375133365625,
         "from": 1959,
         "name": "Bryan Adams",
@@ -34802,6 +37844,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad",
         "type": "politics"
+    },
+    {
+        "rating": 0.737479964375,
+        "from": 1900,
+        "name": "Adolf Dassler",
+        "country": "Germany",
+        "to": 1978,
+        "link": "https://en.wikipedia.org/wiki/Adolf_Dassler",
+        "type": "business"
     },
     {
         "rating": 0.7374747575,
@@ -34867,6 +37918,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7373702925,
+        "from": 1887,
+        "name": "Ren\u00e9 Cassin",
+        "country": "France",
+        "to": 1976,
+        "link": "https://en.wikipedia.org/wiki/Ren\u00e9_Cassin",
+        "type": "business"
+    },
+    {
         "rating": 0.7373691428125,
         "from": 1901,
         "name": "Louis Kahn",
@@ -34892,6 +37952,15 @@ dataReady({people:[
         "to": 1836,
         "link": "https://en.wikipedia.org/wiki/James_Mill",
         "type": "science"
+    },
+    {
+        "rating": 0.7373585609375,
+        "from": 1405,
+        "name": "Thomas Malory",
+        "country": "United Kingdom",
+        "to": 1471,
+        "link": "https://en.wikipedia.org/wiki/Thomas_Malory",
+        "type": "arts"
     },
     {
         "rating": 0.737352615625,
@@ -34955,6 +38024,15 @@ dataReady({people:[
         "to": 1868,
         "link": "https://en.wikipedia.org/wiki/Ludwig_I_of_Bavaria",
         "type": "politics"
+    },
+    {
+        "rating": 0.7372250865625,
+        "from": 1915,
+        "name": "Elisabeth Schwarzkopf",
+        "country": "Poland",
+        "to": 2006,
+        "link": "https://en.wikipedia.org/wiki/Elisabeth_Schwarzkopf",
+        "type": "music"
     },
     {
         "rating": 0.737201023125,
@@ -35074,6 +38152,15 @@ dataReady({people:[
         "type": "military"
     },
     {
+        "rating": 0.737034983125,
+        "from": 1844,
+        "name": "Friedrich Ratzel",
+        "country": "Germany",
+        "to": 1904,
+        "link": "https://en.wikipedia.org/wiki/Friedrich_Ratzel",
+        "type": "politics"
+    },
+    {
         "rating": 0.737008468125,
         "from": 1862,
         "name": "Emilio Salgari",
@@ -35090,6 +38177,15 @@ dataReady({people:[
         "to": 1913,
         "link": "https://en.wikipedia.org/wiki/Francisco_I._Madero",
         "type": "politics"
+    },
+    {
+        "rating": 0.7370066153125,
+        "from": 1823,
+        "name": "\u00c9douard Lalo",
+        "country": "France",
+        "to": 1892,
+        "link": "https://en.wikipedia.org/wiki/\u00c9douard_Lalo",
+        "type": "music"
     },
     {
         "rating": 0.7369684490625,
@@ -35197,6 +38293,15 @@ dataReady({people:[
         "country": "Belgium",
         "to": 1983,
         "link": "https://en.wikipedia.org/wiki/Leopold_III_of_Belgium",
+        "type": "politics"
+    },
+    {
+        "rating": 0.73677755625,
+        "from": 1886,
+        "name": "Ernst Th\u00e4lmann",
+        "country": "Germany",
+        "to": 1944,
+        "link": "https://en.wikipedia.org/wiki/Ernst_Th\u00e4lmann",
         "type": "politics"
     },
     {
@@ -35308,12 +38413,30 @@ dataReady({people:[
         "type": "military"
     },
     {
+        "rating": 0.736512874375,
+        "from": 1872,
+        "name": "Alexandra Kollontai",
+        "country": "Russia",
+        "to": 1952,
+        "link": "https://en.wikipedia.org/wiki/Alexandra_Kollontai",
+        "type": "politics"
+    },
+    {
         "rating": 0.736443346875,
         "from": 1936,
         "name": "Ismail Kadare",
         "country": "Albania",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Ismail_Kadare",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7364235328125,
+        "from": 1585,
+        "name": "Hendrick Avercamp",
+        "country": "Netherlands",
+        "to": 1634,
+        "link": "https://en.wikipedia.org/wiki/Hendrick_Avercamp",
         "type": "arts"
     },
     {
@@ -35452,6 +38575,33 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7362393221875,
+        "from": 1890,
+        "name": "Bohuslav Martin\u016f",
+        "country": "Czech Republic",
+        "to": 1959,
+        "link": "https://en.wikipedia.org/wiki/Bohuslav_Martin\u016f",
+        "type": "music"
+    },
+    {
+        "rating": 0.736235555625,
+        "from": 1842,
+        "name": "Arrigo Boito",
+        "country": "Italy",
+        "to": 1918,
+        "link": "https://en.wikipedia.org/wiki/Arrigo_Boito",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7362260965625,
+        "from": 1886,
+        "name": "Gottfried Benn",
+        "country": "Germany",
+        "to": 1956,
+        "link": "https://en.wikipedia.org/wiki/Gottfried_Benn",
+        "type": "arts"
+    },
+    {
         "rating": 0.7361383890625,
         "from": 1786,
         "name": "John Vianney",
@@ -35486,6 +38636,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Kevin_Costner",
         "type": "arts"
+    },
+    {
+        "rating": 0.7360553434375,
+        "from": 1865,
+        "name": "Alexander Glazunov",
+        "country": "Russia",
+        "to": 1936,
+        "link": "https://en.wikipedia.org/wiki/Alexander_Glazunov",
+        "type": "music"
     },
     {
         "rating": 0.73605053375,
@@ -35605,6 +38764,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7357520109375,
+        "from": 1895,
+        "name": "L\u00e1szl\u00f3 Moholy-Nagy",
+        "country": "Hungary",
+        "to": 1946,
+        "link": "https://en.wikipedia.org/wiki/L\u00e1szl\u00f3_Moholy-Nagy",
+        "type": "arts"
+    },
+    {
         "rating": 0.735738406875,
         "from": 1883,
         "name": "Grigory Zinoviev",
@@ -35677,6 +38845,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7355710196875,
+        "from": 1612,
+        "name": "Louis Le Vau",
+        "country": "France",
+        "to": 1670,
+        "link": "https://en.wikipedia.org/wiki/Louis_Le_Vau",
+        "type": "arts"
+    },
+    {
         "rating": 0.73553007,
         "from": 1945,
         "name": "Tom Selleck",
@@ -35701,6 +38878,15 @@ dataReady({people:[
         "country": "Germany",
         "to": 1949,
         "link": "https://en.wikipedia.org/wiki/Klaus_Mann",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7355043084375,
+        "from": 1728,
+        "name": "Anton Raphael Mengs",
+        "country": "Czech Republic",
+        "to": 1779,
+        "link": "https://en.wikipedia.org/wiki/Anton_Raphael_Mengs",
         "type": "arts"
     },
     {
@@ -36055,6 +39241,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7348214740625,
+        "from": 1891,
+        "name": "Cole Porter",
+        "country": "United States",
+        "to": 1964,
+        "link": "https://en.wikipedia.org/wiki/Cole_Porter",
+        "type": "music"
+    },
+    {
         "rating": 0.7348177734375,
         "from": 1838,
         "name": "L\u00e9on Gambetta",
@@ -36152,6 +39347,15 @@ dataReady({people:[
         "to": 687,
         "link": "https://en.wikipedia.org/wiki/Abd_Allah_ibn_Abbas",
         "type": "religion"
+    },
+    {
+        "rating": 0.7346496709375,
+        "from": 1864,
+        "name": "Alfred Hermann Fried",
+        "country": "Austria",
+        "to": 1921,
+        "link": "https://en.wikipedia.org/wiki/Alfred_Hermann_Fried",
+        "type": "public"
     },
     {
         "rating": 0.734625329375,
@@ -36397,6 +39601,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.734228189375,
+        "from": 1774,
+        "name": "Francis Beaufort",
+        "country": "Ireland",
+        "to": 1857,
+        "link": "https://en.wikipedia.org/wiki/Francis_Beaufort",
+        "type": "science"
+    },
+    {
         "rating": 0.7341859646875,
         "from": 1942,
         "name": "Jos\u00e9 Eduardo dos Santos",
@@ -36415,6 +39628,24 @@ dataReady({people:[
         "type": "military"
     },
     {
+        "rating": 0.7341540478125,
+        "from": 1884,
+        "name": "Max Brod",
+        "country": "Czech Republic",
+        "to": 1968,
+        "link": "https://en.wikipedia.org/wiki/Max_Brod",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7341492734375,
+        "from": 1872,
+        "name": "Ralph Vaughan Williams",
+        "country": "United Kingdom",
+        "to": 1958,
+        "link": "https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams",
+        "type": "music"
+    },
+    {
         "rating": 0.73414296125,
         "from": 1942,
         "name": "Lou Reed",
@@ -36422,6 +39653,15 @@ dataReady({people:[
         "to": 2013,
         "link": "https://en.wikipedia.org/wiki/Lou_Reed",
         "type": "music"
+    },
+    {
+        "rating": 0.7341100065625,
+        "from": 1895,
+        "name": "Henrik Dam",
+        "country": "Denmark",
+        "to": 1976,
+        "link": "https://en.wikipedia.org/wiki/Henrik_Dam",
+        "type": "science"
     },
     {
         "rating": 0.7341054625,
@@ -36658,6 +39898,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.73363219125,
+        "from": 1891,
+        "name": "Ilya Ehrenburg",
+        "country": "Ukraine",
+        "to": 1967,
+        "link": "https://en.wikipedia.org/wiki/Ilya_Ehrenburg",
+        "type": "arts"
+    },
+    {
         "rating": 0.7336171225,
         "from": 1683,
         "name": "Ren\u00e9 Antoine Ferchault de R\u00e9aumur",
@@ -36674,6 +39923,15 @@ dataReady({people:[
         "to": 1934,
         "link": "https://en.wikipedia.org/wiki/John_Dillinger",
         "type": "criminal"
+    },
+    {
+        "rating": 0.7335666803125,
+        "from": 1900,
+        "name": "Aaron Copland",
+        "country": "United States",
+        "to": 1990,
+        "link": "https://en.wikipedia.org/wiki/Aaron_Copland",
+        "type": "music"
     },
     {
         "rating": 0.7335194165625,
@@ -36764,6 +40022,15 @@ dataReady({people:[
         "to": 1921,
         "link": "https://en.wikipedia.org/wiki/Peter_I_of_Serbia",
         "type": "politics"
+    },
+    {
+        "rating": 0.7333410421875,
+        "from": 1784,
+        "name": "Louis Spohr",
+        "country": "Germany",
+        "to": 1859,
+        "link": "https://en.wikipedia.org/wiki/Louis_Spohr",
+        "type": "music"
     },
     {
         "rating": 0.733334663125,
@@ -37153,6 +40420,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7323874040625,
+        "from": 1749,
+        "name": "Vittorio Alfieri",
+        "country": "Italy",
+        "to": 1803,
+        "link": "https://en.wikipedia.org/wiki/Vittorio_Alfieri",
+        "type": "arts"
+    },
+    {
         "rating": 0.7323455053125,
         "from": 1946,
         "name": "Keith Moon",
@@ -37223,6 +40499,15 @@ dataReady({people:[
         "to": 1699,
         "link": "https://en.wikipedia.org/wiki/Christian_V_of_Denmark",
         "type": "politics"
+    },
+    {
+        "rating": 0.7322739871875,
+        "from": 1815,
+        "name": "Adolph Menzel",
+        "country": "Poland",
+        "to": 1905,
+        "link": "https://en.wikipedia.org/wiki/Adolph_Menzel",
+        "type": "arts"
     },
     {
         "rating": 0.7322637971875,
@@ -37321,6 +40606,15 @@ dataReady({people:[
         "country": "Syria",
         "to": 1057,
         "link": "https://en.wikipedia.org/wiki/Al-Ma\u02bfarri",
+        "type": "arts"
+    },
+    {
+        "rating": 0.732028101875,
+        "from": 1885,
+        "name": "Vladimir Tatlin",
+        "country": "Russia",
+        "to": 1953,
+        "link": "https://en.wikipedia.org/wiki/Vladimir_Tatlin",
         "type": "arts"
     },
     {
@@ -37702,6 +40996,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7312851978125,
+        "from": 1869,
+        "name": "Gustav Vigeland",
+        "country": "Norway",
+        "to": 1943,
+        "link": "https://en.wikipedia.org/wiki/Gustav_Vigeland",
+        "type": "arts"
+    },
+    {
         "rating": 0.731273009375,
         "from": 1895,
         "name": "Anastas Mikoyan",
@@ -37790,6 +41093,15 @@ dataReady({people:[
         "to": 1350,
         "link": "https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile",
         "type": "politics"
+    },
+    {
+        "rating": 0.7311031225,
+        "from": 491,
+        "name": "John Malalas",
+        "country": "Turkey",
+        "to": 578,
+        "link": "https://en.wikipedia.org/wiki/John_Malalas",
+        "type": "arts"
     },
     {
         "rating": 0.7311031003125,
@@ -37918,6 +41230,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.73088901625,
+        "from": 1883,
+        "name": "Edgard Var\u00e8se",
+        "country": "France",
+        "to": 1965,
+        "link": "https://en.wikipedia.org/wiki/Edgard_Var\u00e8se",
+        "type": "music"
+    },
+    {
         "rating": 0.7308883175,
         "from": 1657,
         "name": "Bernard Le Bovier de Fontenelle",
@@ -38017,6 +41338,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7306801353125,
+        "from": 1885,
+        "name": "Andr\u00e9 Maurois",
+        "country": "France",
+        "to": 1967,
+        "link": "https://en.wikipedia.org/wiki/Andr\u00e9_Maurois",
+        "type": "arts"
+    },
+    {
         "rating": 0.7306797271875,
         "from": 1894,
         "name": "Alexander Oparin",
@@ -38053,6 +41383,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7306241259375,
+        "from": 1925,
+        "name": "Rod Steiger",
+        "country": "United States",
+        "to": 2002,
+        "link": "https://en.wikipedia.org/wiki/Rod_Steiger",
+        "type": "arts"
+    },
+    {
         "rating": 0.7305917321875,
         "from": 1856,
         "name": "Eduard von B\u00f6hm-Ermolli",
@@ -38060,6 +41399,15 @@ dataReady({people:[
         "to": 1941,
         "link": "https://en.wikipedia.org/wiki/Eduard_von_B\u00f6hm-Ermolli",
         "type": "military"
+    },
+    {
+        "rating": 0.7305749228125,
+        "from": 1824,
+        "name": "Eug\u00e8ne Boudin",
+        "country": "France",
+        "to": 1898,
+        "link": "https://en.wikipedia.org/wiki/Eug\u00e8ne_Boudin",
+        "type": "arts"
     },
     {
         "rating": 0.7304766459375,
@@ -38096,6 +41444,15 @@ dataReady({people:[
         "to": 1986,
         "link": "https://en.wikipedia.org/wiki/Wallis_Simpson",
         "type": "public"
+    },
+    {
+        "rating": 0.7304276384375,
+        "from": 1548,
+        "name": "Vincenzo Scamozzi",
+        "country": "Italy",
+        "to": 1616,
+        "link": "https://en.wikipedia.org/wiki/Vincenzo_Scamozzi",
+        "type": "arts"
     },
     {
         "rating": 0.73038302,
@@ -38267,6 +41624,15 @@ dataReady({people:[
         "to": 1986,
         "link": "https://en.wikipedia.org/wiki/L._Ron_Hubbard",
         "type": "arts"
+    },
+    {
+        "rating": 0.729949435625,
+        "from": 1644,
+        "name": "Heinrich Ignaz Franz Biber",
+        "country": "Czech Republic",
+        "to": 1704,
+        "link": "https://en.wikipedia.org/wiki/Heinrich_Ignaz_Franz_Biber",
+        "type": "music"
     },
     {
         "rating": 0.7298827578125,
@@ -38566,6 +41932,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7291153396875,
+        "from": 1870,
+        "name": "Ernst Barlach",
+        "country": "Germany",
+        "to": 1938,
+        "link": "https://en.wikipedia.org/wiki/Ernst_Barlach",
+        "type": "arts"
+    },
+    {
         "rating": 0.729077526875,
         "from": 1918,
         "name": "Yasuhiro Nakasone",
@@ -38635,6 +42010,15 @@ dataReady({people:[
         "country": "Poland",
         "to": 1982,
         "link": "https://en.wikipedia.org/wiki/W\u0142adys\u0142aw_Gomu\u0142ka",
+        "type": "politics"
+    },
+    {
+        "rating": 0.7289651775,
+        "from": 1491,
+        "name": "Lapu-Lapu",
+        "country": "Philippines",
+        "to": 1542,
+        "link": "https://en.wikipedia.org/wiki/Lapu-Lapu",
         "type": "politics"
     },
     {
@@ -38737,6 +42121,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7288096578125,
+        "from": 1874,
+        "name": "Ernest Shackleton",
+        "country": "Ireland",
+        "to": 1922,
+        "link": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+        "type": "explorer"
+    },
+    {
         "rating": 0.7288079909375,
         "from": 1911,
         "name": "Jean Harlow",
@@ -38789,6 +42182,15 @@ dataReady({people:[
         "to": 1994,
         "link": "https://en.wikipedia.org/wiki/Guy_Debord",
         "type": "science"
+    },
+    {
+        "rating": 0.728689233125,
+        "from": 1812,
+        "name": "Friedrich von Flotow",
+        "country": "Germany",
+        "to": 1883,
+        "link": "https://en.wikipedia.org/wiki/Friedrich_von_Flotow",
+        "type": "music"
     },
     {
         "rating": 0.728678690625,
@@ -38881,6 +42283,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.728454069375,
+        "from": 1471,
+        "name": "Topa Inca Yupanqui",
+        "country": "Unknown",
+        "to": 1493,
+        "link": "https://en.wikipedia.org/wiki/Topa_Inca_Yupanqui",
+        "type": "politics"
+    },
+    {
         "rating": 0.728427135625,
         "from": 1916,
         "name": "Alexander Prokhorov",
@@ -38962,6 +42373,24 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.72822692625,
+        "from": 1855,
+        "name": "John Browning",
+        "country": "United States",
+        "to": 1926,
+        "link": "https://en.wikipedia.org/wiki/John_Browning",
+        "type": "invention"
+    },
+    {
+        "rating": 0.7282216546875,
+        "from": 1882,
+        "name": "Emmerich K\u00e1lm\u00e1n",
+        "country": "Hungary",
+        "to": 1953,
+        "link": "https://en.wikipedia.org/wiki/Emmerich_K\u00e1lm\u00e1n",
+        "type": "music"
+    },
+    {
         "rating": 0.72821769125,
         "from": 1877,
         "name": "Heinrich Otto Wieland",
@@ -39041,6 +42470,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Dan_Aykroyd",
         "type": "arts"
+    },
+    {
+        "rating": 0.727965890625,
+        "from": 1833,
+        "name": "Alfred von Schlieffen",
+        "country": "Germany",
+        "to": 1913,
+        "link": "https://en.wikipedia.org/wiki/Alfred_von_Schlieffen",
+        "type": "military"
     },
     {
         "rating": 0.727929446875,
@@ -39250,6 +42688,15 @@ dataReady({people:[
         "type": "military"
     },
     {
+        "rating": 0.72740483125,
+        "from": 1732,
+        "name": "Johann Christoph Friedrich Bach",
+        "country": "Germany",
+        "to": 1795,
+        "link": "https://en.wikipedia.org/wiki/Johann_Christoph_Friedrich_Bach",
+        "type": "music"
+    },
+    {
         "rating": 0.7273816028125,
         "from": 1932,
         "name": "Manmohan Singh",
@@ -39277,6 +42724,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7273162075,
+        "from": 1723,
+        "name": "Carl Friedrich Abel",
+        "country": "Germany",
+        "to": 1787,
+        "link": "https://en.wikipedia.org/wiki/Carl_Friedrich_Abel",
+        "type": "music"
+    },
+    {
         "rating": 0.727310120625,
         "from": 1907,
         "name": "Fred Zinnemann",
@@ -39293,6 +42749,24 @@ dataReady({people:[
         "to": 1900,
         "link": "https://en.wikipedia.org/wiki/Isaac_Levitan",
         "type": "arts"
+    },
+    {
+        "rating": 0.7272759053125,
+        "from": 1929,
+        "name": "Hans Magnus Enzensberger",
+        "country": "Germany",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Hans_Magnus_Enzensberger",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7272723525,
+        "from": 1869,
+        "name": "Christian Lous Lange",
+        "country": "Norway",
+        "to": 1938,
+        "link": "https://en.wikipedia.org/wiki/Christian_Lous_Lange",
+        "type": "science"
     },
     {
         "rating": 0.727260181875,
@@ -39394,6 +42868,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7269060315625,
+        "from": 587,
+        "name": "Theuderic II",
+        "country": "Unknown",
+        "to": 613,
+        "link": "https://en.wikipedia.org/wiki/Theuderic_II",
+        "type": "politics"
+    },
+    {
         "rating": 0.7268970403125,
         "from": 1174,
         "name": "Emeric, King of Hungary",
@@ -39410,6 +42893,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Zine_El_Abidine_Ben_Ali",
         "type": "politics"
+    },
+    {
+        "rating": 0.7268740525,
+        "from": 1805,
+        "name": "Louis Auguste Blanqui",
+        "country": "France",
+        "to": 1881,
+        "link": "https://en.wikipedia.org/wiki/Louis_Auguste_Blanqui",
+        "type": "science"
     },
     {
         "rating": 0.72686774,
@@ -39619,6 +43111,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.726580913125,
+        "from": 1728,
+        "name": "Niccol\u00f2 Piccinni",
+        "country": "Italy",
+        "to": 1800,
+        "link": "https://en.wikipedia.org/wiki/Niccol\u00f2_Piccinni",
+        "type": "music"
+    },
+    {
         "rating": 0.7265680640625,
         "from": 1926,
         "name": "Hilary Putnam",
@@ -39673,6 +43174,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7264385584375,
+        "from": 1887,
+        "name": "Nadia Boulanger",
+        "country": "France",
+        "to": 1979,
+        "link": "https://en.wikipedia.org/wiki/Nadia_Boulanger",
+        "type": "music"
+    },
+    {
         "rating": 0.726437963125,
         "from": 1887,
         "name": "Julian Huxley",
@@ -39698,6 +43208,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/John_Grisham",
         "type": "arts"
+    },
+    {
+        "rating": 0.726379103125,
+        "from": 1937,
+        "name": "Vladimir Ashkenazy",
+        "country": "Russia",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Vladimir_Ashkenazy",
+        "type": "music"
     },
     {
         "rating": 0.726343606875,
@@ -39868,6 +43387,15 @@ dataReady({people:[
         "country": "United Kingdom",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Rob_Halford",
+        "type": "music"
+    },
+    {
+        "rating": 0.725977833125,
+        "from": 1924,
+        "name": "Luigi Nono",
+        "country": "Italy",
+        "to": 1990,
+        "link": "https://en.wikipedia.org/wiki/Luigi_Nono",
         "type": "music"
     },
     {
@@ -40051,6 +43579,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.7255714621875,
+        "from": 1783,
+        "name": "Vasily Zhukovsky",
+        "country": "Russia",
+        "to": 1852,
+        "link": "https://en.wikipedia.org/wiki/Vasily_Zhukovsky",
+        "type": "arts"
+    },
+    {
         "rating": 0.725561370625,
         "from": 1869,
         "name": "Emilio Aguinaldo",
@@ -40184,6 +43721,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Viggo_Mortensen",
         "type": "arts"
+    },
+    {
+        "rating": 0.7253101665625,
+        "from": 1826,
+        "name": "Wilhelm Liebknecht",
+        "country": "Germany",
+        "to": 1900,
+        "link": "https://en.wikipedia.org/wiki/Wilhelm_Liebknecht",
+        "type": "politics"
     },
     {
         "rating": 0.7252975765625,
@@ -40402,6 +43948,24 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.724969825,
+        "from": 1912,
+        "name": "Konrad Emil Bloch",
+        "country": "Poland",
+        "to": 2000,
+        "link": "https://en.wikipedia.org/wiki/Konrad_Emil_Bloch",
+        "type": "science"
+    },
+    {
+        "rating": 0.724948444375,
+        "from": 1784,
+        "name": "Rafael del Riego",
+        "country": "Spain",
+        "to": 1823,
+        "link": "https://en.wikipedia.org/wiki/Rafael_del_Riego",
+        "type": "politics"
+    },
+    {
         "rating": 0.7249269746875,
         "from": 1951,
         "name": "Gordon Brown",
@@ -40508,6 +44072,15 @@ dataReady({people:[
         "to": 1936,
         "link": "https://en.wikipedia.org/wiki/Karl_Pearson",
         "type": "science"
+    },
+    {
+        "rating": 0.724738634375,
+        "from": 1890,
+        "name": "Jacques Ibert",
+        "country": "France",
+        "to": 1962,
+        "link": "https://en.wikipedia.org/wiki/Jacques_Ibert",
+        "type": "music"
     },
     {
         "rating": 0.724724608125,
@@ -40789,6 +44362,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.724211005,
+        "from": 1900,
+        "name": "Nathalie Sarraute",
+        "country": "Russia",
+        "to": 1999,
+        "link": "https://en.wikipedia.org/wiki/Nathalie_Sarraute",
+        "type": "arts"
+    },
+    {
         "rating": 0.7241676753125,
         "from": 1942,
         "name": "Daniel Dennett",
@@ -40861,6 +44443,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7239760903125,
+        "from": 1908,
+        "name": "David Oistrakh",
+        "country": "Ukraine",
+        "to": 1974,
+        "link": "https://en.wikipedia.org/wiki/David_Oistrakh",
+        "type": "music"
+    },
+    {
         "rating": 0.7239508875,
         "from": 1933,
         "name": "Gene Wilder",
@@ -40904,6 +44495,15 @@ dataReady({people:[
         "to": 1470,
         "link": "https://en.wikipedia.org/wiki/Charles_VIII_of_Sweden",
         "type": "politics"
+    },
+    {
+        "rating": 0.7239037459375,
+        "from": 1801,
+        "name": "Albert Lortzing",
+        "country": "Germany",
+        "to": 1851,
+        "link": "https://en.wikipedia.org/wiki/Albert_Lortzing",
+        "type": "music"
     },
     {
         "rating": 0.72390017625,
@@ -41039,6 +44639,15 @@ dataReady({people:[
         "to": 1979,
         "link": "https://en.wikipedia.org/wiki/Sin-Itiro_Tomonaga",
         "type": "science"
+    },
+    {
+        "rating": 0.723530710625,
+        "from": 1739,
+        "name": "Carl Ditters von Dittersdorf",
+        "country": "Austria",
+        "to": 1799,
+        "link": "https://en.wikipedia.org/wiki/Carl_Ditters_von_Dittersdorf",
+        "type": "music"
     },
     {
         "rating": 0.72352907875,
@@ -41428,6 +45037,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.7228430046875,
+        "from": 1591,
+        "name": "Girard Desargues",
+        "country": "France",
+        "to": 1661,
+        "link": "https://en.wikipedia.org/wiki/Girard_Desargues",
+        "type": "science"
+    },
+    {
         "rating": 0.7228426790625,
         "from": 1946,
         "name": "Peter Singer",
@@ -41680,6 +45298,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.722444001875,
+        "from": 1885,
+        "name": "Umberto Nobile",
+        "country": "Italy",
+        "to": 1978,
+        "link": "https://en.wikipedia.org/wiki/Umberto_Nobile",
+        "type": "science"
+    },
+    {
         "rating": 0.7224378140625,
         "from": 795,
         "name": "\u00c6thelwulf",
@@ -41761,6 +45388,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7222725784375,
+        "from": 1928,
+        "name": "Hans K\u00fcng",
+        "country": "Switzerland",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Hans_K\u00fcng",
+        "type": "religion"
+    },
+    {
         "rating": 0.722270965,
         "from": 1911,
         "name": "Cantinflas",
@@ -41813,6 +45449,15 @@ dataReady({people:[
         "to": 2007,
         "link": "https://en.wikipedia.org/wiki/Ernst_Otto_Fischer",
         "type": "science"
+    },
+    {
+        "rating": 0.722157804375,
+        "from": 1855,
+        "name": "Emile Verhaeren",
+        "country": "Belgium",
+        "to": 1916,
+        "link": "https://en.wikipedia.org/wiki/Emile_Verhaeren",
+        "type": "arts"
     },
     {
         "rating": 0.7221465875,
@@ -42571,6 +46216,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7207224059375,
+        "from": 1697,
+        "name": "Antoine Fran\u00e7ois Pr\u00e9vost",
+        "country": "France",
+        "to": 1763,
+        "link": "https://en.wikipedia.org/wiki/Antoine_Fran\u00e7ois_Pr\u00e9vost",
+        "type": "arts"
+    },
+    {
         "rating": 0.7207056496875,
         "from": 1944,
         "name": "Alan Parker",
@@ -42686,6 +46340,15 @@ dataReady({people:[
         "to": 2006,
         "link": "https://en.wikipedia.org/wiki/Joseph_Barbera",
         "type": "arts"
+    },
+    {
+        "rating": 0.720389035625,
+        "from": 1633,
+        "name": "Ferdinand IV, King of the Romans",
+        "country": "Austria",
+        "to": 1654,
+        "link": "https://en.wikipedia.org/wiki/Ferdinand_IV,_King_of_the_Romans",
+        "type": "politics"
     },
     {
         "rating": 0.720337930625,
@@ -43093,6 +46756,24 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.719576635625,
+        "from": -350,
+        "name": "Megasthenes",
+        "country": "Unknown",
+        "to": -283,
+        "link": "https://en.wikipedia.org/wiki/Megasthenes",
+        "type": "politics"
+    },
+    {
+        "rating": 0.719562329375,
+        "from": 1834,
+        "name": "Fr\u00e9d\u00e9ric Auguste Bartholdi",
+        "country": "France",
+        "to": 1904,
+        "link": "https://en.wikipedia.org/wiki/Fr\u00e9d\u00e9ric_Auguste_Bartholdi",
+        "type": "arts"
+    },
+    {
         "rating": 0.719561225625,
         "from": 1942,
         "name": "Jacob Zuma",
@@ -43209,6 +46890,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7193038828125,
+        "from": 1813,
+        "name": "Charles-Valentin Alkan",
+        "country": "France",
+        "to": 1888,
+        "link": "https://en.wikipedia.org/wiki/Charles-Valentin_Alkan",
+        "type": "music"
+    },
+    {
         "rating": 0.71930210375,
         "from": 1904,
         "name": "Willem de Kooning",
@@ -43279,6 +46969,15 @@ dataReady({people:[
         "to": 969,
         "link": "https://en.wikipedia.org/wiki/Olga_of_Kiev",
         "type": "public"
+    },
+    {
+        "rating": 0.7191090065625,
+        "from": 1790,
+        "name": "Jules Dumont d'Urville",
+        "country": "France",
+        "to": 1842,
+        "link": "https://en.wikipedia.org/wiki/Jules_Dumont_d'Urville",
+        "type": "explorer"
     },
     {
         "rating": 0.719069711875,
@@ -43405,6 +47104,24 @@ dataReady({people:[
         "to": 1967,
         "link": "https://en.wikipedia.org/wiki/Norman_Angell",
         "type": "politics"
+    },
+    {
+        "rating": 0.7187749184375,
+        "from": 1866,
+        "name": "L\u00e9on Bakst",
+        "country": "Belarus",
+        "to": 1924,
+        "link": "https://en.wikipedia.org/wiki/L\u00e9on_Bakst",
+        "type": "arts"
+    },
+    {
+        "rating": 0.718772770625,
+        "from": 1795,
+        "name": "Alexander Griboyedov",
+        "country": "Russia",
+        "to": 1829,
+        "link": "https://en.wikipedia.org/wiki/Alexander_Griboyedov",
+        "type": "arts"
     },
     {
         "rating": 0.718754561875,
@@ -43902,6 +47619,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.717910865,
+        "from": 1787,
+        "name": "Rasmus Rask",
+        "country": "Denmark",
+        "to": 1832,
+        "link": "https://en.wikipedia.org/wiki/Rasmus_Rask",
+        "type": "science"
+    },
+    {
         "rating": 0.71785527375,
         "from": 1911,
         "name": "Maurice Allais",
@@ -44181,6 +47907,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.71737302125,
+        "from": 1934,
+        "name": "Alfred Schnittke",
+        "country": "Russia",
+        "to": 1998,
+        "link": "https://en.wikipedia.org/wiki/Alfred_Schnittke",
+        "type": "music"
+    },
+    {
         "rating": 0.717369715625,
         "from": 1855,
         "name": "Ivan Vladimirovich Michurin",
@@ -44196,6 +47931,15 @@ dataReady({people:[
         "country": "Italy",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Riccardo_Giacconi",
+        "type": "science"
+    },
+    {
+        "rating": 0.717347535,
+        "from": 1779,
+        "name": "Carl Ritter",
+        "country": "Germany",
+        "to": 1859,
+        "link": "https://en.wikipedia.org/wiki/Carl_Ritter",
         "type": "science"
     },
     {
@@ -44595,6 +48339,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7164970409375,
+        "from": 1836,
+        "name": "Henri Fantin-Latour",
+        "country": "France",
+        "to": 1904,
+        "link": "https://en.wikipedia.org/wiki/Henri_Fantin-Latour",
+        "type": "arts"
+    },
+    {
         "rating": 0.7164859203125,
         "from": 1931,
         "name": "Tom Wolfe",
@@ -44774,6 +48527,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.716055938125,
+        "from": 1817,
+        "name": "Niels Gade",
+        "country": "Denmark",
+        "to": 1890,
+        "link": "https://en.wikipedia.org/wiki/Niels_Gade",
+        "type": "music"
+    },
+    {
         "rating": 0.7160219134375,
         "from": 1914,
         "name": "Tyrone Power",
@@ -44898,6 +48660,15 @@ dataReady({people:[
         "to": 2008,
         "link": "https://en.wikipedia.org/wiki/Edward_Norton_Lorenz",
         "type": "science"
+    },
+    {
+        "rating": 0.7158012753125,
+        "from": 1801,
+        "name": "Brigham Young",
+        "country": "United States",
+        "to": 1877,
+        "link": "https://en.wikipedia.org/wiki/Brigham_Young",
+        "type": "religion"
     },
     {
         "rating": 0.71576790125,
@@ -45152,6 +48923,24 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.7153223565625,
+        "from": 1819,
+        "name": "Stanis\u0142aw Moniuszko",
+        "country": "Poland",
+        "to": 1872,
+        "link": "https://en.wikipedia.org/wiki/Stanis\u0142aw_Moniuszko",
+        "type": "music"
+    },
+    {
+        "rating": 0.715309856875,
+        "from": 1901,
+        "name": "Hugo Gunckel L\u00fcer",
+        "country": "Chile",
+        "to": 1997,
+        "link": "https://en.wikipedia.org/wiki/Hugo_Gunckel_L\u00fcer",
+        "type": "science"
+    },
+    {
         "rating": 0.71527894875,
         "from": 1944,
         "name": "Jonathan Demme",
@@ -45213,6 +49002,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Elias_James_Corey",
         "type": "science"
+    },
+    {
+        "rating": 0.71514778625,
+        "from": 1784,
+        "name": "Johann Karl Ehrenfried Kegel",
+        "country": "Germany",
+        "to": 1863,
+        "link": "https://en.wikipedia.org/wiki/Johann_Karl_Ehrenfried_Kegel",
+        "type": "explorer"
     },
     {
         "rating": 0.715128595,
@@ -45548,6 +49346,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.714542056875,
+        "from": 1802,
+        "name": "Wilhelm Hauff",
+        "country": "Germany",
+        "to": 1827,
+        "link": "https://en.wikipedia.org/wiki/Wilhelm_Hauff",
+        "type": "arts"
+    },
+    {
         "rating": 0.7145133425,
         "from": 1942,
         "name": "Jochen Rindt",
@@ -45581,6 +49388,15 @@ dataReady({people:[
         "country": "Belarus",
         "to": 1943,
         "link": "https://en.wikipedia.org/wiki/Chaim_Soutine",
+        "type": "arts"
+    },
+    {
+        "rating": 0.7144268409375,
+        "from": 1904,
+        "name": "John Gielgud",
+        "country": "United Kingdom",
+        "to": 2000,
+        "link": "https://en.wikipedia.org/wiki/John_Gielgud",
         "type": "arts"
     },
     {
@@ -45746,6 +49562,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.714086555625,
+        "from": 1866,
+        "name": "Ram\u00f3n del Valle-Incl\u00e1n",
+        "country": "Spain",
+        "to": 1936,
+        "link": "https://en.wikipedia.org/wiki/Ram\u00f3n_del_Valle-Incl\u00e1n",
+        "type": "arts"
+    },
+    {
         "rating": 0.7140740803125,
         "from": 1955,
         "name": "Isabelle Adjani",
@@ -45762,6 +49587,15 @@ dataReady({people:[
         "to": 1639,
         "link": "https://en.wikipedia.org/wiki/Martin_de_Porres",
         "type": "religion"
+    },
+    {
+        "rating": 0.7140423215625,
+        "from": 1774,
+        "name": "Gaspare Spontini",
+        "country": "Italy",
+        "to": 1851,
+        "link": "https://en.wikipedia.org/wiki/Gaspare_Spontini",
+        "type": "music"
     },
     {
         "rating": 0.7140375196875,
@@ -46124,6 +49958,15 @@ dataReady({people:[
         "type": "other"
     },
     {
+        "rating": 0.7133524375,
+        "from": 1741,
+        "name": "Andr\u00e9 Gr\u00e9try",
+        "country": "Belgium",
+        "to": 1813,
+        "link": "https://en.wikipedia.org/wiki/Andr\u00e9_Gr\u00e9try",
+        "type": "music"
+    },
+    {
         "rating": 0.7133498415625,
         "from": 1917,
         "name": "Robert Burns Woodward",
@@ -46203,6 +50046,15 @@ dataReady({people:[
         "to": 1704,
         "link": "https://en.wikipedia.org/wiki/Guillaume_de_l'H\u00f4pital",
         "type": "science"
+    },
+    {
+        "rating": 0.71318621625,
+        "from": 1858,
+        "name": "Emmeline Pankhurst",
+        "country": "United Kingdom",
+        "to": 1928,
+        "link": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst",
+        "type": "public"
     },
     {
         "rating": 0.7131773575,
@@ -46475,6 +50327,15 @@ dataReady({people:[
         "type": "religion"
     },
     {
+        "rating": 0.712676356875,
+        "from": 1922,
+        "name": "Renata Tebaldi",
+        "country": "Italy",
+        "to": 2004,
+        "link": "https://en.wikipedia.org/wiki/Renata_Tebaldi",
+        "type": "music"
+    },
+    {
         "rating": 0.712625285625,
         "from": 1887,
         "name": "Ch\u016bichi Nagumo",
@@ -46716,6 +50577,15 @@ dataReady({people:[
         "to": 1955,
         "link": "https://en.wikipedia.org/wiki/John_Mott",
         "type": "politics"
+    },
+    {
+        "rating": 0.712079841875,
+        "from": 1882,
+        "name": "Leopold Stokowski",
+        "country": "United Kingdom",
+        "to": 1977,
+        "link": "https://en.wikipedia.org/wiki/Leopold_Stokowski",
+        "type": "music"
     },
     {
         "rating": 0.7120793890625,
@@ -47033,6 +50903,15 @@ dataReady({people:[
         "type": "explorer"
     },
     {
+        "rating": 0.711480518125,
+        "from": 1913,
+        "name": "Witold Lutos\u0142awski",
+        "country": "Poland",
+        "to": 1994,
+        "link": "https://en.wikipedia.org/wiki/Witold_Lutos\u0142awski",
+        "type": "music"
+    },
+    {
         "rating": 0.711474256875,
         "from": 1937,
         "name": "Robert Huber",
@@ -47312,6 +51191,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.71062355625,
+        "from": 1810,
+        "name": "Otto Nicolai",
+        "country": "Russia",
+        "to": 1849,
+        "link": "https://en.wikipedia.org/wiki/Otto_Nicolai",
+        "type": "music"
+    },
+    {
         "rating": 0.71061497375,
         "from": 1899,
         "name": "Fritz Albert Lipmann",
@@ -47319,6 +51207,15 @@ dataReady({people:[
         "to": 1986,
         "link": "https://en.wikipedia.org/wiki/Fritz_Albert_Lipmann",
         "type": "science"
+    },
+    {
+        "rating": 0.710605824375,
+        "from": 1852,
+        "name": "Paul-Henri-Benjamin d'Estournelles de Constant",
+        "country": "France",
+        "to": 1924,
+        "link": "https://en.wikipedia.org/wiki/Paul-Henri-Benjamin_d'Estournelles_de_Constant",
+        "type": "politics"
     },
     {
         "rating": 0.7105982575,
@@ -47492,6 +51389,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.71019287,
+        "from": 1904,
+        "name": "Dmitry Kabalevsky",
+        "country": "Russia",
+        "to": 1987,
+        "link": "https://en.wikipedia.org/wiki/Dmitry_Kabalevsky",
+        "type": "music"
+    },
+    {
         "rating": 0.71013409625,
         "from": 1940,
         "name": "Jerzy Buzek",
@@ -47625,6 +51531,24 @@ dataReady({people:[
         "to": 1997,
         "link": "https://en.wikipedia.org/wiki/Hans_Eysenck",
         "type": "science"
+    },
+    {
+        "rating": 0.709926316875,
+        "from": 1796,
+        "name": "Franz Berwald",
+        "country": "Sweden",
+        "to": 1868,
+        "link": "https://en.wikipedia.org/wiki/Franz_Berwald",
+        "type": "music"
+    },
+    {
+        "rating": 0.7099203828125,
+        "from": 1880,
+        "name": "Andrei Bely",
+        "country": "Russia",
+        "to": 1934,
+        "link": "https://en.wikipedia.org/wiki/Andrei_Bely",
+        "type": "arts"
     },
     {
         "rating": 0.7099171896875,
@@ -48013,6 +51937,15 @@ dataReady({people:[
         "type": "sports"
     },
     {
+        "rating": 0.7090549725,
+        "from": 1858,
+        "name": "Lovis Corinth",
+        "country": "Russia",
+        "to": 1925,
+        "link": "https://en.wikipedia.org/wiki/Lovis_Corinth",
+        "type": "arts"
+    },
+    {
         "rating": 0.709050195,
         "from": 1897,
         "name": "Yun Posun",
@@ -48200,6 +52133,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Gary_Sinise",
         "type": "arts"
+    },
+    {
+        "rating": 0.708483406875,
+        "from": 1921,
+        "name": "Mario Lanza",
+        "country": "United States",
+        "to": 1959,
+        "link": "https://en.wikipedia.org/wiki/Mario_Lanza",
+        "type": "music"
     },
     {
         "rating": 0.70837948,
@@ -48570,6 +52512,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7076205125,
+        "from": 1560,
+        "name": "Anton Praetorius",
+        "country": "Germany",
+        "to": 1613,
+        "link": "https://en.wikipedia.org/wiki/Anton_Praetorius",
+        "type": "arts"
+    },
+    {
         "rating": 0.7075798234375,
         "from": 1919,
         "name": "Donald J. Cram",
@@ -48630,6 +52581,15 @@ dataReady({people:[
         "country": "United States",
         "to": 2010,
         "link": "https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg",
+        "type": "science"
+    },
+    {
+        "rating": 0.70748035625,
+        "from": 1858,
+        "name": "Eliezer Ben-Yehuda",
+        "country": "Belarus",
+        "to": 1922,
+        "link": "https://en.wikipedia.org/wiki/Eliezer_Ben-Yehuda",
         "type": "science"
     },
     {
@@ -48795,6 +52755,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.70724718875,
+        "from": 1894,
+        "name": "W\u00e4in\u00f6 Aaltonen",
+        "country": "Finland",
+        "to": 1966,
+        "link": "https://en.wikipedia.org/wiki/W\u00e4in\u00f6_Aaltonen",
+        "type": "arts"
+    },
+    {
         "rating": 0.707215721875,
         "from": 1900,
         "name": "Dennis Gabor",
@@ -48813,6 +52782,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7072033984375,
+        "from": 1921,
+        "name": "Marija Gimbutas",
+        "country": "Lithuania",
+        "to": 1994,
+        "link": "https://en.wikipedia.org/wiki/Marija_Gimbutas",
+        "type": "science"
+    },
+    {
         "rating": 0.7071822925,
         "from": 1943,
         "name": "Reinaldo Arenas",
@@ -48820,6 +52798,15 @@ dataReady({people:[
         "to": 1990,
         "link": "https://en.wikipedia.org/wiki/Reinaldo_Arenas",
         "type": "arts"
+    },
+    {
+        "rating": 0.707174053125,
+        "from": 1948,
+        "name": "Jan Palach",
+        "country": "Czech Republic",
+        "to": 1969,
+        "link": "https://en.wikipedia.org/wiki/Jan_Palach",
+        "type": "public"
     },
     {
         "rating": 0.7071578521875,
@@ -48894,6 +52881,15 @@ dataReady({people:[
         "type": "public"
     },
     {
+        "rating": 0.706984630625,
+        "from": 1870,
+        "name": "Louis Vierne",
+        "country": "France",
+        "to": 1937,
+        "link": "https://en.wikipedia.org/wiki/Louis_Vierne",
+        "type": "music"
+    },
+    {
         "rating": 0.70697651,
         "from": 1934,
         "name": "John L. Hall",
@@ -48901,6 +52897,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/John_L._Hall",
         "type": "science"
+    },
+    {
+        "rating": 0.7069688728125,
+        "from": 300,
+        "name": "Antipope Felix II",
+        "country": "Unknown",
+        "to": 365,
+        "link": "https://en.wikipedia.org/wiki/Antipope_Felix_II",
+        "type": "religion"
     },
     {
         "rating": 0.7069513584375,
@@ -49371,6 +53376,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.7060473915625,
+        "from": 1799,
+        "name": "Karl Bryullov",
+        "country": "Russia",
+        "to": 1852,
+        "link": "https://en.wikipedia.org/wiki/Karl_Bryullov",
+        "type": "arts"
+    },
+    {
         "rating": 0.7060352875,
         "from": 1758,
         "name": "Jean-Jacques Dessalines",
@@ -49515,6 +53529,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.7056307371875,
+        "from": 1700,
+        "name": "Giovanni Battista Sammartini",
+        "country": "Italy",
+        "to": 1775,
+        "link": "https://en.wikipedia.org/wiki/Giovanni_Battista_Sammartini",
+        "type": "music"
+    },
+    {
         "rating": 0.70559860125,
         "from": 1941,
         "name": "Fethullah G\u00fclen",
@@ -49567,6 +53590,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Johan_Neeskens",
         "type": "sports"
+    },
+    {
+        "rating": 0.705505145625,
+        "from": 1881,
+        "name": "P. G. Wodehouse",
+        "country": "United Kingdom",
+        "to": 1975,
+        "link": "https://en.wikipedia.org/wiki/P._G._Wodehouse",
+        "type": "arts"
     },
     {
         "rating": 0.7054794084375,
@@ -49774,6 +53806,15 @@ dataReady({people:[
         "to": 1798,
         "link": "https://en.wikipedia.org/wiki/George_Vancouver",
         "type": "explorer"
+    },
+    {
+        "rating": 0.705066229375,
+        "from": 1911,
+        "name": "Gian Carlo Menotti",
+        "country": "Italy",
+        "to": 2007,
+        "link": "https://en.wikipedia.org/wiki/Gian_Carlo_Menotti",
+        "type": "music"
     },
     {
         "rating": 0.705050140625,
@@ -50181,6 +54222,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.70405231,
+        "from": 1710,
+        "name": "Thomas Arne",
+        "country": "United Kingdom",
+        "to": 1778,
+        "link": "https://en.wikipedia.org/wiki/Thomas_Arne",
+        "type": "music"
+    },
+    {
         "rating": 0.704046469375,
         "from": 1959,
         "name": "Val Kilmer",
@@ -50251,6 +54301,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh",
         "type": "politics"
+    },
+    {
+        "rating": 0.70388917875,
+        "from": 1912,
+        "name": "Elsa Morante",
+        "country": "Italy",
+        "to": 1985,
+        "link": "https://en.wikipedia.org/wiki/Elsa_Morante",
+        "type": "arts"
     },
     {
         "rating": 0.7038588803125,
@@ -51342,6 +55401,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.70087602375,
+        "from": 1833,
+        "name": "Vasily Perov",
+        "country": "Russia",
+        "to": 1882,
+        "link": "https://en.wikipedia.org/wiki/Vasily_Perov",
+        "type": "arts"
+    },
+    {
         "rating": 0.70085247625,
         "from": 1942,
         "name": "Bert Sakmann",
@@ -51807,6 +55875,15 @@ dataReady({people:[
         "country": "United States",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Ward_Cunningham",
+        "type": "science"
+    },
+    {
+        "rating": 0.6998409803125,
+        "from": 1691,
+        "name": "Philip Miller",
+        "country": "United Kingdom",
+        "to": 1771,
+        "link": "https://en.wikipedia.org/wiki/Philip_Miller",
         "type": "science"
     },
     {
@@ -52287,6 +56364,15 @@ dataReady({people:[
         "type": "sports"
     },
     {
+        "rating": 0.698780803125,
+        "from": 1875,
+        "name": "Franco Alfano",
+        "country": "Italy",
+        "to": 1954,
+        "link": "https://en.wikipedia.org/wiki/Franco_Alfano",
+        "type": "music"
+    },
+    {
         "rating": 0.698771693125,
         "from": 1950,
         "name": "Steve Wozniak",
@@ -52366,6 +56452,24 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Petula_Clark",
         "type": "music"
+    },
+    {
+        "rating": 0.6985432628125,
+        "from": 1842,
+        "name": "Arthur Sullivan",
+        "country": "United Kingdom",
+        "to": 1900,
+        "link": "https://en.wikipedia.org/wiki/Arthur_Sullivan",
+        "type": "music"
+    },
+    {
+        "rating": 0.698516416875,
+        "from": 1612,
+        "name": "Saskia van Uylenburgh",
+        "country": "Netherlands",
+        "to": 1642,
+        "link": "https://en.wikipedia.org/wiki/Saskia_van_Uylenburgh",
+        "type": "public"
     },
     {
         "rating": 0.6985038621875,
@@ -52474,6 +56578,24 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Dorothea_Lange",
         "type": "other"
+    },
+    {
+        "rating": 0.698202439375,
+        "from": 1904,
+        "name": "Charles J. Pedersen",
+        "country": "South Korea",
+        "to": 1989,
+        "link": "https://en.wikipedia.org/wiki/Charles_J._Pedersen",
+        "type": "science"
+    },
+    {
+        "rating": 0.6981607740625,
+        "from": 1785,
+        "name": "Karl Drais",
+        "country": "Germany",
+        "to": 1851,
+        "link": "https://en.wikipedia.org/wiki/Karl_Drais",
+        "type": "invention"
     },
     {
         "rating": 0.6981588140625,
@@ -52916,6 +57038,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.6974357465625,
+        "from": 1904,
+        "name": "Luigi Dallapiccola",
+        "country": "Croatia",
+        "to": 1975,
+        "link": "https://en.wikipedia.org/wiki/Luigi_Dallapiccola",
+        "type": "music"
+    },
+    {
         "rating": 0.6973979309375,
         "from": 1950,
         "name": "Daniel Auteuil",
@@ -53004,6 +57135,15 @@ dataReady({people:[
         "to": 2000,
         "link": "https://en.wikipedia.org/wiki/Sirimavo_Bandaranaike",
         "type": "politics"
+    },
+    {
+        "rating": 0.69720179125,
+        "from": 1921,
+        "name": "Giuseppe Di Stefano",
+        "country": "Italy",
+        "to": 2008,
+        "link": "https://en.wikipedia.org/wiki/Giuseppe_Di_Stefano",
+        "type": "music"
     },
     {
         "rating": 0.697194821875,
@@ -53103,6 +57243,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Otto_Rehhagel",
         "type": "sports"
+    },
+    {
+        "rating": 0.6970013640625,
+        "from": 1947,
+        "name": "Sergio Badilla Castillo",
+        "country": "Chile",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Sergio_Badilla_Castillo",
+        "type": "arts"
     },
     {
         "rating": 0.6969926659375,
@@ -53355,6 +57504,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Franco_Baresi",
         "type": "sports"
+    },
+    {
+        "rating": 0.69621166,
+        "from": 1864,
+        "name": "Eugen d'Albert",
+        "country": "United Kingdom",
+        "to": 1932,
+        "link": "https://en.wikipedia.org/wiki/Eugen_d'Albert",
+        "type": "music"
     },
     {
         "rating": 0.6961854553125,
@@ -53616,6 +57774,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/G\u00f6ran_Persson",
         "type": "politics"
+    },
+    {
+        "rating": 0.6955560884375,
+        "from": 1816,
+        "name": "Paul Reuter",
+        "country": "Germany",
+        "to": 1899,
+        "link": "https://en.wikipedia.org/wiki/Paul_Reuter",
+        "type": "business"
     },
     {
         "rating": 0.695550489375,
@@ -54284,6 +58451,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.693605668125,
+        "from": 1912,
+        "name": "Sergiu Celibidache",
+        "country": "Romania",
+        "to": 1996,
+        "link": "https://en.wikipedia.org/wiki/Sergiu_Celibidache",
+        "type": "music"
+    },
+    {
         "rating": 0.69359793125,
         "from": 1947,
         "name": "Linda B. Buck",
@@ -54408,6 +58584,24 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Toomas_Hendrik_Ilves",
         "type": "politics"
+    },
+    {
+        "rating": 0.693244180625,
+        "from": 1890,
+        "name": "Nikolai Trubetzkoy",
+        "country": "Russia",
+        "to": 1938,
+        "link": "https://en.wikipedia.org/wiki/Nikolai_Trubetzkoy",
+        "type": "science"
+    },
+    {
+        "rating": 0.6932425728125,
+        "from": 1867,
+        "name": "Enrique Granados",
+        "country": "Spain",
+        "to": 1916,
+        "link": "https://en.wikipedia.org/wiki/Enrique_Granados",
+        "type": "music"
     },
     {
         "rating": 0.69312591375,
@@ -55174,6 +59368,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.691408905625,
+        "from": 1895,
+        "name": "B. H. Liddell Hart",
+        "country": "France",
+        "to": 1970,
+        "link": "https://en.wikipedia.org/wiki/B._H._Liddell_Hart",
+        "type": "arts"
+    },
+    {
         "rating": 0.6913992196875,
         "from": 1947,
         "name": "Rob Rensenbrink",
@@ -55361,6 +59564,15 @@ dataReady({people:[
         "to": 1984,
         "link": "https://en.wikipedia.org/wiki/Dmitriy_Ustinov",
         "type": "politics"
+    },
+    {
+        "rating": 0.690652738125,
+        "from": 1929,
+        "name": "Andr\u00e9 Previn",
+        "country": "Germany",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Andr\u00e9_Previn",
+        "type": "music"
     },
     {
         "rating": 0.690634663125,
@@ -55755,6 +59967,15 @@ dataReady({people:[
         "to": 2005,
         "link": "https://en.wikipedia.org/wiki/Ronald_Golias",
         "type": "arts"
+    },
+    {
+        "rating": 0.689461269375,
+        "from": 1510,
+        "name": "Francisco V\u00e1zquez de Coronado",
+        "country": "Spain",
+        "to": 1554,
+        "link": "https://en.wikipedia.org/wiki/Francisco_V\u00e1zquez_de_Coronado",
+        "type": "explorer"
     },
     {
         "rating": 0.689456229375,
@@ -56189,6 +60410,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.6880978065625,
+        "from": 1945,
+        "name": "Anatoly Fomenko",
+        "country": "Ukraine",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Anatoly_Fomenko",
+        "type": "science"
+    },
+    {
         "rating": 0.6880948478125,
         "from": 1906,
         "name": "Janet Gaynor",
@@ -56457,6 +60687,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Fradique_de_Menezes",
         "type": "politics"
+    },
+    {
+        "rating": 0.6873148203125,
+        "from": 1912,
+        "name": "Georg Solti",
+        "country": "Hungary",
+        "to": 1997,
+        "link": "https://en.wikipedia.org/wiki/Georg_Solti",
+        "type": "music"
     },
     {
         "rating": 0.687295456875,
@@ -57105,6 +61344,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Annie_Lennox",
         "type": "music"
+    },
+    {
+        "rating": 0.68544653625,
+        "from": 1691,
+        "name": "Edward Cave",
+        "country": "United Kingdom",
+        "to": 1754,
+        "link": "https://en.wikipedia.org/wiki/Edward_Cave",
+        "type": "business"
     },
     {
         "rating": 0.6854253121875,
@@ -57943,6 +62191,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.682455105625,
+        "from": 1766,
+        "name": "Nguy\u1ec5n Du",
+        "country": "Vietnam",
+        "to": 1820,
+        "link": "https://en.wikipedia.org/wiki/Nguy\u1ec5n_Du",
+        "type": "arts"
+    },
+    {
         "rating": 0.6824547859375,
         "from": 1934,
         "name": "Bill Russell",
@@ -58013,6 +62270,24 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Juliette_Binoche",
         "type": "arts"
+    },
+    {
+        "rating": 0.682294369375,
+        "from": 1832,
+        "name": "Pavel Tretyakov",
+        "country": "Russia",
+        "to": 1898,
+        "link": "https://en.wikipedia.org/wiki/Pavel_Tretyakov",
+        "type": "business"
+    },
+    {
+        "rating": 0.682240999375,
+        "from": 1775,
+        "name": "Fran\u00e7ois-Adrien Boieldieu",
+        "country": "France",
+        "to": 1834,
+        "link": "https://en.wikipedia.org/wiki/Fran\u00e7ois-Adrien_Boieldieu",
+        "type": "music"
     },
     {
         "rating": 0.6821209665625,
@@ -58103,6 +62378,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
         "type": "sports"
+    },
+    {
+        "rating": 0.6818786509375,
+        "from": 1935,
+        "name": "Agota Kristof",
+        "country": "Hungary",
+        "to": 2011,
+        "link": "https://en.wikipedia.org/wiki/Agota_Kristof",
+        "type": "arts"
     },
     {
         "rating": 0.6818369203125,
@@ -58399,6 +62683,15 @@ dataReady({people:[
         "country": "United States",
         "to": 2012,
         "link": "https://en.wikipedia.org/wiki/Maurice_Sendak",
+        "type": "arts"
+    },
+    {
+        "rating": 0.68074313875,
+        "from": 1944,
+        "name": "Thom Mayne",
+        "country": "United States",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Thom_Mayne",
         "type": "arts"
     },
     {
@@ -58923,6 +63216,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.678531275625,
+        "from": 1892,
+        "name": "Karl Wilhelm Reinmuth",
+        "country": "Germany",
+        "to": 1979,
+        "link": "https://en.wikipedia.org/wiki/Karl_Wilhelm_Reinmuth",
+        "type": "science"
+    },
+    {
         "rating": 0.678446693125,
         "from": 1950,
         "name": "Mikhail Fradkov",
@@ -59029,6 +63331,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Festus_Mogae",
         "type": "politics"
+    },
+    {
+        "rating": 0.6779512715625,
+        "from": 1824,
+        "name": "Pierre Janssen",
+        "country": "France",
+        "to": 1907,
+        "link": "https://en.wikipedia.org/wiki/Pierre_Janssen",
+        "type": "science"
     },
     {
         "rating": 0.6779477446875,
@@ -60020,6 +64331,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.673953489375,
+        "from": 1889,
+        "name": "Vera Mukhina",
+        "country": "Latvia",
+        "to": 1953,
+        "link": "https://en.wikipedia.org/wiki/Vera_Mukhina",
+        "type": "arts"
+    },
+    {
         "rating": 0.67394775625,
         "from": 1949,
         "name": "Phil Lynott",
@@ -60233,6 +64553,15 @@ dataReady({people:[
         "country": "United Kingdom",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Jude_Law",
+        "type": "arts"
+    },
+    {
+        "rating": 0.6728602859375,
+        "from": 1907,
+        "name": "Peggy Ashcroft",
+        "country": "United Kingdom",
+        "to": 1991,
+        "link": "https://en.wikipedia.org/wiki/Peggy_Ashcroft",
         "type": "arts"
     },
     {
@@ -60639,6 +64968,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Ice_Cube",
         "type": "music"
+    },
+    {
+        "rating": 0.6710330840625,
+        "from": 1871,
+        "name": "Stephen Crane",
+        "country": "United States",
+        "to": 1900,
+        "link": "https://en.wikipedia.org/wiki/Stephen_Crane",
+        "type": "arts"
     },
     {
         "rating": 0.671019475,
@@ -62333,6 +66671,15 @@ dataReady({people:[
         "type": "science"
     },
     {
+        "rating": 0.6629822078125,
+        "from": 1958,
+        "name": "Alessandro Baricco",
+        "country": "Italy",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Alessandro_Baricco",
+        "type": "arts"
+    },
+    {
         "rating": 0.6629605825,
         "from": 1960,
         "name": "Sayyid Hassan Nasrallah",
@@ -62933,6 +67280,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Juanes",
         "type": "music"
+    },
+    {
+        "rating": 0.6607656475,
+        "from": 450,
+        "name": "Antipope Laurentius",
+        "country": "Unknown",
+        "to": 506,
+        "link": "https://en.wikipedia.org/wiki/Antipope_Laurentius",
+        "type": "religion"
     },
     {
         "rating": 0.6607084725,
@@ -63996,6 +68352,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.654398593125,
+        "from": 1919,
+        "name": "Matilde Camus",
+        "country": "Spain",
+        "to": 2012,
+        "link": "https://en.wikipedia.org/wiki/Matilde_Camus",
+        "type": "arts"
+    },
+    {
         "rating": 0.6543209096875,
         "from": 1957,
         "name": "Wolfgang Ketterle",
@@ -64129,6 +68494,15 @@ dataReady({people:[
         "to": 2007,
         "link": "https://en.wikipedia.org/wiki/Malietoa_Tanumafili_II",
         "type": "politics"
+    },
+    {
+        "rating": 0.6537971278125,
+        "from": 1960,
+        "name": "Kim Ki-duk",
+        "country": "South Korea",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Kim_Ki-duk",
+        "type": "arts"
     },
     {
         "rating": 0.6537613434375,
@@ -65166,6 +69540,15 @@ dataReady({people:[
         "type": "music"
     },
     {
+        "rating": 0.6481926421875,
+        "from": 1899,
+        "name": "No\u00ebl Coward",
+        "country": "United Kingdom",
+        "to": 1973,
+        "link": "https://en.wikipedia.org/wiki/No\u00ebl_Coward",
+        "type": "arts"
+    },
+    {
         "rating": 0.6480921425,
         "from": 1954,
         "name": "Vojislav \u0160e\u0161elj",
@@ -65505,6 +69888,15 @@ dataReady({people:[
         "country": "United States",
         "to": 1899,
         "link": "https://en.wikipedia.org/wiki/Garret_Hobart",
+        "type": "politics"
+    },
+    {
+        "rating": 0.6462912125,
+        "from": 1945,
+        "name": "John Garang",
+        "country": "South Sudan",
+        "to": 2005,
+        "link": "https://en.wikipedia.org/wiki/John_Garang",
         "type": "politics"
     },
     {
@@ -67126,6 +71518,15 @@ dataReady({people:[
         "to": 1975,
         "link": "https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan",
         "type": "politics"
+    },
+    {
+        "rating": 0.6380101865625,
+        "from": 1953,
+        "name": "Valery Gergiev",
+        "country": "Russia",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Valery_Gergiev",
+        "type": "music"
     },
     {
         "rating": 0.637972931875,
@@ -69123,6 +73524,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.626345803125,
+        "from": 1960,
+        "name": "Anna-Maria Ravnopolska-Dean",
+        "country": "Bulgaria",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Anna-Maria_Ravnopolska-Dean",
+        "type": "music"
+    },
+    {
         "rating": 0.6263282759375,
         "from": 1977,
         "name": "Jeff Hardy",
@@ -70551,6 +74961,15 @@ dataReady({people:[
         "country": "Australia",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Simon_Baker",
+        "type": "arts"
+    },
+    {
+        "rating": 0.61728196375,
+        "from": 1935,
+        "name": "Lyudmila Gurchenko",
+        "country": "Ukraine",
+        "to": 2011,
+        "link": "https://en.wikipedia.org/wiki/Lyudmila_Gurchenko",
         "type": "arts"
     },
     {
@@ -72092,6 +76511,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.605782254375,
+        "from": 1957,
+        "name": "Yasuhiro Yamashita",
+        "country": "Japan",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Yasuhiro_Yamashita",
+        "type": "sports"
+    },
+    {
         "rating": 0.6057649934375,
         "from": 1971,
         "name": "Jada Pinkett Smith",
@@ -72902,6 +77330,15 @@ dataReady({people:[
         "type": "sports"
     },
     {
+        "rating": 0.60039035125,
+        "from": 1962,
+        "name": "Aleksandr Dedyushko",
+        "country": "Belarus",
+        "to": 2007,
+        "link": "https://en.wikipedia.org/wiki/Aleksandr_Dedyushko",
+        "type": "arts"
+    },
+    {
         "rating": 0.600355629375,
         "from": 1952,
         "name": "Yousaf Raza Gillani",
@@ -72999,6 +77436,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Markus_Merk",
         "type": "sports"
+    },
+    {
+        "rating": 0.599760168125,
+        "from": 1958,
+        "name": "Joseba Sarrionandia",
+        "country": "Spain",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Joseba_Sarrionandia",
+        "type": "arts"
     },
     {
         "rating": 0.5997563815625,
@@ -73511,6 +77957,15 @@ dataReady({people:[
         "country": "United States",
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Jim_Cummings",
+        "type": "arts"
+    },
+    {
+        "rating": 0.5961475271875,
+        "from": 1955,
+        "name": "Leszek Engelking",
+        "country": "Poland",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Leszek_Engelking",
         "type": "arts"
     },
     {
@@ -74917,6 +79372,15 @@ dataReady({people:[
         "type": "arts"
     },
     {
+        "rating": 0.585536191875,
+        "from": 1954,
+        "name": "Ant\u00f3n Lamazares",
+        "country": "Spain",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Ant\u00f3n_Lamazares",
+        "type": "arts"
+    },
+    {
         "rating": 0.5855348521875,
         "from": 1977,
         "name": "Edward Furlong",
@@ -74978,6 +79442,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Freddie_Prinze,_Jr.",
         "type": "arts"
+    },
+    {
+        "rating": 0.585082045,
+        "from": 1958,
+        "name": "David C. Jewitt",
+        "country": "United Kingdom",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/David_C._Jewitt",
+        "type": "science"
     },
     {
         "rating": 0.585063274375,
@@ -76112,6 +80585,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Carlo_Cudicini",
         "type": "sports"
+    },
+    {
+        "rating": 0.5764852246875,
+        "from": 1962,
+        "name": "Elvira Lindo",
+        "country": "Spain",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Elvira_Lindo",
+        "type": "arts"
     },
     {
         "rating": 0.57640148625,
@@ -82843,6 +87325,15 @@ dataReady({people:[
         "type": "sports"
     },
     {
+        "rating": 0.523220425625,
+        "from": 1974,
+        "name": "Jimmy Jump",
+        "country": "Spain",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Jimmy_Jump",
+        "type": "public"
+    },
+    {
         "rating": 0.5231096159375,
         "from": 1972,
         "name": "Alexei Shirov",
@@ -82886,6 +87377,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Asafa_Powell",
         "type": "sports"
+    },
+    {
+        "rating": 0.52289964125,
+        "from": 1966,
+        "name": "Luc\u00eda Etxebarr\u00eda",
+        "country": "Spain",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Luc\u00eda_Etxebarr\u00eda",
+        "type": "arts"
     },
     {
         "rating": 0.522685005625,
@@ -84363,6 +88863,15 @@ dataReady({people:[
         "type": "politics"
     },
     {
+        "rating": 0.5096691003125,
+        "from": 1972,
+        "name": "Maria Mutola",
+        "country": "Mozambique",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Maria_Mutola",
+        "type": "sports"
+    },
+    {
         "rating": 0.5094265840625,
         "from": 1959,
         "name": "Rahm Emanuel",
@@ -85459,4514 +89968,6 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/Stipe_Pletikosa",
         "type": "sports"
-    },
-    {
-        "rating": 0.498503478125,
-        "from": 1987,
-        "name": "Lucas Leiva",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lucas_Leiva",
-        "type": "sports"
-    },
-    {
-        "rating": 0.498403641875,
-        "from": 1976,
-        "name": "Chauncey Billups",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chauncey_Billups",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4983106734375,
-        "from": 1988,
-        "name": "Emily Browning",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Emily_Browning",
-        "type": "arts"
-    },
-    {
-        "rating": 0.498268285,
-        "from": 1980,
-        "name": "Karolina Go\u010deva",
-        "country": "Republic Of Macedonia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Karolina_Go\u010deva",
-        "type": "music"
-    },
-    {
-        "rating": 0.4981410428125,
-        "from": 1983,
-        "name": "Diego Benaglio",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Diego_Benaglio",
-        "type": "sports"
-    },
-    {
-        "rating": 0.498104031875,
-        "from": 1989,
-        "name": "Sterling Knight",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sterling_Knight",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4980383234375,
-        "from": 1989,
-        "name": "Phoebe Tonkin",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Phoebe_Tonkin",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4979645340625,
-        "from": 1986,
-        "name": "Ga\u00ebl Monfils",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ga\u00ebl_Monfils",
-        "type": "sports"
-    },
-    {
-        "rating": 0.497851819375,
-        "from": 1983,
-        "name": "Danny (footballer)",
-        "country": "Venezuela",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Danny_(footballer)",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49784104375,
-        "from": 1982,
-        "name": "Priyanka Chopra",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Priyanka_Chopra",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4978380784375,
-        "from": 1983,
-        "name": "Mike Hanke",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mike_Hanke",
-        "type": "sports"
-    },
-    {
-        "rating": 0.497836643125,
-        "from": 1984,
-        "name": "Garrett Hedlund",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Garrett_Hedlund",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4978340484375,
-        "from": 1987,
-        "name": "Eljero Elia",
-        "country": "Netherlands",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Eljero_Elia",
-        "type": "sports"
-    },
-    {
-        "rating": 0.497822674375,
-        "from": 1989,
-        "name": "Javier Pastore",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Javier_Pastore",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4977954309375,
-        "from": 1981,
-        "name": "Ga\u00ebl Givet",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ga\u00ebl_Givet",
-        "type": "sports"
-    },
-    {
-        "rating": 0.497726035625,
-        "from": 1971,
-        "name": "Chen Guangcheng",
-        "country": "China",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chen_Guangcheng",
-        "type": "public"
-    },
-    {
-        "rating": 0.4974748153125,
-        "from": 1983,
-        "name": "Heiko Westermann",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Heiko_Westermann",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49741975375,
-        "from": 1983,
-        "name": "Christian Klien",
-        "country": "Austria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Christian_Klien",
-        "type": "sports"
-    },
-    {
-        "rating": 0.497360101875,
-        "from": 1980,
-        "name": "Francesca Schiavone",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Francesca_Schiavone",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4973453584375,
-        "from": 1971,
-        "name": "Joel McHale",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Joel_McHale",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4972971925,
-        "from": 1979,
-        "name": "Milivoje Novakovi\u0107",
-        "country": "Slovenia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Milivoje_Novakovi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.497241184375,
-        "from": 1988,
-        "name": "Den\u00edlson Pereira Neves",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Den\u00edlson_Pereira_Neves",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4972255740625,
-        "from": 1978,
-        "name": "Josip \u0160imuni\u0107",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Josip_\u0160imuni\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4971552490625,
-        "from": 1978,
-        "name": "K'naan",
-        "country": "Somalia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/K'naan",
-        "type": "music"
-    },
-    {
-        "rating": 0.4969847053125,
-        "from": 1989,
-        "name": "Avicii",
-        "country": "Sweden",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Avicii",
-        "type": "music"
-    },
-    {
-        "rating": 0.4969090203125,
-        "from": 1985,
-        "name": "Guillermo Ochoa",
-        "country": "Mexico",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Guillermo_Ochoa",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4968815834375,
-        "from": 1981,
-        "name": "Vicente Rodr\u00edguez",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vicente_Rodr\u00edguez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.496732713125,
-        "from": 1992,
-        "name": "Stephan El Shaarawy",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stephan_El_Shaarawy",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4966098928125,
-        "from": 1985,
-        "name": "Jakub B\u0142aszczykowski",
-        "country": "Poland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jakub_B\u0142aszczykowski",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49634102875,
-        "from": 1945,
-        "name": "Huell Howser",
-        "country": "United States",
-        "to": 2013,
-        "link": "https://en.wikipedia.org/wiki/Huell_Howser",
-        "type": "public"
-    },
-    {
-        "rating": 0.496239063125,
-        "from": 1984,
-        "name": "Robin S\u00f6derling",
-        "country": "Sweden",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Robin_S\u00f6derling",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4961567265625,
-        "from": 1979,
-        "name": "Brett Emerton",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Brett_Emerton",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4961335834375,
-        "from": 1990,
-        "name": "Sean Kingston",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sean_Kingston",
-        "type": "music"
-    },
-    {
-        "rating": 0.4960746653125,
-        "from": 1986,
-        "name": "Gabriel Agbonlahor",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gabriel_Agbonlahor",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4960398875,
-        "from": 1983,
-        "name": "Demy de Zeeuw",
-        "country": "Netherlands",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Demy_de_Zeeuw",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49588592625,
-        "from": 1984,
-        "name": "Mathieu Valbuena",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mathieu_Valbuena",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49581707625,
-        "from": 1985,
-        "name": "Ashley Young",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ashley_Young",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49571505,
-        "from": 1986,
-        "name": "Mario Mand\u017euki\u0107",
-        "country": "Croatia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mario_Mand\u017euki\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.495707555625,
-        "from": 1982,
-        "name": "Jaroslav Pla\u0161il",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jaroslav_Pla\u0161il",
-        "type": "sports"
-    },
-    {
-        "rating": 0.495699030625,
-        "from": 1989,
-        "name": "Mia Wasikowska",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mia_Wasikowska",
-        "type": "arts"
-    },
-    {
-        "rating": 0.49545356375,
-        "from": 1958,
-        "name": "John Dramani Mahama",
-        "country": "Ghana",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/John_Dramani_Mahama",
-        "type": "politics"
-    },
-    {
-        "rating": 0.4954217296875,
-        "from": 1977,
-        "name": "Giorgos Karagounis",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Giorgos_Karagounis",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4953610778125,
-        "from": 1982,
-        "name": "Janica Kosteli\u0107",
-        "country": "Croatia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Janica_Kosteli\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4953133028125,
-        "from": 1982,
-        "name": "Nadia Petrova",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nadia_Petrova",
-        "type": "sports"
-    },
-    {
-        "rating": 0.495073589375,
-        "from": 1989,
-        "name": "Marko Marin",
-        "country": "Bosnia And Herzegovina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marko_Marin",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4949584921875,
-        "from": 1973,
-        "name": "Tara Strong",
-        "country": "Canada",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tara_Strong",
-        "type": "arts"
-    },
-    {
-        "rating": 0.494889701875,
-        "from": 1985,
-        "name": "Rub\u00e9n de la Red",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Rub\u00e9n_de_la_Red",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4948470675,
-        "from": 1985,
-        "name": "Pablo Zabaleta",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Pablo_Zabaleta",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4948334375,
-        "from": 1987,
-        "name": "Johan Djourou",
-        "country": "Ivory Coast",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Johan_Djourou",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4946443540625,
-        "from": 1981,
-        "name": "C\u00e9dric Carrasso",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/C\u00e9dric_Carrasso",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4945751440625,
-        "from": 1966,
-        "name": "Bujar Nishani",
-        "country": "Albania",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bujar_Nishani",
-        "type": "politics"
-    },
-    {
-        "rating": 0.494563026875,
-        "from": 1985,
-        "name": "Andr\u00e9-Pierre Gignac",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andr\u00e9-Pierre_Gignac",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4944988009375,
-        "from": 1987,
-        "name": "Candice Accola",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Candice_Accola",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4944353515625,
-        "from": 1983,
-        "name": "Alsou",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alsou",
-        "type": "music"
-    },
-    {
-        "rating": 0.4944209709375,
-        "from": 1984,
-        "name": "Santi Cazorla",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Santi_Cazorla",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49434284625,
-        "from": 1978,
-        "name": "Pieter van den Hoogenband",
-        "country": "Netherlands",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Pieter_van_den_Hoogenband",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4942775515625,
-        "from": 1979,
-        "name": "Carly Col\u00f3n",
-        "country": "Puerto Rico",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Carly_Col\u00f3n",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4942757659375,
-        "from": 1984,
-        "name": "G\u00f6khan Inler",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/G\u00f6khan_Inler",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49404310625,
-        "from": 1980,
-        "name": "Fernando Gonz\u00e1lez",
-        "country": "Chile",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Fernando_Gonz\u00e1lez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.493877093125,
-        "from": 1984,
-        "name": "Alessandro Matri",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alessandro_Matri",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4937923678125,
-        "from": 1981,
-        "name": "Cristian Zaccardo",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Cristian_Zaccardo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49366810625,
-        "from": 1982,
-        "name": "H\u00e9lder Postiga",
-        "country": "Portugal",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/H\u00e9lder_Postiga",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4935955228125,
-        "from": 1985,
-        "name": "Antonio Nocerino",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Antonio_Nocerino",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4935838765625,
-        "from": 1968,
-        "name": "Niamh Kavanagh",
-        "country": "Ireland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Niamh_Kavanagh",
-        "type": "music"
-    },
-    {
-        "rating": 0.49357640375,
-        "from": 1985,
-        "name": "Roberto Soldado",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Roberto_Soldado",
-        "type": "sports"
-    },
-    {
-        "rating": 0.493561125,
-        "from": 1981,
-        "name": "Zara Phillips",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Zara_Phillips",
-        "type": "public"
-    },
-    {
-        "rating": 0.4934602725,
-        "from": 1981,
-        "name": "Jay Sean",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jay_Sean",
-        "type": "music"
-    },
-    {
-        "rating": 0.493442068125,
-        "from": 1986,
-        "name": "Riyo Mori",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Riyo_Mori",
-        "type": "public"
-    },
-    {
-        "rating": 0.4933467321875,
-        "from": 1981,
-        "name": "Morten Gamst Pedersen",
-        "country": "Norway",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Morten_Gamst_Pedersen",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4930653940625,
-        "from": 1984,
-        "name": "Stephan Lichtsteiner",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stephan_Lichtsteiner",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4930207615625,
-        "from": 1986,
-        "name": "Ellie Goulding",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ellie_Goulding",
-        "type": "music"
-    },
-    {
-        "rating": 0.4929516296875,
-        "from": 1984,
-        "name": "Marshall Allman",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marshall_Allman",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4927184234375,
-        "from": 1986,
-        "name": "Kamui Kobayashi",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kamui_Kobayashi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4926544834375,
-        "from": 1996,
-        "name": "Abigail Breslin",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Abigail_Breslin",
-        "type": "arts"
-    },
-    {
-        "rating": 0.49264100625,
-        "from": 1983,
-        "name": "Yuri Zhirkov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Yuri_Zhirkov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4926360225,
-        "from": 1979,
-        "name": "Muntadhar al-Zaidi",
-        "country": "Iraq",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Muntadhar_al-Zaidi",
-        "type": "other"
-    },
-    {
-        "rating": 0.492525915,
-        "from": 1977,
-        "name": "Alberto Del Rio",
-        "country": "Mexico",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alberto_Del_Rio",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4925179975,
-        "from": 1984,
-        "name": "Makoto Hasebe",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Makoto_Hasebe",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4923835040625,
-        "from": 1989,
-        "name": "Nicholas Hoult",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nicholas_Hoult",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4923354728125,
-        "from": 1979,
-        "name": "Anthony R\u00e9veill\u00e8re",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Anthony_R\u00e9veill\u00e8re",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49219881625,
-        "from": 1979,
-        "name": "Ivan Ljubi\u010di\u0107",
-        "country": "Bosnia And Herzegovina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ivan_Ljubi\u010di\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4918754625,
-        "from": 1987,
-        "name": "Heather Morris",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Heather_Morris",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4917586040625,
-        "from": 1979,
-        "name": "Ivo Karlovi\u0107",
-        "country": "Croatia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ivo_Karlovi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4917456115625,
-        "from": 1972,
-        "name": "Victor Ponta",
-        "country": "Romania",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Victor_Ponta",
-        "type": "politics"
-    },
-    {
-        "rating": 0.4916546365625,
-        "from": 1982,
-        "name": "Emina Jahovi\u0107",
-        "country": "Serbia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Emina_Jahovi\u0107",
-        "type": "music"
-    },
-    {
-        "rating": 0.491453451875,
-        "from": 1981,
-        "name": "Jarkko Nieminen",
-        "country": "Finland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jarkko_Nieminen",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4913846821875,
-        "from": 1980,
-        "name": "Robert Green",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Robert_Green",
-        "type": "sports"
-    },
-    {
-        "rating": 0.491241466875,
-        "from": 1979,
-        "name": "Ludovic Magnin",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ludovic_Magnin",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4912291915625,
-        "from": 1980,
-        "name": "Ben Foster",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ben_Foster",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4911151615625,
-        "from": 1984,
-        "name": "Paolo Guerrero",
-        "country": "Peru",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Paolo_Guerrero",
-        "type": "sports"
-    },
-    {
-        "rating": 0.491040565625,
-        "from": 1983,
-        "name": "Hugo Viana",
-        "country": "Portugal",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Hugo_Viana",
-        "type": "sports"
-    },
-    {
-        "rating": 0.491030164375,
-        "from": 1982,
-        "name": "Sakon Yamamoto",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sakon_Yamamoto",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49089252,
-        "from": 1989,
-        "name": "Aly Michalka",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aly_Michalka",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4908050721875,
-        "from": 1979,
-        "name": "Stiliyan Petrov",
-        "country": "Bulgaria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stiliyan_Petrov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4907113771875,
-        "from": 1981,
-        "name": "Simon Ammann",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Simon_Ammann",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4907000978125,
-        "from": 1979,
-        "name": "Rachel Corrie",
-        "country": "United States",
-        "to": 2003,
-        "link": "https://en.wikipedia.org/wiki/Rachel_Corrie",
-        "type": "public"
-    },
-    {
-        "rating": 0.49060722125,
-        "from": 1987,
-        "name": "Joe Hart",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Joe_Hart",
-        "type": "sports"
-    },
-    {
-        "rating": 0.49056687625,
-        "from": 1987,
-        "name": "Giuseppe Rossi",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Giuseppe_Rossi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4903641403125,
-        "from": 1978,
-        "name": "Samuel S\u00e1nchez",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Samuel_S\u00e1nchez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.490275010625,
-        "from": 1986,
-        "name": "Nathalia Dill",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nathalia_Dill",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4902386209375,
-        "from": 1981,
-        "name": "J\u00fcrgen Melzer",
-        "country": "Austria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/J\u00fcrgen_Melzer",
-        "type": "sports"
-    },
-    {
-        "rating": 0.490228960625,
-        "from": 1988,
-        "name": "Mats Hummels",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mats_Hummels",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4902005865625,
-        "from": 1979,
-        "name": "Richard Dunne",
-        "country": "Ireland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Richard_Dunne",
-        "type": "sports"
-    },
-    {
-        "rating": 0.490192136875,
-        "from": 1983,
-        "name": "Jermaine Pennant",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jermaine_Pennant",
-        "type": "sports"
-    },
-    {
-        "rating": 0.489996920625,
-        "from": 1985,
-        "name": "Tom\u00e1\u0161 Berdych",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tom\u00e1\u0161_Berdych",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4895670959375,
-        "from": 1968,
-        "name": "Lobsang Sangay",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lobsang_Sangay",
-        "type": "politics"
-    },
-    {
-        "rating": 0.4891206578125,
-        "from": 1985,
-        "name": "Andreas Ottl",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andreas_Ottl",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4890880003125,
-        "from": 1974,
-        "name": "Tim Henman",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tim_Henman",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4890695921875,
-        "from": 1969,
-        "name": "Ed Miliband",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ed_Miliband",
-        "type": "politics"
-    },
-    {
-        "rating": 0.4890452978125,
-        "from": 1986,
-        "name": "Jo\u00e3o Moutinho",
-        "country": "Portugal",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jo\u00e3o_Moutinho",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4889778934375,
-        "from": 1986,
-        "name": "Yuto Nagatomo",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Yuto_Nagatomo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.488733615625,
-        "from": 1980,
-        "name": "Marit Bj\u00f8rgen",
-        "country": "Norway",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marit_Bj\u00f8rgen",
-        "type": "sports"
-    },
-    {
-        "rating": 0.488733265625,
-        "from": 1984,
-        "name": "Mark Gonz\u00e1lez",
-        "country": "South Africa",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mark_Gonz\u00e1lez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.488654028125,
-        "from": 1988,
-        "name": "Gregory van der Wiel",
-        "country": "Netherlands",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gregory_van_der_Wiel",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4886211259375,
-        "from": 1981,
-        "name": "Anja P\u00e4rson",
-        "country": "Sweden",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Anja_P\u00e4rson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4885836828125,
-        "from": 1989,
-        "name": "Lily Collins",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lily_Collins",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4885709296875,
-        "from": 1975,
-        "name": "Viktor Kassai",
-        "country": "Hungary",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Viktor_Kassai",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48856508625,
-        "from": 1986,
-        "name": "James Milner",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/James_Milner",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4885414284375,
-        "from": 1977,
-        "name": "Konstantin Zyryanov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Konstantin_Zyryanov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4883524403125,
-        "from": 1992,
-        "name": "Bridgit Mendler",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bridgit_Mendler",
-        "type": "arts"
-    },
-    {
-        "rating": 0.48831256125,
-        "from": 1988,
-        "name": "Juan Mart\u00edn del Potro",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Juan_Mart\u00edn_del_Potro",
-        "type": "sports"
-    },
-    {
-        "rating": 0.488290799375,
-        "from": 1984,
-        "name": "Vedad Ibi\u0161evi\u0107",
-        "country": "Bosnia And Herzegovina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vedad_Ibi\u0161evi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4882463540625,
-        "from": 1987,
-        "name": "Katie Leung",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Katie_Leung",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4881333521875,
-        "from": 1982,
-        "name": "Brad Renfro",
-        "country": "United States",
-        "to": 2008,
-        "link": "https://en.wikipedia.org/wiki/Brad_Renfro",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4879395378125,
-        "from": 1990,
-        "name": "Chris Colfer",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chris_Colfer",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4877791675,
-        "from": 1984,
-        "name": "Vitaly Petrov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vitaly_Petrov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4876953315625,
-        "from": 1985,
-        "name": "Chris Paul",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chris_Paul",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4876356378125,
-        "from": 1985,
-        "name": "Laurent Koscielny",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Laurent_Koscielny",
-        "type": "sports"
-    },
-    {
-        "rating": 0.487489253125,
-        "from": 1973,
-        "name": "Sachin Tendulkar",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48739322125,
-        "from": 1985,
-        "name": "Andy Schleck",
-        "country": "Luxembourg",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andy_Schleck",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4873547396875,
-        "from": 1985,
-        "name": "\u00c1lvaro Negredo",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/\u00c1lvaro_Negredo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.487243935625,
-        "from": 1986,
-        "name": "Miguel Veloso",
-        "country": "Portugal",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Miguel_Veloso",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4872349809375,
-        "from": 1962,
-        "name": "Steve Redgrave",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Steve_Redgrave",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4871430175,
-        "from": 1984,
-        "name": "Gilles Simon",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gilles_Simon",
-        "type": "sports"
-    },
-    {
-        "rating": 0.487047086875,
-        "from": 1980,
-        "name": "Ledley King",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ledley_King",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4870246075,
-        "from": 1982,
-        "name": "Tal Ben Haim",
-        "country": "Israel",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tal_Ben_Haim",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4867977990625,
-        "from": 1983,
-        "name": "Andreas Ivanschitz",
-        "country": "Austria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andreas_Ivanschitz",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4867778190625,
-        "from": 1982,
-        "name": "Christian Maggio",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Christian_Maggio",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4867250875,
-        "from": 1986,
-        "name": "Richard Gasquet",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Richard_Gasquet",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4866530659375,
-        "from": 1988,
-        "name": "Ivan Rakiti\u0107",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ivan_Rakiti\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4864768371875,
-        "from": 1977,
-        "name": "Libor Sionko",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Libor_Sionko",
-        "type": "sports"
-    },
-    {
-        "rating": 0.486457815,
-        "from": 1983,
-        "name": "Jermaine Jenas",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jermaine_Jenas",
-        "type": "sports"
-    },
-    {
-        "rating": 0.486334985625,
-        "from": 1984,
-        "name": "Paula Fernandes",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Paula_Fernandes",
-        "type": "music"
-    },
-    {
-        "rating": 0.4862399346875,
-        "from": 1982,
-        "name": "Evgeni Plushenko",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Evgeni_Plushenko",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4862194746875,
-        "from": 1980,
-        "name": "Clemens Fritz",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Clemens_Fritz",
-        "type": "sports"
-    },
-    {
-        "rating": 0.486184038125,
-        "from": 1986,
-        "name": "Kasper Schmeichel",
-        "country": "Denmark",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kasper_Schmeichel",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4861129296875,
-        "from": 1979,
-        "name": "Brandy Norwood",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Brandy_Norwood",
-        "type": "music"
-    },
-    {
-        "rating": 0.4860363290625,
-        "from": 1989,
-        "name": "Jordin Sparks",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jordin_Sparks",
-        "type": "music"
-    },
-    {
-        "rating": 0.485981136875,
-        "from": 1989,
-        "name": "Holger Badstuber",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Holger_Badstuber",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4859551403125,
-        "from": 1983,
-        "name": "Carolina Kl\u00fcft",
-        "country": "Sweden",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Carolina_Kl\u00fcft",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4858366346875,
-        "from": 1969,
-        "name": "Gary Speed",
-        "country": "United Kingdom",
-        "to": 2011,
-        "link": "https://en.wikipedia.org/wiki/Gary_Speed",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4856316959375,
-        "from": 1991,
-        "name": "Evanna Lynch",
-        "country": "Ireland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Evanna_Lynch",
-        "type": "arts"
-    },
-    {
-        "rating": 0.485581836875,
-        "from": 1991,
-        "name": "Skandar Keynes",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Skandar_Keynes",
-        "type": "arts"
-    },
-    {
-        "rating": 0.485512925,
-        "from": 1978,
-        "name": "Yi So-yeon",
-        "country": "South Korea",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Yi_So-yeon",
-        "type": "explorer"
-    },
-    {
-        "rating": 0.485294163125,
-        "from": 1982,
-        "name": "Anabel Medina Garrigues",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Anabel_Medina_Garrigues",
-        "type": "sports"
-    },
-    {
-        "rating": 0.485244671875,
-        "from": 1985,
-        "name": "Adil Rami",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Adil_Rami",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48508816625,
-        "from": 1979,
-        "name": "Sotirios Kyrgiakos",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sotirios_Kyrgiakos",
-        "type": "sports"
-    },
-    {
-        "rating": 0.485082895625,
-        "from": 1980,
-        "name": "Fr\u00e4nk Schleck",
-        "country": "Luxembourg",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Fr\u00e4nk_Schleck",
-        "type": "sports"
-    },
-    {
-        "rating": 0.485039590625,
-        "from": 1978,
-        "name": "Kieron Dyer",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kieron_Dyer",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4850338603125,
-        "from": 1985,
-        "name": "Rooney Mara",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Rooney_Mara",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4848770940625,
-        "from": 1986,
-        "name": "Dinara Safina",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dinara_Safina",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48465551125,
-        "from": 1981,
-        "name": "Katarina Srebotnik",
-        "country": "Slovenia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Katarina_Srebotnik",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4844313453125,
-        "from": 1984,
-        "name": "Idriss Carlos Kameni",
-        "country": "Cameroon",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Idriss_Carlos_Kameni",
-        "type": "sports"
-    },
-    {
-        "rating": 0.484319345625,
-        "from": 1982,
-        "name": "Yakubu Aiyegbeni",
-        "country": "Nigeria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Yakubu_Aiyegbeni",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4840357265625,
-        "from": 1975,
-        "name": "Atifete Jahjaga",
-        "country": "Kosovo",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Atifete_Jahjaga",
-        "type": "politics"
-    },
-    {
-        "rating": 0.484031695625,
-        "from": 1979,
-        "name": "Gerardo Torrado",
-        "country": "Mexico",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gerardo_Torrado",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48403075,
-        "from": 1970,
-        "name": "Rahul Gandhi",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
-        "type": "politics"
-    },
-    {
-        "rating": 0.484029866875,
-        "from": 1976,
-        "name": "Michael Greis",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Michael_Greis",
-        "type": "sports"
-    },
-    {
-        "rating": 0.483889815625,
-        "from": 1990,
-        "name": "Aaron Taylor-Johnson",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aaron_Taylor-Johnson",
-        "type": "arts"
-    },
-    {
-        "rating": 0.48384537,
-        "from": 1987,
-        "name": "Alex Song",
-        "country": "Cameroon",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alex_Song",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4837971796875,
-        "from": 1975,
-        "name": "Shilpa Shetty",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Shilpa_Shetty",
-        "type": "arts"
-    },
-    {
-        "rating": 0.483729104375,
-        "from": 1987,
-        "name": "Darren Criss",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Darren_Criss",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4836833659375,
-        "from": 1977,
-        "name": "Peja Stojakovi\u0107",
-        "country": "Croatia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Peja_Stojakovi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4835761484375,
-        "from": 1979,
-        "name": "Matthew Upson",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Matthew_Upson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.483436554375,
-        "from": 1984,
-        "name": "Beno\u00eet Assou-Ekotto",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Beno\u00eet_Assou-Ekotto",
-        "type": "sports"
-    },
-    {
-        "rating": 0.483426364375,
-        "from": 1979,
-        "name": "Cara Black",
-        "country": "Zimbabwe",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Cara_Black",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4830189353125,
-        "from": 1981,
-        "name": "Sunny Leone",
-        "country": "Canada",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sunny_Leone",
-        "type": "public"
-    },
-    {
-        "rating": 0.4828722121875,
-        "from": 1988,
-        "name": "\u00c9ver Banega",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/\u00c9ver_Banega",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4828015628125,
-        "from": 1982,
-        "name": "Joleon Lescott",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Joleon_Lescott",
-        "type": "sports"
-    },
-    {
-        "rating": 0.482732534375,
-        "from": 1984,
-        "name": "Lindsey Vonn",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lindsey_Vonn",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4827005,
-        "from": 1988,
-        "name": "Javi Mart\u00ednez",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Javi_Mart\u00ednez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.482523901875,
-        "from": 1981,
-        "name": "Federico Balzaretti",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Federico_Balzaretti",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4822590490625,
-        "from": 1989,
-        "name": "Thomas M\u00fcller",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Thomas_M\u00fcller",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48220726125,
-        "from": 1987,
-        "name": "Antonio Ad\u00e1n",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Antonio_Ad\u00e1n",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4819765428125,
-        "from": 1990,
-        "name": "Aaron Ramsey",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aaron_Ramsey",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4818935540625,
-        "from": 1988,
-        "name": "Candice Swanepoel",
-        "country": "South Africa",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Candice_Swanepoel",
-        "type": "public"
-    },
-    {
-        "rating": 0.48186211125,
-        "from": 1985,
-        "name": "Svetlana Kuznetsova",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Svetlana_Kuznetsova",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4818154625,
-        "from": 1987,
-        "name": "Gervinho",
-        "country": "Ivory Coast",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gervinho",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4817717884375,
-        "from": 1980,
-        "name": "Micha\u00ebl Llodra",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Micha\u00ebl_Llodra",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48175059125,
-        "from": 1987,
-        "name": "Marouane Fellaini",
-        "country": "Belgium",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marouane_Fellaini",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4816812278125,
-        "from": 1988,
-        "name": "Jonny Evans",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jonny_Evans",
-        "type": "sports"
-    },
-    {
-        "rating": 0.481509426875,
-        "from": 1982,
-        "name": "Andreas Thorkildsen",
-        "country": "Norway",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andreas_Thorkildsen",
-        "type": "sports"
-    },
-    {
-        "rating": 0.481491069375,
-        "from": 1988,
-        "name": "Micah Richards",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Micah_Richards",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4814757190625,
-        "from": 1978,
-        "name": "Lara Dutta",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lara_Dutta",
-        "type": "arts"
-    },
-    {
-        "rating": 0.48126974625,
-        "from": 1985,
-        "name": "Demba Ba",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Demba_Ba",
-        "type": "sports"
-    },
-    {
-        "rating": 0.480996451875,
-        "from": 1984,
-        "name": "Darren Bent",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Darren_Bent",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4809550946875,
-        "from": 1986,
-        "name": "Romain Grosjean",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Romain_Grosjean",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4807494840625,
-        "from": 1981,
-        "name": "Feliciano L\u00f3pez",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Feliciano_L\u00f3pez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4805680834375,
-        "from": 1982,
-        "name": "Tommy Robredo",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tommy_Robredo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.480395893125,
-        "from": 1986,
-        "name": "Andr\u00e9s Guardado",
-        "country": "Mexico",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andr\u00e9s_Guardado",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4802916475,
-        "from": 1988,
-        "name": "Jeffr\u00e9n Su\u00e1rez",
-        "country": "Venezuela",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jeffr\u00e9n_Su\u00e1rez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4802438475,
-        "from": 1982,
-        "name": "Diego Cavalieri",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Diego_Cavalieri",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4802221240625,
-        "from": 1986,
-        "name": "Oscar Pistorius",
-        "country": "South Africa",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Oscar_Pistorius",
-        "type": "sports"
-    },
-    {
-        "rating": 0.48016587125,
-        "from": 1984,
-        "name": "Chris Bosh",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chris_Bosh",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4801211465625,
-        "from": 1984,
-        "name": "Walter Gargano",
-        "country": "Uruguay",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Walter_Gargano",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4800581596875,
-        "from": 1988,
-        "name": "Derrick Rose",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Derrick_Rose",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47995558125,
-        "from": 1972,
-        "name": "Hera Bj\u00f6rk",
-        "country": "Iceland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Hera_Bj\u00f6rk",
-        "type": "music"
-    },
-    {
-        "rating": 0.4799353846875,
-        "from": 1998,
-        "name": "Jaden Smith",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jaden_Smith",
-        "type": "arts"
-    },
-    {
-        "rating": 0.479911070625,
-        "from": 1984,
-        "name": "Mohamed Bouazizi",
-        "country": "Tunisia",
-        "to": 2011,
-        "link": "https://en.wikipedia.org/wiki/Mohamed_Bouazizi",
-        "type": "public"
-    },
-    {
-        "rating": 0.4798977659375,
-        "from": 1988,
-        "name": "Kevin Durant",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kevin_Durant",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4798699425,
-        "from": 1985,
-        "name": "Stan Wawrinka",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stan_Wawrinka",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4798572025,
-        "from": 1990,
-        "name": "Miralem Pjani\u0107",
-        "country": "Bosnia And Herzegovina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Miralem_Pjani\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.479694334375,
-        "from": 1956,
-        "name": "Annise Parker",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Annise_Parker",
-        "type": "politics"
-    },
-    {
-        "rating": 0.479459155625,
-        "from": 1982,
-        "name": "R\u00f3bert Vittek",
-        "country": "Slovakia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/R\u00f3bert_Vittek",
-        "type": "sports"
-    },
-    {
-        "rating": 0.479308990625,
-        "from": 1979,
-        "name": "Kostas Katsouranis",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kostas_Katsouranis",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4791646040625,
-        "from": 1978,
-        "name": "Chris Wolstenholme",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chris_Wolstenholme",
-        "type": "music"
-    },
-    {
-        "rating": 0.4790742915625,
-        "from": 1972,
-        "name": "Vitaly Scherbo",
-        "country": "Belarus",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vitaly_Scherbo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.478997709375,
-        "from": 1988,
-        "name": "Atsuto Uchida",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Atsuto_Uchida",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4788377384375,
-        "from": 1979,
-        "name": "Bipasha Basu",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bipasha_Basu",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4785542334375,
-        "from": 1984,
-        "name": "Delta Goodrem",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Delta_Goodrem",
-        "type": "music"
-    },
-    {
-        "rating": 0.4784785378125,
-        "from": 1980,
-        "name": "Aaron Mokoena",
-        "country": "South Africa",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aaron_Mokoena",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4783591084375,
-        "from": 1990,
-        "name": "Jonathan dos Santos",
-        "country": "Mexico",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jonathan_dos_Santos",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4783562890625,
-        "from": 1983,
-        "name": "Edson Braafheid",
-        "country": "Suriname",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Edson_Braafheid",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47811011875,
-        "from": 1986,
-        "name": "Uche Kalu",
-        "country": "Nigeria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Uche_Kalu",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4779392521875,
-        "from": 1977,
-        "name": "Bode Miller",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bode_Miller",
-        "type": "sports"
-    },
-    {
-        "rating": 0.477815006875,
-        "from": 1981,
-        "name": "Guy Demel",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Guy_Demel",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4777865684375,
-        "from": 1988,
-        "name": "S\u00e9bastien Buemi",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/S\u00e9bastien_Buemi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4777492409375,
-        "from": 1977,
-        "name": "Justo Villar",
-        "country": "Paraguay",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Justo_Villar",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4777027746875,
-        "from": 1987,
-        "name": "Leonardo Bonucci",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Leonardo_Bonucci",
-        "type": "sports"
-    },
-    {
-        "rating": 0.477379925,
-        "from": 1973,
-        "name": "Leander Paes",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Leander_Paes",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47731059125,
-        "from": 1979,
-        "name": "Carlos Bocanegra",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Carlos_Bocanegra",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4772038203125,
-        "from": 1984,
-        "name": "Samir Handanovi\u0107",
-        "country": "Slovenia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Samir_Handanovi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4766101678125,
-        "from": 1983,
-        "name": "Clint Dempsey",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Clint_Dempsey",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4764804015625,
-        "from": 1983,
-        "name": "Jelena Dokic",
-        "country": "Croatia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jelena_Dokic",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4763839865625,
-        "from": 1983,
-        "name": "Thomas Kahlenberg",
-        "country": "Denmark",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Thomas_Kahlenberg",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4763731740625,
-        "from": 1988,
-        "name": "Eren Derdiyok",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Eren_Derdiyok",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4763199303125,
-        "from": 1982,
-        "name": "Eduardo Carvalho",
-        "country": "Portugal",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Eduardo_Carvalho",
-        "type": "sports"
-    },
-    {
-        "rating": 0.476282955,
-        "from": 1992,
-        "name": "Jack Wilshere",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jack_Wilshere",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47602652625,
-        "from": 1986,
-        "name": "Domenico Criscito",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Domenico_Criscito",
-        "type": "sports"
-    },
-    {
-        "rating": 0.475963940625,
-        "from": 1986,
-        "name": "Olivier Giroud",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Olivier_Giroud",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4758816446875,
-        "from": 1986,
-        "name": "Vedran \u0106orluka",
-        "country": "Bosnia And Herzegovina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vedran_\u0106orluka",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4756044246875,
-        "from": 1980,
-        "name": "Jason Culina",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jason_Culina",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4751838415625,
-        "from": 1989,
-        "name": "Victoria Azarenka",
-        "country": "Belarus",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Victoria_Azarenka",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4751424475,
-        "from": 1986,
-        "name": "Urby Emanuelson",
-        "country": "Netherlands",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Urby_Emanuelson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.475087359375,
-        "from": 1984,
-        "name": "Seung-Hui Cho",
-        "country": "South Korea",
-        "to": 2007,
-        "link": "https://en.wikipedia.org/wiki/Seung-Hui_Cho",
-        "type": "public"
-    },
-    {
-        "rating": 0.47504522875,
-        "from": 1985,
-        "name": "Anton Ferdinand",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Anton_Ferdinand",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4749006984375,
-        "from": 1986,
-        "name": "Igor Akinfeev",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Igor_Akinfeev",
-        "type": "sports"
-    },
-    {
-        "rating": 0.474846284375,
-        "from": 1975,
-        "name": "Jimmie Johnson",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jimmie_Johnson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.474777655625,
-        "from": 1980,
-        "name": "Bradley Wiggins",
-        "country": "Belgium",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bradley_Wiggins",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4745555353125,
-        "from": 1991,
-        "name": "Davide Santon",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Davide_Santon",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47431472625,
-        "from": 1983,
-        "name": "Daniel Jarque",
-        "country": "Spain",
-        "to": 2009,
-        "link": "https://en.wikipedia.org/wiki/Daniel_Jarque",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47429931625,
-        "from": 1987,
-        "name": "Marco Simoncelli",
-        "country": "Italy",
-        "to": 2011,
-        "link": "https://en.wikipedia.org/wiki/Marco_Simoncelli",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4742116425,
-        "from": 1986,
-        "name": "Hulk (footballer)",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Hulk_(footballer)",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47383571875,
-        "from": 1991,
-        "name": "Federico Macheda",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Federico_Macheda",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4730516996875,
-        "from": 1979,
-        "name": "Gerd Kanter",
-        "country": "Estonia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gerd_Kanter",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4728017578125,
-        "from": 1985,
-        "name": "Mark Cavendish",
-        "country": "Isle Of Man",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mark_Cavendish",
-        "type": "sports"
-    },
-    {
-        "rating": 0.472520508125,
-        "from": 1990,
-        "name": "Dev Patel",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dev_Patel",
-        "type": "arts"
-    },
-    {
-        "rating": 0.47241452375,
-        "from": 1983,
-        "name": "Alessandro Diamanti",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alessandro_Diamanti",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4723301975,
-        "from": 1993,
-        "name": "Romelu Lukaku",
-        "country": "Belgium",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Romelu_Lukaku",
-        "type": "sports"
-    },
-    {
-        "rating": 0.472295903125,
-        "from": 1989,
-        "name": "Agnieszka Radwa\u0144ska",
-        "country": "Poland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Agnieszka_Radwa\u0144ska",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4722773828125,
-        "from": 1980,
-        "name": "Xavier Malisse",
-        "country": "Belgium",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Xavier_Malisse",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47218565125,
-        "from": 1989,
-        "name": "Armand Traor\u00e9",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Armand_Traor\u00e9",
-        "type": "sports"
-    },
-    {
-        "rating": 0.47213702625,
-        "from": 1981,
-        "name": "Francisco Javier Rodr\u00edguez",
-        "country": "Mexico",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Francisco_Javier_Rodr\u00edguez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4721275678125,
-        "from": 1984,
-        "name": "Brian Joubert",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Brian_Joubert",
-        "type": "sports"
-    },
-    {
-        "rating": 0.472123464375,
-        "from": 1984,
-        "name": "Stewart Downing",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stewart_Downing",
-        "type": "sports"
-    },
-    {
-        "rating": 0.471871601875,
-        "from": 1990,
-        "name": "Kim Yuna",
-        "country": "South Korea",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kim_Yuna",
-        "type": "sports"
-    },
-    {
-        "rating": 0.471786474375,
-        "from": 1980,
-        "name": "Scott Parker",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Scott_Parker",
-        "type": "sports"
-    },
-    {
-        "rating": 0.471585536875,
-        "from": 1978,
-        "name": "Homare Sawa",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Homare_Sawa",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4714560853125,
-        "from": 1982,
-        "name": "Roger Guerreiro",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Roger_Guerreiro",
-        "type": "sports"
-    },
-    {
-        "rating": 0.471065443125,
-        "from": 1989,
-        "name": "Jordi Alba",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jordi_Alba",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4707513546875,
-        "from": 1984,
-        "name": "Sasha Cohen",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sasha_Cohen",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4706354496875,
-        "from": 1982,
-        "name": "Gilbert Arenas",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gilbert_Arenas",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4705284246875,
-        "from": 1987,
-        "name": "Serdar Tasci",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Serdar_Tasci",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4705201546875,
-        "from": 1977,
-        "name": "Ravshan Irmatov",
-        "country": "Uzbekistan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ravshan_Irmatov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4704202578125,
-        "from": 1987,
-        "name": "Salvatore Sirigu",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Salvatore_Sirigu",
-        "type": "sports"
-    },
-    {
-        "rating": 0.470418163125,
-        "from": 1997,
-        "name": "Bella Thorne",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bella_Thorne",
-        "type": "arts"
-    },
-    {
-        "rating": 0.470270583125,
-        "from": 1989,
-        "name": "Stevan Joveti\u0107",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stevan_Joveti\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.470163760625,
-        "from": 1995,
-        "name": "Georgie Henley",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Georgie_Henley",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4701261328125,
-        "from": 1990,
-        "name": "Wojciech Szcz\u0119sny",
-        "country": "Poland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Wojciech_Szcz\u0119sny",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4700832921875,
-        "from": 1982,
-        "name": "Li Na",
-        "country": "China",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Li_Na",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4700016259375,
-        "from": 1989,
-        "name": "Jason Derulo",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jason_Derulo",
-        "type": "music"
-    },
-    {
-        "rating": 0.46998541875,
-        "from": 1990,
-        "name": "Danny Welbeck",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Danny_Welbeck",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4699845471875,
-        "from": 1983,
-        "name": "Jon\u00e1s Guti\u00e9rrez",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jon\u00e1s_Guti\u00e9rrez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.469943404375,
-        "from": 1984,
-        "name": "Janko Tipsarevi\u0107",
-        "country": "Serbia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Janko_Tipsarevi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.469887636875,
-        "from": 1981,
-        "name": "Harel Skaat",
-        "country": "Israel",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Harel_Skaat",
-        "type": "music"
-    },
-    {
-        "rating": 0.469659964375,
-        "from": 1984,
-        "name": "Mario An\u010di\u0107",
-        "country": "Croatia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mario_An\u010di\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.469538425,
-        "from": 1985,
-        "name": "Sebastian Larsson",
-        "country": "Sweden",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sebastian_Larsson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4694690503125,
-        "from": 1979,
-        "name": "Zolt\u00e1n Gera",
-        "country": "Hungary",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Zolt\u00e1n_Gera",
-        "type": "sports"
-    },
-    {
-        "rating": 0.469306979375,
-        "from": 1983,
-        "name": "Tom\u00e1\u0161 Sivok",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tom\u00e1\u0161_Sivok",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4692357090625,
-        "from": 1982,
-        "name": "Amar'e Stoudemire",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Amar'e_Stoudemire",
-        "type": "sports"
-    },
-    {
-        "rating": 0.469234681875,
-        "from": 1988,
-        "name": "Sokratis Papastathopoulos",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sokratis_Papastathopoulos",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4692208940625,
-        "from": 1982,
-        "name": "Aleksandr Kerzhakov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aleksandr_Kerzhakov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.469084440625,
-        "from": 1978,
-        "name": "Richard Kingson",
-        "country": "Ghana",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Richard_Kingson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4690445334375,
-        "from": 1981,
-        "name": "Dimitris Salpingidis",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dimitris_Salpingidis",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4690255871875,
-        "from": 1983,
-        "name": "Jean Makoun",
-        "country": "Cameroon",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jean_Makoun",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46882619875,
-        "from": 1986,
-        "name": "G\u00e9lson Fernandes",
-        "country": "Cape Verde",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/G\u00e9lson_Fernandes",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46871793375,
-        "from": 1984,
-        "name": "Maxi Pereira",
-        "country": "Uruguay",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Maxi_Pereira",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4683691253125,
-        "from": 1984,
-        "name": "Marion Bartoli",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marion_Bartoli",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46784217,
-        "from": 1977,
-        "name": "Max Mirnyi",
-        "country": "Belarus",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Max_Mirnyi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46781287875,
-        "from": 1986,
-        "name": "Shinji Okazaki",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Shinji_Okazaki",
-        "type": "sports"
-    },
-    {
-        "rating": 0.467616545625,
-        "from": 1984,
-        "name": "Lucas di Grassi",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lucas_di_Grassi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4675798025,
-        "from": 1983,
-        "name": "Alain Bernard",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alain_Bernard",
-        "type": "sports"
-    },
-    {
-        "rating": 0.467290234375,
-        "from": 1983,
-        "name": "Manucho",
-        "country": "Angola",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Manucho",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4671913025,
-        "from": 1980,
-        "name": "Lee Jung-soo",
-        "country": "South Korea",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lee_Jung-soo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4671468315625,
-        "from": 1979,
-        "name": "Lars Jacobsen",
-        "country": "Denmark",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lars_Jacobsen",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4671446453125,
-        "from": 1973,
-        "name": "\u00c9ric Boullier",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/\u00c9ric_Boullier",
-        "type": "business"
-    },
-    {
-        "rating": 0.467135628125,
-        "from": 1984,
-        "name": "Samantha Stosur",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Samantha_Stosur",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4670471428125,
-        "from": 1994,
-        "name": "Saoirse Ronan",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Saoirse_Ronan",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4669605275,
-        "from": 1990,
-        "name": "David Archuleta",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/David_Archuleta",
-        "type": "music"
-    },
-    {
-        "rating": 0.4669500628125,
-        "from": 1985,
-        "name": "Georgios Samaras",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Georgios_Samaras",
-        "type": "sports"
-    },
-    {
-        "rating": 0.466835343125,
-        "from": 1974,
-        "name": "Mahesh Bhupathi",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mahesh_Bhupathi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.466742560625,
-        "from": 1985,
-        "name": "Pastor Maldonado",
-        "country": "Venezuela",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Pastor_Maldonado",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4666275790625,
-        "from": 1988,
-        "name": "Neven Suboti\u0107",
-        "country": "Bosnia And Herzegovina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Neven_Suboti\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4661795046875,
-        "from": 1985,
-        "name": "Marcos Baghdatis",
-        "country": "Cyprus",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marcos_Baghdatis",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4660548146875,
-        "from": 1987,
-        "name": "Anna Chakvetadze",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Anna_Chakvetadze",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4660481596875,
-        "from": 1984,
-        "name": "Vera Zvonareva",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vera_Zvonareva",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46597479,
-        "from": 1985,
-        "name": "Ciprian Marica",
-        "country": "Romania",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ciprian_Marica",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4658315728125,
-        "from": 1989,
-        "name": "Simon Kj\u00e6r",
-        "country": "Denmark",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Simon_Kj\u00e6r",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4658135,
-        "from": 1987,
-        "name": "J\u00e9r\u00e9my M\u00e9nez",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/J\u00e9r\u00e9my_M\u00e9nez",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4656940153125,
-        "from": 1984,
-        "name": "Juan M\u00f3naco",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Juan_M\u00f3naco",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46564637,
-        "from": 1984,
-        "name": "Stijn Schaars",
-        "country": "Netherlands",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stijn_Schaars",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4653317828125,
-        "from": 1987,
-        "name": "Nico H\u00fclkenberg",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nico_H\u00fclkenberg",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4650844296875,
-        "from": 1983,
-        "name": "Liu Xiang",
-        "country": "China",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Liu_Xiang",
-        "type": "sports"
-    },
-    {
-        "rating": 0.464985756875,
-        "from": 1989,
-        "name": "Andrew Carroll",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andrew_Carroll",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4649769225,
-        "from": 1984,
-        "name": "Deron Williams",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Deron_Williams",
-        "type": "sports"
-    },
-    {
-        "rating": 0.464924434375,
-        "from": 1989,
-        "name": "Emiliano Ins\u00faa",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Emiliano_Ins\u00faa",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4647953003125,
-        "from": 1987,
-        "name": "Maria Kirilenko",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Maria_Kirilenko",
-        "type": "sports"
-    },
-    {
-        "rating": 0.464627449375,
-        "from": 1983,
-        "name": "Vladimir Stojkovi\u0107",
-        "country": "Serbia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vladimir_Stojkovi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.464613726875,
-        "from": 1977,
-        "name": "Ryan Nelsen",
-        "country": "New Zealand",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ryan_Nelsen",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4645574984375,
-        "from": 1985,
-        "name": "\u00c1lvaro Pereira",
-        "country": "Uruguay",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/\u00c1lvaro_Pereira",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4644702075,
-        "from": 1970,
-        "name": "Gabrielle Giffords",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gabrielle_Giffords",
-        "type": "politics"
-    },
-    {
-        "rating": 0.4643932478125,
-        "from": 1982,
-        "name": "Steve Sidwell",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Steve_Sidwell",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4641941959375,
-        "from": 1985,
-        "name": "John Isner",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/John_Isner",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4641229365625,
-        "from": 1981,
-        "name": "Mardy Fish",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mardy_Fish",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4641179546875,
-        "from": 1984,
-        "name": "Alona Bondarenko",
-        "country": "Ukraine",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alona_Bondarenko",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4639899775,
-        "from": 1989,
-        "name": "Kieran Gibbs",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kieran_Gibbs",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4639186940625,
-        "from": 1981,
-        "name": "Bobby Zamora",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bobby_Zamora",
-        "type": "sports"
-    },
-    {
-        "rating": 0.463252195,
-        "from": 1987,
-        "name": "Seydou Doumbia",
-        "country": "Ivory Coast",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Seydou_Doumbia",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4632277209375,
-        "from": 1982,
-        "name": "Phil Jagielka",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Phil_Jagielka",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46314954625,
-        "from": 1987,
-        "name": "Magdalena Neuner",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Magdalena_Neuner",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4629256071875,
-        "from": 1986,
-        "name": "Chinedu Obasi",
-        "country": "Nigeria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chinedu_Obasi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4629102296875,
-        "from": 1986,
-        "name": "Dmytro Chygrynskiy",
-        "country": "Ukraine",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dmytro_Chygrynskiy",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46289770875,
-        "from": 1991,
-        "name": "Xherdan Shaqiri",
-        "country": "Kosovo",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Xherdan_Shaqiri",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4628239915625,
-        "from": 1979,
-        "name": "Sergei Ignashevich",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sergei_Ignashevich",
-        "type": "sports"
-    },
-    {
-        "rating": 0.462734625,
-        "from": 1986,
-        "name": "Diego God\u00edn",
-        "country": "Uruguay",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Diego_God\u00edn",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4626794975,
-        "from": 1974,
-        "name": "Kostas Chalkias",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kostas_Chalkias",
-        "type": "sports"
-    },
-    {
-        "rating": 0.462530989375,
-        "from": 1990,
-        "name": "Eric Saade",
-        "country": "Sweden",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Eric_Saade",
-        "type": "music"
-    },
-    {
-        "rating": 0.4625226653125,
-        "from": 1982,
-        "name": "Danica Patrick",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Danica_Patrick",
-        "type": "sports"
-    },
-    {
-        "rating": 0.462417803125,
-        "from": 1979,
-        "name": "Primo\u017e Kozmus",
-        "country": "Slovenia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Primo\u017e_Kozmus",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46227475625,
-        "from": 1989,
-        "name": "Andreu Font\u00e0s",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andreu_Font\u00e0s",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4622522015625,
-        "from": 1985,
-        "name": "Nicol\u00e1s Almagro",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nicol\u00e1s_Almagro",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4618202721875,
-        "from": 1973,
-        "name": "Brendan Rodgers",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Brendan_Rodgers",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4617270009375,
-        "from": 1987,
-        "name": "Dennis Aogo",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dennis_Aogo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.46170789125,
-        "from": 1985,
-        "name": "Kalomira",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kalomira",
-        "type": "music"
-    },
-    {
-        "rating": 0.46168519375,
-        "from": 1983,
-        "name": "V\u00e1clav Sv\u011brko\u0161",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/V\u00e1clav_Sv\u011brko\u0161",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4616098475,
-        "from": 1988,
-        "name": "Kevin Gro\u00dfkreutz",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kevin_Gro\u00dfkreutz",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4615996615625,
-        "from": 1982,
-        "name": "Tero Pitk\u00e4m\u00e4ki",
-        "country": "Finland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tero_Pitk\u00e4m\u00e4ki",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4611275740625,
-        "from": 1981,
-        "name": "John Paintsil",
-        "country": "Ghana",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/John_Paintsil",
-        "type": "sports"
-    },
-    {
-        "rating": 0.461042088125,
-        "from": 1991,
-        "name": "Sergio Canales",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sergio_Canales",
-        "type": "sports"
-    },
-    {
-        "rating": 0.460751855,
-        "from": 1990,
-        "name": "Magnus Carlsen",
-        "country": "Norway",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4606589734375,
-        "from": 1985,
-        "name": "Gary Cahill",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gary_Cahill",
-        "type": "sports"
-    },
-    {
-        "rating": 0.460620903125,
-        "from": 1986,
-        "name": "Thomas Morgenstern",
-        "country": "Austria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Thomas_Morgenstern",
-        "type": "sports"
-    },
-    {
-        "rating": 0.460418715625,
-        "from": 1988,
-        "name": "Marcel Schmelzer",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marcel_Schmelzer",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4602046840625,
-        "from": 1976,
-        "name": "Stephen Gately",
-        "country": "Ireland",
-        "to": 2009,
-        "link": "https://en.wikipedia.org/wiki/Stephen_Gately",
-        "type": "music"
-    },
-    {
-        "rating": 0.46018885,
-        "from": 1991,
-        "name": "Ed Sheeran",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ed_Sheeran",
-        "type": "music"
-    },
-    {
-        "rating": 0.4600511709375,
-        "from": 1984,
-        "name": "Wilson Palacios",
-        "country": "Honduras",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Wilson_Palacios",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45978039125,
-        "from": 1982,
-        "name": "Justin Gatlin",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Justin_Gatlin",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45974090625,
-        "from": 1990,
-        "name": "Ricky Rubio",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ricky_Rubio",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4596968221875,
-        "from": 1982,
-        "name": "Levon Aronian",
-        "country": "Armenia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Levon_Aronian",
-        "type": "sports"
-    },
-    {
-        "rating": 0.459597415625,
-        "from": 1989,
-        "name": "Daniella Monet",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Daniella_Monet",
-        "type": "arts"
-    },
-    {
-        "rating": 0.459561196875,
-        "from": 1984,
-        "name": "Siphiwe Tshabalala",
-        "country": "South Africa",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Siphiwe_Tshabalala",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4594563725,
-        "from": 1979,
-        "name": "The Game (rapper)",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/The_Game_(rapper)",
-        "type": "music"
-    },
-    {
-        "rating": 0.45926858625,
-        "from": 1983,
-        "name": "Alina Kabaeva",
-        "country": "Uzbekistan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alina_Kabaeva",
-        "type": "sports"
-    },
-    {
-        "rating": 0.459097798125,
-        "from": 1988,
-        "name": "Vito Mannone",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vito_Mannone",
-        "type": "sports"
-    },
-    {
-        "rating": 0.459033925625,
-        "from": 1993,
-        "name": "Rapha\u00ebl Varane",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Rapha\u00ebl_Varane",
-        "type": "sports"
-    },
-    {
-        "rating": 0.458919474375,
-        "from": 1996,
-        "name": "Zendaya",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Zendaya",
-        "type": "arts"
-    },
-    {
-        "rating": 0.458907878125,
-        "from": 1986,
-        "name": "Gilad Shalit",
-        "country": "Israel",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gilad_Shalit",
-        "type": "military"
-    },
-    {
-        "rating": 0.458865004375,
-        "from": 1983,
-        "name": "Pavel Pogrebnyak",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Pavel_Pogrebnyak",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4587533996875,
-        "from": 1979,
-        "name": "Vyacheslav Malafeev",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vyacheslav_Malafeev",
-        "type": "sports"
-    },
-    {
-        "rating": 0.458671231875,
-        "from": 1985,
-        "name": "Elena Gheorghe",
-        "country": "Romania",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Elena_Gheorghe",
-        "type": "music"
-    },
-    {
-        "rating": 0.4586113690625,
-        "from": 1983,
-        "name": "Philipp Kohlschreiber",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Philipp_Kohlschreiber",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4585554971875,
-        "from": 1985,
-        "name": "Gisela Dulko",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gisela_Dulko",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4582606675,
-        "from": 1987,
-        "name": "Ramires",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ramires",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4581423125,
-        "from": 1982,
-        "name": "Aleksandr Anyukov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aleksandr_Anyukov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45791641375,
-        "from": 1986,
-        "name": "Rajon Rondo",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Rajon_Rondo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.457847359375,
-        "from": 1978,
-        "name": "Pastora Soler",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Pastora_Soler",
-        "type": "music"
-    },
-    {
-        "rating": 0.4577227478125,
-        "from": 1978,
-        "name": "Lenka",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lenka",
-        "type": "music"
-    },
-    {
-        "rating": 0.45770330125,
-        "from": 1988,
-        "name": "Benedikt H\u00f6wedes",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Benedikt_H\u00f6wedes",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45758395,
-        "from": 1985,
-        "name": "Ross Turnbull",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ross_Turnbull",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4573114528125,
-        "from": 1984,
-        "name": "Anders Lindegaard",
-        "country": "Denmark",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Anders_Lindegaard",
-        "type": "sports"
-    },
-    {
-        "rating": 0.457307254375,
-        "from": 1984,
-        "name": "Katrina Kaif",
-        "country": "China",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Katrina_Kaif",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4572340484375,
-        "from": 1987,
-        "name": "Shahar Pe'er",
-        "country": "Israel",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Shahar_Pe'er",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4572176084375,
-        "from": 1981,
-        "name": "Stephen Warnock",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stephen_Warnock",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45717714375,
-        "from": 1987,
-        "name": "Sergio Romero",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sergio_Romero",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4568961065625,
-        "from": 1981,
-        "name": "Andrei Kirilenko",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andrei_Kirilenko",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45685761375,
-        "from": 1980,
-        "name": "Tayshaun Prince",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tayshaun_Prince",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4567802603125,
-        "from": 1981,
-        "name": "Linda Maria Baros",
-        "country": "Romania",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Linda_Maria_Baros",
-        "type": "arts"
-    },
-    {
-        "rating": 0.45664284375,
-        "from": 1982,
-        "name": "Alexandros Tzorvas",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alexandros_Tzorvas",
-        "type": "sports"
-    },
-    {
-        "rating": 0.456542711875,
-        "from": 1979,
-        "name": "Metta World Peace",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Metta_World_Peace",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4564825471875,
-        "from": 1988,
-        "name": "\u00c1gnes Sz\u00e1vay",
-        "country": "Hungary",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/\u00c1gnes_Sz\u00e1vay",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4564671278125,
-        "from": 1988,
-        "name": "Federica Pellegrini",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Federica_Pellegrini",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4564627084375,
-        "from": 1982,
-        "name": "Paul-Henri Mathieu",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Paul-Henri_Mathieu",
-        "type": "sports"
-    },
-    {
-        "rating": 0.456398809375,
-        "from": 1985,
-        "name": "Pablo Hern\u00e1ndez (footballer, born 1985)",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Pablo_Hern\u00e1ndez_(footballer,_born_1985)",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4562744746875,
-        "from": 1982,
-        "name": "Cristian Riveros",
-        "country": "Paraguay",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Cristian_Riveros",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4561291846875,
-        "from": 1989,
-        "name": "Nicole Vaidi\u0161ov\u00e1",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nicole_Vaidi\u0161ov\u00e1",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4559754165625,
-        "from": 1997,
-        "name": "Chlo\u00eb Grace Moretz",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chlo\u00eb_Grace_Moretz",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4559323553125,
-        "from": 1974,
-        "name": "Aravind Adiga",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aravind_Adiga",
-        "type": "arts"
-    },
-    {
-        "rating": 0.455839764375,
-        "from": 1984,
-        "name": "Leighton Baines",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Leighton_Baines",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4557234278125,
-        "from": 1983,
-        "name": "Michel Vorm",
-        "country": "Netherlands",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Michel_Vorm",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4555331884375,
-        "from": 1982,
-        "name": "Yelena Slesarenko",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Yelena_Slesarenko",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4553965253125,
-        "from": 1992,
-        "name": "David Alaba",
-        "country": "Austria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/David_Alaba",
-        "type": "sports"
-    },
-    {
-        "rating": 0.455384320625,
-        "from": 1990,
-        "name": "Jaime Alguersuari",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jaime_Alguersuari",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4553116240625,
-        "from": 1985,
-        "name": "Emanuele Giaccherini",
-        "country": "Italy",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Emanuele_Giaccherini",
-        "type": "sports"
-    },
-    {
-        "rating": 0.455176166875,
-        "from": 1984,
-        "name": "Nigel Reo-Coker",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nigel_Reo-Coker",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45508920125,
-        "from": 1989,
-        "name": "Daniel Sturridge",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Daniel_Sturridge",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4549274178125,
-        "from": 1985,
-        "name": "Artem Milevskiy",
-        "country": "Belarus",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Artem_Milevskiy",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4547785671875,
-        "from": 1986,
-        "name": "Aiden McGeady",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aiden_McGeady",
-        "type": "sports"
-    },
-    {
-        "rating": 0.454730896875,
-        "from": 1991,
-        "name": "Pixie Lott",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Pixie_Lott",
-        "type": "music"
-    },
-    {
-        "rating": 0.4546794415625,
-        "from": 1998,
-        "name": "Elle Fanning",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Elle_Fanning",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4543843665625,
-        "from": 1986,
-        "name": "Tom Huddlestone",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tom_Huddlestone",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4541849003125,
-        "from": 1991,
-        "name": "Gabriella Cilmi",
-        "country": "Australia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gabriella_Cilmi",
-        "type": "music"
-    },
-    {
-        "rating": 0.45356540875,
-        "from": 1990,
-        "name": "Gregor Schlierenzauer",
-        "country": "Austria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Gregor_Schlierenzauer",
-        "type": "sports"
-    },
-    {
-        "rating": 0.453504353125,
-        "from": 1982,
-        "name": "Philippe Gilbert",
-        "country": "Belgium",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Philippe_Gilbert",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45325975125,
-        "from": 1982,
-        "name": "Mikhail Youzhny",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mikhail_Youzhny",
-        "type": "sports"
-    },
-    {
-        "rating": 0.453217946875,
-        "from": 1985,
-        "name": "Scott Carson",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Scott_Carson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45310321375,
-        "from": 1987,
-        "name": "Sebastian Pr\u00f6dl",
-        "country": "Austria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Sebastian_Pr\u00f6dl",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4530240915625,
-        "from": 1988,
-        "name": "Mauricio Isla",
-        "country": "Chile",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Mauricio_Isla",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45275631625,
-        "from": 1986,
-        "name": "Paul di Resta",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Paul_di_Resta",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4527098628125,
-        "from": 1981,
-        "name": "Tom\u00e1\u0161 H\u00fcbschman",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tom\u00e1\u0161_H\u00fcbschman",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4526234415625,
-        "from": 1971,
-        "name": "Bobby Jindal",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Bobby_Jindal",
-        "type": "politics"
-    },
-    {
-        "rating": 0.4525555909375,
-        "from": 1982,
-        "name": "Tyson Chandler",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Tyson_Chandler",
-        "type": "sports"
-    },
-    {
-        "rating": 0.45200640125,
-        "from": 1986,
-        "name": "Dayana Mendoza",
-        "country": "Venezuela",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dayana_Mendoza",
-        "type": "public"
-    },
-    {
-        "rating": 0.451921268125,
-        "from": 1978,
-        "name": "Igor Semshov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Igor_Semshov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4514817196875,
-        "from": 1984,
-        "name": "Kieran Richardson",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kieran_Richardson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4510095415625,
-        "from": 1985,
-        "name": "Juanfran (footballer, born 1985)",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Juanfran_(footballer,_born_1985)",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4506834684375,
-        "from": 1980,
-        "name": "Robert Koren",
-        "country": "Slovenia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Robert_Koren",
-        "type": "sports"
-    },
-    {
-        "rating": 0.450630528125,
-        "from": 1982,
-        "name": "Kevin Nolan",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kevin_Nolan",
-        "type": "sports"
-    },
-    {
-        "rating": 0.450556219375,
-        "from": 1986,
-        "name": "Yohan Cabaye",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Yohan_Cabaye",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4502212453125,
-        "from": 1988,
-        "name": "Nicol\u00e1s Otamendi",
-        "country": "Argentina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Nicol\u00e1s_Otamendi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4497114225,
-        "from": 1987,
-        "name": "Victor Obinna",
-        "country": "Nigeria",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Victor_Obinna",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4496909525,
-        "from": 1989,
-        "name": "Matthew Lewis (actor)",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Matthew_Lewis_(actor)",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4495255684375,
-        "from": 1981,
-        "name": "Hope Solo",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Hope_Solo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.449194479375,
-        "from": 1986,
-        "name": "Dayron Robles",
-        "country": "Cuba",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dayron_Robles",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4488013696875,
-        "from": 1990,
-        "name": "Rita Ora",
-        "country": "Kosovo",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Rita_Ora",
-        "type": "music"
-    },
-    {
-        "rating": 0.448366381875,
-        "from": 1987,
-        "name": "Zoran To\u0161i\u0107",
-        "country": "Serbia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Zoran_To\u0161i\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4482808934375,
-        "from": 1986,
-        "name": "Stephen Ireland",
-        "country": "Ireland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Stephen_Ireland",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4482724028125,
-        "from": 1985,
-        "name": "St\u00e9phane Lambiel",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/St\u00e9phane_Lambiel",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4482359209375,
-        "from": 1983,
-        "name": "Zheng Jie",
-        "country": "China",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Zheng_Jie",
-        "type": "sports"
-    },
-    {
-        "rating": 0.448173541875,
-        "from": 1987,
-        "name": "Darron Gibson",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Darron_Gibson",
-        "type": "sports"
-    },
-    {
-        "rating": 0.447952911875,
-        "from": 1985,
-        "name": "Vasilis Torosidis",
-        "country": "Greece",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Vasilis_Torosidis",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4477233309375,
-        "from": 1984,
-        "name": "Alan Hutton",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Alan_Hutton",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4472591684375,
-        "from": 1990,
-        "name": "Diego Contento",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Diego_Contento",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4471582190625,
-        "from": 1989,
-        "name": "Blake Griffin",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Blake_Griffin",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4469659178125,
-        "from": 1981,
-        "name": "Carlos Cu\u00e9llar",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Carlos_Cu\u00e9llar",
-        "type": "sports"
-    },
-    {
-        "rating": 0.44655649,
-        "from": 1993,
-        "name": "Keke Palmer",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Keke_Palmer",
-        "type": "arts"
-    },
-    {
-        "rating": 0.446502653125,
-        "from": 1982,
-        "name": "Aleksei Berezutski",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aleksei_Berezutski",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4464076559375,
-        "from": 1976,
-        "name": "Ji Yun-nam",
-        "country": "North Korea",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ji_Yun-nam",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4463018703125,
-        "from": 1986,
-        "name": "Viktor Troicki",
-        "country": "Serbia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Viktor_Troicki",
-        "type": "sports"
-    },
-    {
-        "rating": 0.446300216875,
-        "from": 1982,
-        "name": "Marat Izmailov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marat_Izmailov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.446095341875,
-        "from": 1988,
-        "name": "Kwadwo Asamoah",
-        "country": "Ghana",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kwadwo_Asamoah",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4459071878125,
-        "from": 1987,
-        "name": "Zdravko Kuzmanovi\u0107",
-        "country": "Switzerland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Zdravko_Kuzmanovi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4456877734375,
-        "from": 1989,
-        "name": "C\u00e9sar Azpilicueta",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/C\u00e9sar_Azpilicueta",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4448285375,
-        "from": 1985,
-        "name": "Rolando (footballer)",
-        "country": "Cape Verde",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Rolando_(footballer)",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4442873834375,
-        "from": 1983,
-        "name": "Moustapha Salifou",
-        "country": "Togo",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Moustapha_Salifou",
-        "type": "sports"
-    },
-    {
-        "rating": 0.444187160625,
-        "from": 1989,
-        "name": "Jozy Altidore",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jozy_Altidore",
-        "type": "sports"
-    },
-    {
-        "rating": 0.444111474375,
-        "from": 1987,
-        "name": "C\u00e9sar Cielo",
-        "country": "Brazil",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/C\u00e9sar_Cielo",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4438749771875,
-        "from": 1984,
-        "name": "Dmitri Torbinski",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dmitri_Torbinski",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4438733778125,
-        "from": 1983,
-        "name": "Ognjen Vukojevi\u0107",
-        "country": "Croatia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ognjen_Vukojevi\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4438596328125,
-        "from": 1982,
-        "name": "Dmitry Tursunov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dmitry_Tursunov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4437568178125,
-        "from": 1975,
-        "name": "Buvaisar Saitiev",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Buvaisar_Saitiev",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4437372278125,
-        "from": 1985,
-        "name": "J\u00e9r\u00f4me d'Ambrosio",
-        "country": "Belgium",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/J\u00e9r\u00f4me_d'Ambrosio",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4436336690625,
-        "from": 1990,
-        "name": "\u0130lkay G\u00fcndo\u011fan",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/\u0130lkay_G\u00fcndo\u011fan",
-        "type": "sports"
-    },
-    {
-        "rating": 0.44353762625,
-        "from": 1986,
-        "name": "Valter Birsa",
-        "country": "Slovenia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Valter_Birsa",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4433823325,
-        "from": 1978,
-        "name": "Ludmilla Radchenko",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ludmilla_Radchenko",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4431620609375,
-        "from": 1988,
-        "name": "Lee Chung-yong",
-        "country": "South Korea",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lee_Chung-yong",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4430960559375,
-        "from": 1989,
-        "name": "Dominika Cibulkov\u00e1",
-        "country": "Slovakia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Dominika_Cibulkov\u00e1",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4429159128125,
-        "from": 1990,
-        "name": "Andr\u00e9 Sch\u00fcrrle",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andr\u00e9_Sch\u00fcrrle",
-        "type": "sports"
-    },
-    {
-        "rating": 0.442733085,
-        "from": 1989,
-        "name": "Chris Smalling",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chris_Smalling",
-        "type": "sports"
-    },
-    {
-        "rating": 0.442564676875,
-        "from": 1983,
-        "name": "Igor Andreev",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Igor_Andreev",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4424491578125,
-        "from": 1984,
-        "name": "Karun Chandhok",
-        "country": "India",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Karun_Chandhok",
-        "type": "sports"
-    },
-    {
-        "rating": 0.442244929375,
-        "from": 1990,
-        "name": "Petra Kvitov\u00e1",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Petra_Kvitov\u00e1",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4422075853125,
-        "from": 1984,
-        "name": "Andre Iguodala",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Andre_Iguodala",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4418494725,
-        "from": 1987,
-        "name": "Lucie \u0160af\u00e1\u0159ov\u00e1",
-        "country": "Czech Republic",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Lucie_\u0160af\u00e1\u0159ov\u00e1",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4410748740625,
-        "from": 30,
-        "name": "Nerva",
-        "country": "Italy",
-        "to": 98,
-        "link": "https://en.wikipedia.org/wiki/Nerva",
-        "type": "politics"
-    },
-    {
-        "rating": 0.4406597015625,
-        "from": 1986,
-        "name": "Drake (rapper)",
-        "country": "Canada",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Drake_(rapper)",
-        "type": "music"
-    },
-    {
-        "rating": 0.4405263221875,
-        "from": 1991,
-        "name": "Isaac Cuenca",
-        "country": "Spain",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Isaac_Cuenca",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4397003990625,
-        "from": 1992,
-        "name": "Ryo Miyaichi",
-        "country": "Japan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ryo_Miyaichi",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4395913296875,
-        "from": 1985,
-        "name": "Diniyar Bilyaletdinov",
-        "country": "Russia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Diniyar_Bilyaletdinov",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4391546159375,
-        "from": 1983,
-        "name": "Florian Mayer",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Florian_Mayer",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4390941734375,
-        "from": 1985,
-        "name": "Luol Deng",
-        "country": "Sudan",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Luol_Deng",
-        "type": "sports"
-    },
-    {
-        "rating": 0.439060351875,
-        "from": 1981,
-        "name": "Leon Osman",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Leon_Osman",
-        "type": "sports"
-    },
-    {
-        "rating": 0.43902064,
-        "from": 1983,
-        "name": "Kevin Doyle",
-        "country": "Ireland",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Kevin_Doyle",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4390035115625,
-        "from": 1982,
-        "name": "Craig Gordon",
-        "country": "United Kingdom",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Craig_Gordon",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4387553953125,
-        "from": 1981,
-        "name": "Shane Smeltz",
-        "country": "Germany",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Shane_Smeltz",
-        "type": "sports"
-    },
-    {
-        "rating": 0.43809877125,
-        "from": 1990,
-        "name": "Aliz\u00e9 Cornet",
-        "country": "France",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Aliz\u00e9_Cornet",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4380335115625,
-        "from": 1984,
-        "name": "Jeremy Wariner",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Jeremy_Wariner",
-        "type": "sports"
-    },
-    {
-        "rating": 0.437776830625,
-        "from": 1988,
-        "name": "Marin \u010cili\u0107",
-        "country": "Bosnia And Herzegovina",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Marin_\u010cili\u0107",
-        "type": "sports"
-    },
-    {
-        "rating": 0.43760948625,
-        "from": 1988,
-        "name": "Ernests Gulbis",
-        "country": "Latvia",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ernests_Gulbis",
-        "type": "sports"
-    },
-    {
-        "rating": 0.43724638625,
-        "from": 1981,
-        "name": "Ruslan Rotan",
-        "country": "Ukraine",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Ruslan_Rotan",
-        "type": "sports"
-    },
-    {
-        "rating": 0.4371593615625,
-        "from": 1992,
-        "name": "Daryl Sabara",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Daryl_Sabara",
-        "type": "arts"
-    },
-    {
-        "rating": 0.4371208925,
-        "from": 1987,
-        "name": "Chelsea Manning",
-        "country": "United States",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Chelsea_Manning",
-        "type": "military"
     }
 ]
 })
