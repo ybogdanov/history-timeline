@@ -1,3 +1,4 @@
 data/redirects_wiki.json.bz2 filter=lfs diff=lfs merge=lfs -text
 data/sources/pantheon.json.bz2 filter=lfs diff=lfs merge=lfs -text
 data/wiki.json.bz2 filter=lfs diff=lfs merge=lfs -text
+data/dbpedia_dates.json.bz2 filter=lfs diff=lfs merge=lfs -text

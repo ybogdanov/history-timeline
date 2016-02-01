@@ -18,6 +18,9 @@ parser.add_argument('--limit', default=None, type=int,
 args = parser.parse_args()
 
 for p in json.load(sys.stdin):
+
+  if 'to' not in p:
+    p['to'] = 0
   
   if p['from'] == 0 or p['from'] == None:
     p['missing_reason'] = "missing birth year (from)"

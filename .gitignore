@@ -11,6 +11,8 @@ scripts/wiki-parser.py
 
 data/wiki.json
 data/redirects_wiki.json
+data/dbpedia_dates.json
+data/wiki_dbpedia_dates.json
 
 data/sources/pantheon.json
 data/sources/wikipedia.xml

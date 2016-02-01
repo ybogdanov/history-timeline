@@ -32,7 +32,9 @@ def is_present(key, dic):
 
 for i in xrange(1, len(sys.argv)):
   with open(sys.argv[i]) as fp:
-    for item in json.load(fp):
+    for (k, item) in enumerate(json.load(fp)):
+      if k % 1000 == 0:
+        sys.stderr.write("%d\n" % (k))
       insert(result, keys, item)
 
 print json.dumps(result, indent=4, separators=(',', ': '))
