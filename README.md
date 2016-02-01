@@ -1,10 +1,12 @@
-# About the project
+# Map of Contemporaries
+
+The history of the world in famous people’s lifespans. Did you realize that [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) was younger than [Napoleon](https://en.wikipedia.org/wiki/Napoleon)? See which famous people shared their time on Earth.
 
 Check it out: [https://ybogdanov.github.io/history-timeline/](https://ybogdanov.github.io/history-timeline/)
 
-[![History Timeline](/public/img/readme-image-crop.jpg?raw=true)](https://ybogdanov.github.io/history-timeline/)
+[![Map of Contemporaries](/public/img/readme-image-crop.jpg?raw=true)](https://ybogdanov.github.io/history-timeline/)
 
-History Timeline is a visualization of lifetimes of globally famous people. It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice of time and tracing the lifetimes of all the famous people living at that time. It certainly gives you a fresh perspective on some particular era (a feel of that time, so to say), unlike the conventional “vertical” approach of learning who came after whom and what happened after what. I can imagine, how much fun the blog’s author had drawing all of those lifetime rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet, but simple graphics have their limitations, and a lot of famous people simply didn’t make “the cut”. I wanted to play with the concept in a bigger scale. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
+It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice of time and tracing the lifetimes of all the famous people living at that time. It certainly gives you a fresh perspective on some particular era (a feel of that time, so to say), unlike the conventional “vertical” approach of learning who came after whom and what happened after what. I can imagine, how much fun the blog’s author had drawing all of those lifetime rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet, but simple graphics have their limitations, and a lot of famous people simply didn’t make “the cut”. I wanted to play with the concept in a bigger scale. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
 
 The timeline uses the data set from [Pantheon](http://pantheon.media.mit.edu/), which is a project from the Macro Connections group at The MIT Media Lab. They provide an excellent list of 15,343 historical figures each marked with a [Historical Popularity Index (HPI)](http://pantheon.media.mit.edu/methods) that helps us to show the most famous people at the top of the timeline. I scraped the Wikipedia offline dump to get the death dates.
 
@@ -52,7 +54,7 @@ Other ideas I've heard that I’m not really into, but curious to see the implem
 
 First, there is a data mining pipeline — а set of Python scripts that manipulate files (mostly JSON ones) through a multiple steps. Here is a diagram that illustrates the process:
 
-![History Timeline data pipeline](/docs/data-pipeline2.png?raw=true)
+![Map of Contemporaries data pipeline](/docs/data-pipeline2.png?raw=true)
 
 * [import_pantheon.py](/scripts/import_pantheon.py) transforms Pantheon data format into the internal one. It also attempts the normalization of names using the large map of redirects extracted from Wikipedia (`redirects_wiki.json`)
 * [txt_to_json.py](/scripts/txt_to_json.py) converts list of people that are listed manually in [manual.txt](/data/sources/manual.txt)
@@ -120,7 +122,7 @@ ln -sf YOUR_STORAGE/enwiki-20151201-pages-articles.xml `pwd`/data/sources/wikipe
 # Licensed under GPLv2
 
 ```
-History Timeline is a visualization of the globally famous people lifetimes.
+Map of Contemporaries is a visualization of the world in famous people’s lifespans.
 Copyright (C) 2016  Yuriy Bogdanov
 
 This program is free software; you can redistribute it and/or
