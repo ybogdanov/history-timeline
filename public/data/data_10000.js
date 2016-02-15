@@ -63153,15 +63153,6 @@ dataReady({people:[
         "type": "science"
     },
     {
-        "rating": 0.67875697625,
-        "from": 1949,
-        "name": "Carl Bildt",
-        "country": "Sweden",
-        "to": 0,
-        "link": "https://en.wikipedia.org/wiki/Carl_Bildt",
-        "type": "politics"
-    },
-    {
         "rating": 0.6787542896875,
         "from": 1949,
         "name": "Horst Ludwig St\u00f6rmer",
@@ -89779,6 +89770,15 @@ dataReady({people:[
         "to": 0,
         "link": "https://en.wikipedia.org/wiki/AnnaSophia_Robb",
         "type": "arts"
+    },
+    {
+        "rating": 0.5,
+        "from": 1949,
+        "name": "Carl Bildt",
+        "country": "Sweden",
+        "to": 0,
+        "link": "https://en.wikipedia.org/wiki/Carl_Bildt",
+        "type": "politics"
     },
     {
         "rating": 0.4999409271875,
