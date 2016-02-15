@@ -8,3 +8,14 @@ Guru Nanak: country=India
 Porus: country=India
 Sonia Gandhi: country=India
 Mother Teresa: country=India
+
+# Ukraine corrections https://github.com/ybogdanov/history-timeline/issues/23
+Vladimir the Great: country=Ukraine
+Olga of Kiev: country=Ukraine
+
+# Wrong country for Immanuel Kant https://github.com/ybogdanov/history-timeline/issues/19
+Immanuel Kant: country=Prussia
+David Hilbert: country=Germany
+
+# https://github.com/ybogdanov/history-timeline/issues/21
+Martti Ahtisaari: country=Finland

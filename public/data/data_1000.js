@@ -354,7 +354,7 @@ dataReady({people:[
         "rating": 0.927756760625,
         "from": 1724,
         "name": "Immanuel Kant",
-        "country": "Russia",
+        "country": "Prussia",
         "to": 1804,
         "link": "https://en.wikipedia.org/wiki/Immanuel_Kant",
         "type": "science"
@@ -7401,7 +7401,7 @@ dataReady({people:[
         "rating": 0.816624650625,
         "from": 1862,
         "name": "David Hilbert",
-        "country": "Russia",
+        "country": "Germany",
         "to": 1943,
         "link": "https://en.wikipedia.org/wiki/David_Hilbert",
         "type": "science"
