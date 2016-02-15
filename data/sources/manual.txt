@@ -19,6 +19,3 @@ David Hilbert: country=Germany
 
 # https://github.com/ybogdanov/history-timeline/issues/21
 Martti Ahtisaari: country=Finland
-
-# https://github.com/ybogdanov/history-timeline/issues/20
-Carl Bildt: rating=0.5
