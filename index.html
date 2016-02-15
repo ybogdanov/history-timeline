@@ -33,14 +33,13 @@
 </head>
 <body class="loading">
   <div id="fb-root"></div>
-
-  <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#version=v2.2&xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=1671578306458332";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
   <div id="container">
     <div id="content">
@@ -53,7 +52,9 @@
 
     <div id="sidebar">
       <div class="header">
+
         <div class="section share">
+
           <div class="share-button fb-share-button" 
             data-href="https://ybogdanov.github.io/history-timeline/" 
             data-layout="button_count">
@@ -63,10 +64,15 @@
             <a href="https://twitter.com/share" class="twitter-share-button" style="display: none" data-url="https://ybogdanov.github.io/history-timeline/" data-text="The history of the world in famous people’s lifespans." data-via="yuriybogdanov">Tweet</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.async=true;js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
           </div>
+
+          <div style="clear: left; padding: 10px 0;">
+            <a class="fb-like-btn" href="https://www.facebook.com/MapOfContemporaries" target="_blank"><strong>Like me</strong> to keep updated!</a>
+          </div>
           
           <div style="clear: left">
-            <a href="https://github.com/ybogdanov/history-timeline/blob/master/README.md">About project &rarr;</a><br />
+            <a class="gh-btn" href="https://github.com/ybogdanov/history-timeline/blob/master/README.md" target="_blank">Read about the project</a>
           </div>
+
         </div>
         <div class="section">
           Showing <span class="display-people-num">...</span> people<br />
