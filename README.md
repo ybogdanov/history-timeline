@@ -4,6 +4,8 @@ The history of the world in famous people’s lifespans. Did you realize that [A
 
 Check it out: [https://ybogdanov.github.io/history-timeline/](https://ybogdanov.github.io/history-timeline/)
 
+To stay updated, [like us on Facebook](https://www.facebook.com/MapOfContemporaries/).
+
 [![Map of Contemporaries](/public/img/readme-image-crop.jpg?raw=true)](https://ybogdanov.github.io/history-timeline/)
 
 It is inspired by Wait But Why's [blog post about Horizontal History](http://waitbutwhy.com/2016/01/horizontal-history.html) — the idea of taking a "horizontal" slice of time and tracing the lifetimes of all the famous people living at that time. It certainly gives you a fresh perspective on some particular era (a feel of that time, so to say), unlike the conventional “vertical” approach of learning who came after whom and what happened after what. I can imagine, how much fun the blog’s author had drawing all of those lifetime rectangles in the [Numbers](http://www.apple.com/mac/numbers/) spreadsheet, but simple graphics have their limitations, and a lot of famous people simply didn’t make “the cut”. I wanted to play with the concept in a bigger scale. The motivation of this project is to make the idea expandable, interactive, and crowd-sourced, by leveraging from the modern software engineering tools and approaches.
