@@ -55891,7 +55891,7 @@ dataReady({people:[
         "from": 1895,
         "name": "Paul Muni",
         "country": "Ukraine",
-        "to": 0,
+        "to": 1967,
         "link": "https://en.wikipedia.org/wiki/Paul_Muni",
         "type": "arts"
     },
