@@ -1,5 +1,6 @@
 Jesus: from=-7 to=33 rating=1 type=religion
 Laozi: from=-550 to=-450
+Paul Muni: to=1967
 
 # Corrections from @robbphoenix see https://github.com/ybogdanov/history-timeline/issues/2
 Akbar: country=India
@@ -19,6 +20,3 @@ David Hilbert: country=Germany
 
 # https://github.com/ybogdanov/history-timeline/issues/21
 Martti Ahtisaari: country=Finland
-
-# https://github.com/ybogdanov/history-timeline/issues/20
-Carl Bildt: rating=0.5
