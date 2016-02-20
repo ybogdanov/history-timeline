@@ -13,6 +13,9 @@ data/wiki.json
 data/redirects_wiki.json
 data/dbpedia_dates.json
 data/wiki_dbpedia_dates.json
+data/redirects_leveldb.json
+data/wikipedia-leveldb
+data/wikipedia-leveldb-p18
 
 data/sources/pantheon.json
 data/sources/wikipedia.xml
