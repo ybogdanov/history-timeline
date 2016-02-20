@@ -4126,7 +4126,7 @@ dataReady({people:[
         "from": 1872,
         "name": "Roald Amundsen",
         "country": "Norway",
-        "to": 0,
+        "to": 1928,
         "link": "https://en.wikipedia.org/wiki/Roald_Amundsen",
         "type": "explorer"
     },
