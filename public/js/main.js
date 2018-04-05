@@ -18,6 +18,7 @@
       colorBy = 'type',
       showPercent = 100,
       displayCountry = false,
+      reverseView = false,
       redraw = function(){},
       redrawTitles = function(){},
 
@@ -78,6 +79,14 @@
     redrawTitles()
   })
 
+  $('input[name=reverse_view]').change(function(){
+    reverseView = this.checked
+    d3.select("#ruler svg").html("")
+    d3.select("#chart").html("")
+    draw()
+    contentEl.scrollLeft(reverseView == true ? d3.select("#ruler svg").attr("width") : 0)
+  })
+
   $('input[name=moreless]').change(function(){
     showPercent = parseInt(this.value, 10)
     redraw()
@@ -131,9 +140,14 @@
         h = maxY * (rowH+1)
 
     var x = d3.scale.linear()
-      .domain([maxYear, minYear])
       .range([0, w])
 
+    if (reverseView == true) {
+        x.domain([minYear, maxYear])
+    } else {
+        x.domain([maxYear, minYear])
+    }
+    
     var x1 = d3.scale.linear()
       .domain([0, totalRange])
       .range([0, w])
@@ -205,7 +219,12 @@
     var bar = chart.selectAll("g")
       .data(data.people)
       .enter().append("g")
-        .attr("transform", function(d) { return translate(x(d.to), y(d.index)) })
+
+    if (reverseView == true) {
+        bar.attr("transform", function(d) { return translate(x(d.from), y(d.index)) })
+    } else {
+        bar.attr("transform", function(d) { return translate(x(d.to), y(d.index)) })
+    }
 
     var rect = bar.append("rect")
       .attr("width", function(d) { return x1(d.to - d.from) })
@@ -305,12 +324,22 @@
         .transition()
         .duration(1000)
         .style("opacity", 1)
-        .attr("transform", function(d) { return translate(x(d.to), y(d.index)) })
+
+      if (reverseView == true) {
+        bar.attr("transform", function(d) { return translate(x(d.from), y(d.index)) })
+      } else {
+        bar.attr("transform", function(d) { return translate(x(d.to), y(d.index)) })
+      }
 
       bar.filter(function(d){ return d.index > -1 })
         .filter(notInViewport)
         .style("opacity", 1)
-        .attr("transform", function(d) { return translate(x(d.to), y(d.index)) })
+
+      if (reverseView == true) {
+        bar.attr("transform", function(d) { return translate(x(d.from), y(d.index)) })
+      } else {
+        bar.attr("transform", function(d) { return translate(x(d.to), y(d.index)) })
+      }
 
       rect
         .filter(inViewport)
