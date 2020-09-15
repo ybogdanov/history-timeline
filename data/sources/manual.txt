@@ -21,3 +21,8 @@ David Hilbert: country=Germany
 
 # https://github.com/ybogdanov/history-timeline/issues/21
 Martti Ahtisaari: country=Finland
+
+# First test contribution, related to: https://github.com/ybogdanov/history-timeline/issues/37
+# Sourced from: https://en.wikipedia.org/wiki/Xenophanes
+# Currently he is mapped to "science" area type, but would like to have opportunity to change to type=philosophy
+Xenophanes: from=-570 to=–475 country=Greece type=science
